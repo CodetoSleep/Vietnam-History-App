@@ -16,12 +16,24 @@ public class Vua extends NhanVatLichSu {
 			String ghiChu, String mieuHieu, String thuyHieu, String nienHieu, String tenHuy, String theThu,
 			String namTriVi) {
 		super(ten, tenKhac, namSinh, namMat, queQuan, thoiKy, ghiChu);
-		this.mieuHieu = mieuHieu;
-		this.thuyHieu = thuyHieu;
-		this.nienHieu = nienHieu;
-		this.tenHuy = tenHuy;
-		this.theThu = theThu;
-		this.namTriVi = namTriVi;
+		this.setMieuHieu(mieuHieu);
+		this.setThuyHieu(thuyHieu);
+		this.setNienHieu(nienHieu);
+		this.setTenHuy(tenHuy);
+		this.setTheThu(theThu);
+		this.setNamTriVi(namTriVi);
+	}
+	
+	public Vua(String ten, String namSinh, String namMat, String queQuan,
+			String ghiChu, String mieuHieu, String thuyHieu, String nienHieu, String tenHuy, String theThu,
+			String namTriVi) {
+		super(ten, namSinh, namMat, queQuan, ghiChu);
+		this.setMieuHieu(mieuHieu);
+		this.setThuyHieu(thuyHieu);
+		this.setNienHieu(nienHieu);
+		this.setTenHuy(tenHuy);
+		this.setTheThu(theThu);
+		this.setNamTriVi(namTriVi);
 	}
 	
 	public Vua() {
@@ -63,6 +75,4 @@ public class Vua extends NhanVatLichSu {
 	public void setNamTriVi(String namTriVi) {
 		this.namTriVi = namTriVi;
 	}
-	 
-	
 }

@@ -14,16 +14,16 @@ public class LeHoi {
 	public LeHoi(String ten, String thoiGian, String diaDiem, String noiDung,
 			ArrayList<NhanVatLichSu> nhanVatLienQuan) {
 		super();
-		this.ten = ten;
-		this.thoiGian = thoiGian;
-		this.diaDiem = diaDiem;
-		this.noiDung = noiDung;
-		this.nhanVatLienQuan = nhanVatLienQuan;
+		this.setTen(ten);
+		this.setThoiGian(thoiGian);
+		this.setDiaDiem(diaDiem);
+		this.setNoiDung(noiDung);
+		this.setNhanVatLienQuan(nhanVatLienQuan);
 	}
 
 	public LeHoi(String ten) {
 		super();
-		this.ten = ten;
+		this.setTen(ten);
 	}
 	
 	public LeHoi() {

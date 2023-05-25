@@ -4,30 +4,39 @@ import java.util.ArrayList;
 
 import model.thoiky.ThoiKy;
 
-public abstract class NhanVatLichSu {
-	protected String ten;
-	protected String tenKhac;
-	protected String namSinh;
-	protected String namMat;
-	protected String queQuan;
-	protected ArrayList<ThoiKy> thoiKy;
-	protected String ghiChu;
+public class NhanVatLichSu {
+	private String ten;
+	private String tenKhac;
+	private String namSinh;
+	private String namMat;
+	private String queQuan;
+	private ArrayList<ThoiKy> thoiKy;
+	private String ghiChu;
 
 	public NhanVatLichSu(String ten, String tenKhac, String namSinh, String namMat, String queQuan,
 			ArrayList<ThoiKy> thoiKy, String ghiChu) {
 		super();
-		this.ten = ten;
-		this.tenKhac = tenKhac;
-		this.namSinh = namSinh;
-		this.namMat = namMat;
-		this.queQuan = queQuan;
-		this.thoiKy = thoiKy;
-		this.ghiChu = ghiChu;
+		this.setTen(ten);
+		this.setTenKhac(tenKhac);
+		this.setNamSinh(namSinh);
+		this.setNamMat(namMat);
+		this.setQueQuan(queQuan);
+		this.setThoiKy(thoiKy);
+		this.setGhiChu(ghiChu);
 	}
 	
 	public NhanVatLichSu(String ten) {
 		super();
-		this.ten = ten;
+		this.setTen(ten);
+	}
+	
+	public NhanVatLichSu(String ten, String namSinh, String namMat, String queQuan, String ghiChu) {
+		super();
+		this.setTen(ten);
+		this.setNamSinh(namSinh);
+		this.setNamMat(namMat);
+		this.setQueQuan(queQuan);
+		this.setGhiChu(ghiChu);
 	}
 
 	public NhanVatLichSu(){

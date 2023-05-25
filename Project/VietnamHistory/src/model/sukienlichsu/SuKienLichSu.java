@@ -6,22 +6,22 @@ import model.nhanvatlichsu.*;
 
 public class SuKienLichSu {
 	
-	protected String ten;
-	protected String thoiGian;
-	protected String diaDiem;
-	protected ThoiKy thoiKy;
-	protected String noiDung;
-	protected ArrayList<NhanVatLichSu> nhanVatLienQuan;
+	private String ten;
+	private String thoiGian;
+	private String diaDiem;
+	private ThoiKy thoiKy;
+	private String noiDung;
+	private ArrayList<NhanVatLichSu> nhanVatLienQuan;
 
 	public SuKienLichSu(String ten, String thoiGian, String diaDiem, ThoiKy thoiKy, String noiDung,
 			ArrayList<NhanVatLichSu> nhanVatLienQuan) {
 		super();
-		this.ten = ten;
-		this.thoiGian = thoiGian;
-		this.diaDiem = diaDiem;
-		this.thoiKy = thoiKy;
-		this.noiDung = noiDung;
-		this.nhanVatLienQuan = nhanVatLienQuan;
+		this.setTen(ten);
+		this.setThoiGian(thoiGian);
+		this.setDiaDiem(diaDiem);
+		this.setThoiKy(thoiKy);
+		this.setNoiDung(noiDung);
+		this.setNhanVatLienQuan(nhanVatLienQuan);
 	}
 	public SuKienLichSu(){
 	}

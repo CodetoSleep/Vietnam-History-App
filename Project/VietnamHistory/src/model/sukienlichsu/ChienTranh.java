@@ -6,18 +6,19 @@ import model.nhanvatlichsu.NhanVatLichSu;
 import model.thoiky.ThoiKy;
 
 public class ChienTranh extends SuKienLichSu {
-       private String ketQua;
-       private String benThuNhat;
-       private String benThuHai;
-       public ChienTranh(){
-    	   
-       }
+	private String ketQua;
+    private String benThuNhat;
+    private String benThuHai;
+       
+    public ChienTranh(){
+    }
+       
 	public ChienTranh(String ten, String thoiGian, String diaDiem, ThoiKy thoiKy, String noiDung,
 			ArrayList<NhanVatLichSu> nhanVatLienQuan, String ketQua, String benThuNhat, String benThuHai) {
 		super(ten, thoiGian, diaDiem, thoiKy, noiDung, nhanVatLienQuan);
-		this.ketQua = ketQua;
-		this.benThuNhat = benThuNhat;
-		this.benThuHai = benThuHai;
+		this.setKetQua(ketQua);
+		this.setBenThuNhat(benThuNhat);
+		this.setBenThuHai(benThuHai);
 	}
 	public String getKetQua() {
 		return ketQua;

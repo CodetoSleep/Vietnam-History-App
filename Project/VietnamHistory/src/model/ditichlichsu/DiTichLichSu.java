@@ -15,17 +15,17 @@ public class DiTichLichSu {
 	public DiTichLichSu(String ten, String diaDiem, String loaiDiTich, String namCongNhan,
 			ArrayList<NhanVatLichSu> nhanVatLienQuan, String ghiChu) {
 		super();
-		this.ten = ten;
-		this.diaDiem = diaDiem;
-		this.loaiDiTich = loaiDiTich;
-		this.namCongNhan = namCongNhan;
-		this.nhanVatLienQuan = nhanVatLienQuan;
-		this.ghiChu = ghiChu;
+		this.setTen(ten);
+		this.setDiaDiem(diaDiem);
+		this.setLoaiDiTich(loaiDiTich);
+		this.setNamCongNhan(namCongNhan);
+		this.setNhanVatLienQuan(nhanVatLienQuan);
+		this.setGhiChu(ghiChu);
 	}
 
 	public DiTichLichSu(String ten) {
 		super();
-		this.ten = ten;
+		this.setTen(ten);
 	}
 	
 	public DiTichLichSu() {

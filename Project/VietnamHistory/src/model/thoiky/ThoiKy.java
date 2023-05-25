@@ -10,24 +10,24 @@ public class ThoiKy {
 	private String nguoiSangLap;
 	private String quocHieu;
 	private String kinhDo;
-	private ArrayList<Vua> cacDoiVua;
+	private ArrayList<Vua> cacDoiVua = new ArrayList<Vua>();
 	private String congTrinh;
 	
 	public ThoiKy(String ten, String thoiGianTonTai, String nguoiSangLap, String quocHieu, String kinhDo,
 			ArrayList<Vua> cacDoiVua, String congTrinh) {
 		super();
-		this.ten = ten;
-		this.thoiGianTonTai = thoiGianTonTai;
-		this.nguoiSangLap = nguoiSangLap;
-		this.quocHieu = quocHieu;
-		this.kinhDo = kinhDo;
-		this.cacDoiVua = cacDoiVua;
-		this.congTrinh = congTrinh;
+		this.setTen(ten);
+		this.setThoiGianTonTai(thoiGianTonTai);
+		this.setNguoiSangLap(nguoiSangLap);
+		this.setQuocHieu(quocHieu);
+		this.setKinhDo(kinhDo);
+		this.setCacDoiVua(cacDoiVua);
+		this.setCongTrinh(congTrinh);
 	}
 
 	public ThoiKy(String ten) {
 		super();
-		this.ten = ten;
+		this.setTen(ten);
 	}
 	
 	public ThoiKy() {
