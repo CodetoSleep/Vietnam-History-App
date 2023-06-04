@@ -35,8 +35,13 @@ public class Vua extends NhanVatLichSu {
 		this.setTheThu(theThu);
 		this.setNamTriVi(namTriVi);
 	}
+
+	public Vua(String ten){
+		super(ten);
+	}
 	
 	public Vua() {
+		super();
 	}
 	
 	public String getMieuHieu() {

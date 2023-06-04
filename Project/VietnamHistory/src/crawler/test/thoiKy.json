@@ -1,0 +1,590 @@
+[
+  {
+    "ten": "HỌ HỒNG BÀNG",
+    "thoiGianTonTai": "2897–258 TCN",
+    "nguoiSangLap": "Kinh Dương Vương",
+    "quocHieu": "VĂN LANG",
+    "kinhDo": "Phong Châu",
+    "cacDoiVua": [
+      {
+        "ten": "Kinh Dương Vương"
+      },
+      {
+        "ten": "Lạc Long Quân"
+      },
+      {
+        "ten": "Hùng Quốc Vương"
+      },
+      {
+        "ten": "Hùng Hiền Vương"
+      },
+      {
+        "ten": "Hùng Lân Vương"
+      },
+      {
+        "ten": "Hùng Diệp vương"
+      },
+      {
+        "ten": "Hùng Hi vương"
+      },
+      {
+        "ten": "Hùng Huy vương"
+      },
+      {
+        "ten": "Hùng Chiêu vương"
+      },
+      {
+        "ten": "Hùng Vĩ vương"
+      },
+      {
+        "ten": "Hùng Định Vương"
+      },
+      {
+        "ten": "Hùng Uy vương"
+      },
+      {
+        "ten": "Hùng Trinh vương"
+      },
+      {
+        "ten": "Hùng Vũ vương"
+      },
+      {
+        "ten": "Hùng Việt vương"
+      },
+      {
+        "ten": "Hùng Anh vương"
+      },
+      {
+        "ten": "Hùng Triêu vương"
+      },
+      {
+        "ten": "Hùng Tạo vương"
+      },
+      {
+        "ten": "Hùng Nghị vương"
+      },
+      {
+        "ten": "Hùng Duệ Vương"
+      }
+    ]
+  },
+  {
+    "ten": "NHÀ THỤC",
+    "thoiGianTonTai": "258–207 TCN",
+    "nguoiSangLap": "An Dương Vương",
+    "quocHieu": "ÂU LẠC",
+    "kinhDo": "Cổ Loa",
+    "cacDoiVua": [
+      {
+        "ten": "An Dương Vương"
+      }
+    ]
+  },
+  {
+    "ten": "NHÀ TRIỆU",
+    "thoiGianTonTai": "207–111 TCN",
+    "nguoiSangLap": "Triệu Vũ Vương",
+    "quocHieu": "Không rõ",
+    "kinhDo": "Phiên Ngung",
+    "cacDoiVua": [
+      {
+        "ten": "Triệu Vũ Vương"
+      },
+      {
+        "ten": "Triệu Văn Vương"
+      },
+      {
+        "ten": "Triệu Minh Vương"
+      },
+      {
+        "ten": "Triệu Ai Vương"
+      },
+      {
+        "ten": "Triệu Dương Vương"
+      }
+    ]
+  },
+  {
+    "ten": "THỜI KỲ ĐẤU TRANH CHỐNG PHONG KIẾN PHƯƠNG BẮC THỐNG TRỊ LẦN THỨ NHẤT",
+    "thoiGianTonTai": "713-723; 779-791",
+    "nguoiSangLap": "Mai Hắc Đế",
+    "quocHieu": "Không rõ",
+    "kinhDo": "Không",
+    "cacDoiVua": [
+      {
+        "ten": "Mai Hắc Đế"
+      },
+      {
+        "ten": "Mai Thiếu Đế"
+      },
+      {
+        "ten": "Bạch Đầu Đế"
+      },
+      {
+        "ten": "Bố Cái Đại Vương"
+      },
+      {
+        "ten": "Phùng An"
+      }
+    ]
+  },
+  {
+    "ten": "TRƯNG NỮ VƯƠNG",
+    "thoiGianTonTai": "40–43",
+    "nguoiSangLap": "Trưng Nữ Vương",
+    "quocHieu": "Không rõ",
+    "kinhDo": "Mê Linh",
+    "cacDoiVua": [
+      {
+        "ten": "Trưng Nữ Vương"
+      }
+    ]
+  },
+  {
+    "ten": "THỜI KỲ ĐẤU TRANH CHỐNG PHONG KIẾN PHƯƠNG BẮC LẦN THỨ HAI",
+    "thoiGianTonTai": "43 - 543",
+    "nguoiSangLap": "Không rõ",
+    "quocHieu": "Không rõ",
+    "kinhDo": "Không",
+    "cacDoiVua": []
+  },
+  {
+    "ten": "NHÀ TIỀN LÝ VÀ NHÀ TRIỆU",
+    "thoiGianTonTai": "544–602",
+    "nguoiSangLap": "Lý Nam Đế",
+    "quocHieu": "VẠN XUÂN",
+    "kinhDo": "Long Biên",
+    "cacDoiVua": [
+      {
+        "ten": "Lý Nam Đế"
+      },
+      {
+        "ten": "Triệu Việt Vương"
+      },
+      {
+        "ten": "Hậu Lý Nam Đế"
+      },
+      {
+        "ten": "Lý Sư Lợi"
+      }
+    ]
+  },
+  {
+    "ten": "THỜI KỲ ĐẤU TRANH CHỐNG PHONG KIẾN PHƯƠNG BẮC LẦN THỨ BA",
+    "thoiGianTonTai": "603 – 939",
+    "nguoiSangLap": "Không rõ",
+    "quocHieu": "Không rõ",
+    "kinhDo": "Không",
+    "cacDoiVua": []
+  },
+  {
+    "ten": "THỜI KỲ XÂY DỰNG NỀN TỰ CHỦ",
+    "thoiGianTonTai": "905–930; 931–938",
+    "nguoiSangLap": "Khúc Tiên Chủ",
+    "quocHieu": "Không rõ",
+    "kinhDo": "Đại La",
+    "cacDoiVua": [
+      {
+        "ten": "Khúc Tiên Chủ"
+      },
+      {
+        "ten": "Khúc Trung Chủ"
+      },
+      {
+        "ten": "Khúc Hậu Chủ"
+      },
+      {
+        "ten": "Dương Đình Nghệ"
+      },
+      {
+        "ten": "Kiều Công Tiễn"
+      }
+    ]
+  },
+  {
+    "ten": "NHÀ NGÔ",
+    "thoiGianTonTai": "938–965",
+    "nguoiSangLap": "Tiền Ngô Vương",
+    "quocHieu": "Không rõ",
+    "kinhDo": "Cổ Loa",
+    "cacDoiVua": [
+      {
+        "ten": "Tiền Ngô Vương"
+      },
+      {
+        "ten": "Dương Bình Vương"
+      },
+      {
+        "ten": "Thiên Sách Vương"
+      },
+      {
+        "ten": "Nam Tấn Vương"
+      },
+      {
+        "ten": "Ngô Sứ Quân"
+      }
+    ]
+  },
+  {
+    "ten": "NHÀ ĐINH",
+    "thoiGianTonTai": "968–980",
+    "nguoiSangLap": "Đinh Tiên Hoàng",
+    "quocHieu": "ĐẠI CỒ VIỆT",
+    "kinhDo": "Hoa Lư",
+    "cacDoiVua": [
+      {
+        "ten": "Đinh Tiên Hoàng"
+      },
+      {
+        "ten": "Đinh Phế Đế"
+      }
+    ]
+  },
+  {
+    "ten": "NHÀ TIỀN LÊ",
+    "thoiGianTonTai": "980–1009",
+    "nguoiSangLap": "Lê Đại Hành",
+    "quocHieu": "Không rõ",
+    "kinhDo": "Hoa Lư",
+    "cacDoiVua": [
+      {
+        "ten": "Lê Đại Hành"
+      },
+      {
+        "ten": "Lê Trung Tông"
+      },
+      {
+        "ten": "Lê Ngoạ Triều"
+      }
+    ]
+  },
+  {
+    "ten": "NHÀ LÝ",
+    "thoiGianTonTai": "1009–1225",
+    "nguoiSangLap": "Lý Thái Tổ",
+    "quocHieu": "ĐẠI CỒ VIỆT (TỪ 1054 ĐỔI QUỐC HIỆU LÀ ĐẠI VIỆT)",
+    "kinhDo": "THĂNG LONG",
+    "cacDoiVua": [
+      {
+        "ten": "Lý Thái Tổ"
+      },
+      {
+        "ten": "Lý Thái Tông"
+      },
+      {
+        "ten": "Lý Thánh Tông"
+      },
+      {
+        "ten": "Lý Nhân Tông"
+      },
+      {
+        "ten": "Lý Thần Tông"
+      },
+      {
+        "ten": "Lý Anh Tông"
+      },
+      {
+        "ten": "Lý Cao Tông"
+      },
+      {
+        "ten": "Lý Huệ Tông"
+      },
+      {
+        "ten": "Lý Chiêu Hoàng"
+      }
+    ]
+  },
+  {
+    "ten": "NHÀ TRẦN",
+    "thoiGianTonTai": "1225–1400",
+    "nguoiSangLap": "Trần Thái Tông",
+    "quocHieu": "ĐẠI VIỆT",
+    "kinhDo": "Thăng Long",
+    "cacDoiVua": [
+      {
+        "ten": "Trần Thái Tông"
+      },
+      {
+        "ten": "Trần Thánh Tông"
+      },
+      {
+        "ten": "Trần Nhân Tông"
+      },
+      {
+        "ten": "Trần Anh Tông"
+      },
+      {
+        "ten": "Trần Minh Tông"
+      },
+      {
+        "ten": "Trần Hiến Tông"
+      },
+      {
+        "ten": "Trần Dụ Tông"
+      },
+      {
+        "ten": "Dương Nhật Lễ"
+      },
+      {
+        "ten": "Trần Nghệ Tông"
+      },
+      {
+        "ten": "Trần Duệ Tông"
+      },
+      {
+        "ten": "Trần Phế Đế"
+      },
+      {
+        "ten": "Trần Thuận Tông"
+      },
+      {
+        "ten": "Trần Thiếu Đế"
+      }
+    ]
+  },
+  {
+    "ten": "NHÀ HỒ",
+    "thoiGianTonTai": "1400–1407",
+    "nguoiSangLap": "Hồ Quý Ly",
+    "quocHieu": "ĐẠI NGU",
+    "kinhDo": "Tây Đô",
+    "cacDoiVua": [
+      {
+        "ten": "Hồ Quý Ly"
+      },
+      {
+        "ten": "Hồ Hán Thương"
+      }
+    ]
+  },
+  {
+    "ten": "NHÀ HẬU TRẦN",
+    "thoiGianTonTai": "1407–1414; 1426–1427",
+    "nguoiSangLap": "Giản Định Đế",
+    "quocHieu": "Không rõ",
+    "kinhDo": "Mô Độ",
+    "cacDoiVua": [
+      {
+        "ten": "Giản Định Đế"
+      },
+      {
+        "ten": "Trùng Quang Đế"
+      }
+    ]
+  },
+  {
+    "ten": "THỜI KỲ ĐẤU TRANH CHỐNG NHÀ MINH ĐÔ HỘ",
+    "thoiGianTonTai": "1414 - 1427",
+    "quocHieu": "Không rõ",
+    "kinhDo": "Mô Độ",
+    "cacDoiVua": []
+  },
+  {
+    "ten": "TRIỀU LÊ SƠ",
+    "thoiGianTonTai": "1428–1527",
+    "nguoiSangLap": "Lê Thái Tổ",
+    "quocHieu": "ĐẠI VIỆT",
+    "kinhDo": "ĐÔNG KINH",
+    "cacDoiVua": [
+      {
+        "ten": "Lê Thái Tổ"
+      },
+      {
+        "ten": "Lê Thái Tông"
+      },
+      {
+        "ten": "Lê Nhân Tông"
+      },
+      {
+        "ten": "Lê Nghi Dân"
+      },
+      {
+        "ten": "Lê Thánh Tông"
+      },
+      {
+        "ten": "Lê Hiến Tông"
+      },
+      {
+        "ten": "Lê Túc Tông"
+      },
+      {
+        "ten": "Lê Uy Mục"
+      },
+      {
+        "ten": "Lê Tương Dực"
+      },
+      {
+        "ten": "Lê Chiêu Tông"
+      },
+      {
+        "ten": "Lê Cung Hoàng"
+      }
+    ]
+  },
+  {
+    "ten": "NHÀ MẠC",
+    "thoiGianTonTai": "1527–1592; 1593–1683",
+    "nguoiSangLap": "Mạc Thái Tổ",
+    "quocHieu": "Không rõ",
+    "kinhDo": "ĐÔNG KINH",
+    "cacDoiVua": [
+      {
+        "ten": "Mạc Thái Tổ"
+      },
+      {
+        "ten": "Mạc Thái Tông"
+      },
+      {
+        "ten": "Mạc Hiến Tông"
+      },
+      {
+        "ten": "Mạc Tuyên Tông"
+      },
+      {
+        "ten": "Mạc Mậu Hợp"
+      },
+      {
+        "ten": "Mạc Toàn"
+      }
+    ]
+  },
+  {
+    "ten": "NHÀ HẬU LÊ",
+    "thoiGianTonTai": "1533–1789",
+    "nguoiSangLap": "Lê Trang Tông",
+    "quocHieu": "Không rõ",
+    "kinhDo": "ĐÔNG KINH",
+    "cacDoiVua": [
+      {
+        "ten": "Lê Trang Tông"
+      },
+      {
+        "ten": "Lê Trung Tông"
+      },
+      {
+        "ten": "Lê Anh Tông"
+      },
+      {
+        "ten": "Lê Thế Tông"
+      },
+      {
+        "ten": "Lê Kính Tông"
+      },
+      {
+        "ten": "Lê Thần Tông"
+      },
+      {
+        "ten": "Lê Chân Tông"
+      },
+      {
+        "ten": "Lê Huyền Tông"
+      },
+      {
+        "ten": "Lê Gia Tông"
+      },
+      {
+        "ten": "Lê Hy Tông"
+      },
+      {
+        "ten": "Lê Dụ Tông"
+      },
+      {
+        "ten": "Lê Duy Phường"
+      },
+      {
+        "ten": "Lê Thuần Tông"
+      },
+      {
+        "ten": "Lê Ý Tông"
+      },
+      {
+        "ten": "Lê Hiển Tông"
+      },
+      {
+        "ten": "Lê Mẫn Đế"
+      }
+    ]
+  },
+  {
+    "ten": "NHÀ TÂY SƠN",
+    "thoiGianTonTai": "1778–1802",
+    "nguoiSangLap": "Thái Đức",
+    "quocHieu": "Không rõ",
+    "kinhDo": "Qui Nhơn",
+    "cacDoiVua": [
+      {
+        "ten": "Thái Đức"
+      },
+      {
+        "ten": "Quang Trung"
+      },
+      {
+        "ten": "Nguyễn Quang Toản"
+      }
+    ]
+  },
+  {
+    "ten": "NHÀ NGUYỄN",
+    "thoiGianTonTai": "1802–1945",
+    "nguoiSangLap": "Gia Long",
+    "quocHieu": "VIỆT NAM (TỪ MINH MẠNG LÀ ĐẠI NAM )",
+    "kinhDo": "Huế",
+    "cacDoiVua": [
+      {
+        "ten": "Gia Long"
+      },
+      {
+        "ten": "Minh Mạng"
+      },
+      {
+        "ten": "Thiệu Trị"
+      },
+      {
+        "ten": "Tự Đức"
+      },
+      {
+        "ten": "Dục Đức"
+      },
+      {
+        "ten": "Hiệp Hoà"
+      },
+      {
+        "ten": "Kiến Phúc"
+      },
+      {
+        "ten": "Hàm Nghi"
+      },
+      {
+        "ten": "Đồng Khánh"
+      },
+      {
+        "ten": "Thành Thái"
+      },
+      {
+        "ten": "Duy Tân"
+      },
+      {
+        "ten": "Khải Định"
+      },
+      {
+        "ten": "Bảo Đại"
+      }
+    ]
+  },
+  {
+    "ten": "VIỆT NAM DÂN CHỦ CỘNG HÒA",
+    "thoiGianTonTai": "1945 - 1976",
+    "nguoiSangLap": "Hồ Chí Minh",
+    "quocHieu": "Không rõ",
+    "kinhDo": "Hà Nội",
+    "cacDoiVua": []
+  },
+  {
+    "ten": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
+    "thoiGianTonTai": "từ 2-7-1976 đến nay",
+    "nguoiSangLap": "Hồ Chí Minh",
+    "quocHieu": "Không rõ",
+    "kinhDo": "Hà Nội",
+    "cacDoiVua": []
+  }
+]
