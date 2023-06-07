@@ -73,7 +73,7 @@ public class ThoiKy1 extends GetData {
 			if(result.equals("VIỆT NAM DÂN CHỦ CỘNG HÒA") || result.equals("CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM")){
 				giaiDoan = e.text().substring(e.text().indexOf("(") + 1,e.text().indexOf(")") );
 				t.setThoiGianTonTai(giaiDoan);
-				t.setNguoiSangLap("Hồ Chí Minh");
+				t.setNguoiSangLap(null);
 			}
 
 			this.thoiKy.add(t);

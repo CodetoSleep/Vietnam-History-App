@@ -2,7 +2,9 @@
   {
     "ten": "HỌ HỒNG BÀNG",
     "thoiGianTonTai": "2897–258 TCN",
-    "nguoiSangLap": "Kinh Dương Vương",
+    "nguoiSangLap": {
+      "ten": "Kinh Dương Vương"
+    },
     "quocHieu": "VĂN LANG",
     "kinhDo": "Phong Châu",
     "cacDoiVua": [
@@ -71,7 +73,9 @@
   {
     "ten": "NHÀ THỤC",
     "thoiGianTonTai": "258–207 TCN",
-    "nguoiSangLap": "An Dương Vương",
+    "nguoiSangLap": {
+      "ten": "An Dương Vương"
+    },
     "quocHieu": "ÂU LẠC",
     "kinhDo": "Cổ Loa",
     "cacDoiVua": [
@@ -83,7 +87,9 @@
   {
     "ten": "NHÀ TRIỆU",
     "thoiGianTonTai": "207–111 TCN",
-    "nguoiSangLap": "Triệu Vũ Vương",
+    "nguoiSangLap": {
+      "ten": "Triệu Vũ Vương"
+    },
     "quocHieu": "Không rõ",
     "kinhDo": "Phiên Ngung",
     "cacDoiVua": [
@@ -107,7 +113,9 @@
   {
     "ten": "THỜI KỲ ĐẤU TRANH CHỐNG PHONG KIẾN PHƯƠNG BẮC THỐNG TRỊ LẦN THỨ NHẤT",
     "thoiGianTonTai": "713-723; 779-791",
-    "nguoiSangLap": "Mai Hắc Đế",
+    "nguoiSangLap": {
+      "ten": "Mai Hắc Đế"
+    },
     "quocHieu": "Không rõ",
     "kinhDo": "Không",
     "cacDoiVua": [
@@ -131,7 +139,9 @@
   {
     "ten": "TRƯNG NỮ VƯƠNG",
     "thoiGianTonTai": "40–43",
-    "nguoiSangLap": "Trưng Nữ Vương",
+    "nguoiSangLap": {
+      "ten": "Trưng Nữ Vương"
+    },
     "quocHieu": "Không rõ",
     "kinhDo": "Mê Linh",
     "cacDoiVua": [
@@ -143,7 +153,6 @@
   {
     "ten": "THỜI KỲ ĐẤU TRANH CHỐNG PHONG KIẾN PHƯƠNG BẮC LẦN THỨ HAI",
     "thoiGianTonTai": "43 - 543",
-    "nguoiSangLap": "Không rõ",
     "quocHieu": "Không rõ",
     "kinhDo": "Không",
     "cacDoiVua": []
@@ -151,7 +160,9 @@
   {
     "ten": "NHÀ TIỀN LÝ VÀ NHÀ TRIỆU",
     "thoiGianTonTai": "544–602",
-    "nguoiSangLap": "Lý Nam Đế",
+    "nguoiSangLap": {
+      "ten": "Lý Nam Đế"
+    },
     "quocHieu": "VẠN XUÂN",
     "kinhDo": "Long Biên",
     "cacDoiVua": [
@@ -172,7 +183,6 @@
   {
     "ten": "THỜI KỲ ĐẤU TRANH CHỐNG PHONG KIẾN PHƯƠNG BẮC LẦN THỨ BA",
     "thoiGianTonTai": "603 – 939",
-    "nguoiSangLap": "Không rõ",
     "quocHieu": "Không rõ",
     "kinhDo": "Không",
     "cacDoiVua": []
@@ -180,7 +190,9 @@
   {
     "ten": "THỜI KỲ XÂY DỰNG NỀN TỰ CHỦ",
     "thoiGianTonTai": "905–930; 931–938",
-    "nguoiSangLap": "Khúc Tiên Chủ",
+    "nguoiSangLap": {
+      "ten": "Khúc Tiên Chủ"
+    },
     "quocHieu": "Không rõ",
     "kinhDo": "Đại La",
     "cacDoiVua": [
@@ -204,7 +216,9 @@
   {
     "ten": "NHÀ NGÔ",
     "thoiGianTonTai": "938–965",
-    "nguoiSangLap": "Tiền Ngô Vương",
+    "nguoiSangLap": {
+      "ten": "Tiền Ngô Vương"
+    },
     "quocHieu": "Không rõ",
     "kinhDo": "Cổ Loa",
     "cacDoiVua": [
@@ -228,7 +242,9 @@
   {
     "ten": "NHÀ ĐINH",
     "thoiGianTonTai": "968–980",
-    "nguoiSangLap": "Đinh Tiên Hoàng",
+    "nguoiSangLap": {
+      "ten": "Đinh Tiên Hoàng"
+    },
     "quocHieu": "ĐẠI CỒ VIỆT",
     "kinhDo": "Hoa Lư",
     "cacDoiVua": [
@@ -243,7 +259,9 @@
   {
     "ten": "NHÀ TIỀN LÊ",
     "thoiGianTonTai": "980–1009",
-    "nguoiSangLap": "Lê Đại Hành",
+    "nguoiSangLap": {
+      "ten": "Lê Đại Hành"
+    },
     "quocHieu": "Không rõ",
     "kinhDo": "Hoa Lư",
     "cacDoiVua": [
@@ -261,7 +279,9 @@
   {
     "ten": "NHÀ LÝ",
     "thoiGianTonTai": "1009–1225",
-    "nguoiSangLap": "Lý Thái Tổ",
+    "nguoiSangLap": {
+      "ten": "Lý Thái Tổ"
+    },
     "quocHieu": "ĐẠI CỒ VIỆT (TỪ 1054 ĐỔI QUỐC HIỆU LÀ ĐẠI VIỆT)",
     "kinhDo": "THĂNG LONG",
     "cacDoiVua": [
@@ -297,7 +317,9 @@
   {
     "ten": "NHÀ TRẦN",
     "thoiGianTonTai": "1225–1400",
-    "nguoiSangLap": "Trần Thái Tông",
+    "nguoiSangLap": {
+      "ten": "Trần Thái Tông"
+    },
     "quocHieu": "ĐẠI VIỆT",
     "kinhDo": "Thăng Long",
     "cacDoiVua": [
@@ -345,7 +367,9 @@
   {
     "ten": "NHÀ HỒ",
     "thoiGianTonTai": "1400–1407",
-    "nguoiSangLap": "Hồ Quý Ly",
+    "nguoiSangLap": {
+      "ten": "Hồ Quý Ly"
+    },
     "quocHieu": "ĐẠI NGU",
     "kinhDo": "Tây Đô",
     "cacDoiVua": [
@@ -360,7 +384,9 @@
   {
     "ten": "NHÀ HẬU TRẦN",
     "thoiGianTonTai": "1407–1414; 1426–1427",
-    "nguoiSangLap": "Giản Định Đế",
+    "nguoiSangLap": {
+      "ten": "Giản Định Đế"
+    },
     "quocHieu": "Không rõ",
     "kinhDo": "Mô Độ",
     "cacDoiVua": [
@@ -382,7 +408,9 @@
   {
     "ten": "TRIỀU LÊ SƠ",
     "thoiGianTonTai": "1428–1527",
-    "nguoiSangLap": "Lê Thái Tổ",
+    "nguoiSangLap": {
+      "ten": "Lê Thái Tổ"
+    },
     "quocHieu": "ĐẠI VIỆT",
     "kinhDo": "ĐÔNG KINH",
     "cacDoiVua": [
@@ -424,7 +452,9 @@
   {
     "ten": "NHÀ MẠC",
     "thoiGianTonTai": "1527–1592; 1593–1683",
-    "nguoiSangLap": "Mạc Thái Tổ",
+    "nguoiSangLap": {
+      "ten": "Mạc Thái Tổ"
+    },
     "quocHieu": "Không rõ",
     "kinhDo": "ĐÔNG KINH",
     "cacDoiVua": [
@@ -451,7 +481,9 @@
   {
     "ten": "NHÀ HẬU LÊ",
     "thoiGianTonTai": "1533–1789",
-    "nguoiSangLap": "Lê Trang Tông",
+    "nguoiSangLap": {
+      "ten": "Lê Trang Tông"
+    },
     "quocHieu": "Không rõ",
     "kinhDo": "ĐÔNG KINH",
     "cacDoiVua": [
@@ -508,7 +540,9 @@
   {
     "ten": "NHÀ TÂY SƠN",
     "thoiGianTonTai": "1778–1802",
-    "nguoiSangLap": "Thái Đức",
+    "nguoiSangLap": {
+      "ten": "Thái Đức"
+    },
     "quocHieu": "Không rõ",
     "kinhDo": "Qui Nhơn",
     "cacDoiVua": [
@@ -526,7 +560,9 @@
   {
     "ten": "NHÀ NGUYỄN",
     "thoiGianTonTai": "1802–1945",
-    "nguoiSangLap": "Gia Long",
+    "nguoiSangLap": {
+      "ten": "Gia Long"
+    },
     "quocHieu": "VIỆT NAM (TỪ MINH MẠNG LÀ ĐẠI NAM )",
     "kinhDo": "Huế",
     "cacDoiVua": [
@@ -574,7 +610,6 @@
   {
     "ten": "VIỆT NAM DÂN CHỦ CỘNG HÒA",
     "thoiGianTonTai": "1945 - 1976",
-    "nguoiSangLap": "Hồ Chí Minh",
     "quocHieu": "Không rõ",
     "kinhDo": "Hà Nội",
     "cacDoiVua": []
@@ -582,7 +617,6 @@
   {
     "ten": "CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM",
     "thoiGianTonTai": "từ 2-7-1976 đến nay",
-    "nguoiSangLap": "Hồ Chí Minh",
     "quocHieu": "Không rõ",
     "kinhDo": "Hà Nội",
     "cacDoiVua": []

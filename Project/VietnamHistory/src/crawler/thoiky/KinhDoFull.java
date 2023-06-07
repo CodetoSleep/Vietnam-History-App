@@ -43,11 +43,11 @@ public class KinhDoFull extends GetData {
                 || this.tenTrieuDai.equals("Nhà Lê trung hưng") || this.tenTrieuDai.equals("Chúa Trịnh")) {
             this.capital = "Đông Kinh";
             //System.out.println(this.tenTrieuDai + "-" + this.capital);
-        } else if (this.tenTrieuDai.equals("Quốc gia Việt Nam") || this.tenTrieuDai.equals("Việt Nam Cộng hòa")) {
-            this.capital = "Sài Gòn";
+        // } else if (this.tenTrieuDai.equals("Quốc gia Việt Nam") || this.tenTrieuDai.equals("Việt Nam Cộng hòa")) {
+        //     this.capital = "Sài Gòn";
             //System.out.println(this.tenTrieuDai + "-" + this.capital);
-        } else if (this.tenTrieuDai.equals("Thời tiền sử")) {
-            this.capital = "Không";
+        // } else if (this.tenTrieuDai.equals("Thời tiền sử")) {
+        //     this.capital = "Không";
             //System.out.println(this.tenTrieuDai + "-" + this.capital);
         } else {
             for (Element e : capitals) {

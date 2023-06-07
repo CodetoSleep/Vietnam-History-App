@@ -112,11 +112,11 @@ public class ThoiKyFull implements IWriteJson, ICombine {
 			}
 			else if(tk.getTen().equals("THỜI KỲ ĐẤU TRANH CHỐNG PHONG KIẾN PHƯƠNG BẮC LẦN THỨ BA")){
 				tk.setThoiGianTonTai("603 – 939");
-				tk.setNguoiSangLap("Không rõ");
+				tk.setNguoiSangLap(null);
 			}
 			else if(tk.getTen().equals("THỜI KỲ ĐẤU TRANH CHỐNG PHONG KIẾN PHƯƠNG BẮC LẦN THỨ HAI")){
 				tk.setThoiGianTonTai("43 - 543");
-				tk.setNguoiSangLap("Không rõ");
+				tk.setNguoiSangLap(null);
 			}
 		}
 	}

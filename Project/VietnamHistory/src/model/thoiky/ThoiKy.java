@@ -7,13 +7,13 @@ import model.nhanvatlichsu.Vua;
 public class ThoiKy {
 	private String ten;
 	private String thoiGianTonTai;
-	private String nguoiSangLap;
+	private Vua nguoiSangLap;
 	private String quocHieu;
 	private String kinhDo;
 	private ArrayList<Vua> cacDoiVua = new ArrayList<Vua>();
 	private String congTrinh;
 	
-	public ThoiKy(String ten, String thoiGianTonTai, String nguoiSangLap, String quocHieu, String kinhDo,
+	public ThoiKy(String ten, String thoiGianTonTai, Vua nguoiSangLap, String quocHieu, String kinhDo,
 			ArrayList<Vua> cacDoiVua, String congTrinh) {
 		super();
 		this.setTen(ten);
@@ -49,11 +49,11 @@ public class ThoiKy {
 		this.thoiGianTonTai = thoiGianTonTai;
 	}
 
-	public String getNguoiSangLap() {
+	public Vua getNguoiSangLap() {
 		return nguoiSangLap;
 	}
 
-	public void setNguoiSangLap(String nguoiSangLap) {
+	public void setNguoiSangLap(Vua nguoiSangLap) {
 		this.nguoiSangLap = nguoiSangLap;
 	}
 
