@@ -9,25 +9,27 @@ public class DiTichLichSu {
 	private String diaDiem;
 	private String loaiDiTich;
 	private String namCongNhan;
+	private String loaiXepHang;
 	private ArrayList<NhanVatLichSu> nhanVatLienQuan;
-	private String ghiChu;
-	
+	private String xepHang;
+
 	public DiTichLichSu(String ten, String diaDiem, String loaiDiTich, String namCongNhan,
-			ArrayList<NhanVatLichSu> nhanVatLienQuan, String ghiChu) {
+						ArrayList<NhanVatLichSu> nhanVatLienQuan, String xepHang, String loaiXepHang) {
 		super();
 		this.setTen(ten);
 		this.setDiaDiem(diaDiem);
 		this.setLoaiDiTich(loaiDiTich);
 		this.setNamCongNhan(namCongNhan);
 		this.setNhanVatLienQuan(nhanVatLienQuan);
-		this.setGhiChu(ghiChu);
+		this.setXepHang(xepHang);
+		this.setLoaiDiTich(loaiXepHang);
 	}
 
 	public DiTichLichSu(String ten) {
 		super();
 		this.setTen(ten);
 	}
-	
+
 	public DiTichLichSu() {
 	}
 
@@ -55,6 +57,14 @@ public class DiTichLichSu {
 		this.loaiDiTich = loaiDiTich;
 	}
 
+	public void setLoaiXepHang(String loaiXepHang) {
+		this.loaiXepHang = loaiXepHang;
+	}
+
+	public String getLoaiXepHang() {
+		return loaiXepHang;
+	}
+
 	public String getNamCongNhan() {
 		return namCongNhan;
 	}
@@ -71,12 +81,12 @@ public class DiTichLichSu {
 		this.nhanVatLienQuan = nhanVatLienQuan;
 	}
 
-	public String getGhiChu() {
-		return ghiChu;
+	public String getXepHang() {
+		return xepHang;
 	}
 
-	public void setGhiChu(String ghiChu) {
-		this.ghiChu = ghiChu;
+	public void setXepHang(String xepHang) {
+		this.xepHang = xepHang;
 	}
-	
+
 }
