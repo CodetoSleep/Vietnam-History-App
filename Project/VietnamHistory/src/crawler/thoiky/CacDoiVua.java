@@ -74,7 +74,7 @@ public class CacDoiVua extends GetData {
 				listVua.add(vua);
 			}
 			data.setCacDoiVua(listVua);
-			data.setNguoiSangLap(listVua.get(0).getTen());
+			data.setNguoiSangLap(listVua.get(0));
 			thoiKy.add(data);
 		}
 	}
