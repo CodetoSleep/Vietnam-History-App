@@ -1,0 +1,2426 @@
+[
+  {
+    "ten": "Văn hóa Soi Nhụ",
+    "thoiGian": "25.000 TCN–7.000 TCN",
+    "diaDiem": "Soi Nhụ",
+    "thoiKy": {
+      "ten": "Thời đại đồ đá cũ",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Ngườm",
+    "thoiGian": "23.000 TCN",
+    "diaDiem": "Ngườm",
+    "thoiKy": {
+      "ten": "Thời đại đồ đá cũ",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Tràng An",
+    "thoiGian": "23.000 TCN–1.000 TCN",
+    "diaDiem": "Tràng An",
+    "thoiKy": {
+      "ten": "Thời đại đồ đá cũ",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Sơn Vi",
+    "thoiGian": "20.000 TCN–12.000 TCN",
+    "diaDiem": "Sơn Vi",
+    "thoiKy": {
+      "ten": "Thời đại đồ đá cũ",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Hòa Bình",
+    "thoiGian": "12.000 TCN–10.000 TCN",
+    "diaDiem": "Hòa Bình",
+    "thoiKy": {
+      "ten": "Thời đại đồ đá mới",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Bắc Sơn",
+    "thoiGian": "10.000 TCN - 8.000 TCN",
+    "diaDiem": "Bắc Sơn",
+    "thoiKy": {
+      "ten": "Thời đại đồ đá mới",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Quỳnh Văn",
+    "thoiGian": "8.000 TCN - 6.000 TCN",
+    "diaDiem": "Quỳnh Văn",
+    "thoiKy": {
+      "ten": "Thời đại đồ đá mới",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Cái Bèo",
+    "thoiGian": "7.000 TCN - 5.000 TCN",
+    "diaDiem": "Cái Bèo",
+    "thoiKy": {
+      "ten": "Thời đại đồ đá mới",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Đa Bút",
+    "thoiGian": "6.000 TCN - 5.000 TCN",
+    "diaDiem": "Đa Bút",
+    "thoiKy": {
+      "ten": "Thời đại đồ đá mới",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Hạ Long",
+    "thoiGian": "3.000 TCN–1.500 TCN",
+    "diaDiem": "Hạ Long",
+    "thoiKy": {
+      "ten": "Thời đại đồ đồng đá",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Phùng Nguyên",
+    "thoiGian": "2.000 TCN–1.500 TCN",
+    "diaDiem": "Phùng Nguyên",
+    "thoiKy": {
+      "ten": "Thời đại đồ đồng đá",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Tiền Sa Huỳnh",
+    "thoiGian": "2.000 TCN–1.000 TCN",
+    "diaDiem": "Tiền Sa Huỳnh",
+    "thoiKy": {
+      "ten": "Thời đại đồ đồng đá",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Đồng Đậu",
+    "thoiGian": "1.500 TCN–1.000 TCN",
+    "diaDiem": "Đồng Đậu",
+    "thoiKy": {
+      "ten": "Thời đại đồ đồng",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Gò Mun",
+    "thoiGian": "1.000 TCN - 600 TCN",
+    "diaDiem": "Gò Mun",
+    "thoiKy": {
+      "ten": "Thời đại đồ đồng",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Sa Huỳnh",
+    "thoiGian": "1.000 TCN - 200 ",
+    "diaDiem": "Sa Huỳnh",
+    "thoiKy": {
+      "ten": "Thời đại đồ sắt",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Đồng Nai",
+    "thoiGian": "1.000 TCN - 0",
+    "diaDiem": "Đồng Nai",
+    "thoiKy": {
+      "ten": "Thời đại đồ sắt",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Đông Sơn",
+    "thoiGian": "700 TCN–100",
+    "diaDiem": "Đông Sơn",
+    "thoiKy": {
+      "ten": "Thời đại đồ sắt",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Văn hóa Óc Eo",
+    "thoiGian": "1 - 630",
+    "diaDiem": "Óc Eo",
+    "thoiKy": {
+      "ten": "Thời đại đồ sắt",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "An Dương Vương Văn Lang Âu Lạc",
+    "thoiGian": "207 TCN",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời sơ sử",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Tần-Việt",
+    "thoiGian": "218 TCN - 207 TCN",
+    "diaDiem": "TầnViệt",
+    "thoiKy": {
+      "ten": "Thời sơ sử",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Triệu Đà Âu Lạc Nam Việt",
+    "thoiGian": "179 TCN",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Hán-Nam Việt",
+    "thoiGian": "111 TCN",
+    "diaDiem": "HánNam Việt",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "nhà Hán Nam Việt",
+    "thoiGian": "111 TCN",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "khởi nghĩa Hai Bà Trưng Trưng Trắc Lĩnh Nam Mê Linh",
+    "thoiGian": "40 ",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Lĩnh Nam - Đông Hán",
+    "thoiGian": "42 - 43 ",
+    "diaDiem": "Lĩnh Nam  Đông Hán",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Đông Hán Lĩnh Nam",
+    "thoiGian": "43 ",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Khởi nghĩa Chu Đạt",
+    "thoiGian": "156–160",
+    "diaDiem": "Chu Đạt",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Khởi nghĩa Lương Long",
+    "thoiGian": "178–181",
+    "diaDiem": "Lương Long",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Khu Liên Nhật Nam Lâm Ấp",
+    "thoiGian": "192",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Tôn Quyền Đông Ngô nhà Hán",
+    "thoiGian": "23 tháng 6 229",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Khởi nghĩa Bà Triệu",
+    "thoiGian": "246 - 248",
+    "diaDiem": "Bà Triệu",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Tấn – Ngô",
+    "thoiGian": "280",
+    "diaDiem": "Tấn – Ngô",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Lưu Dụ Tấn Cung Đế Lưu Tống",
+    "thoiGian": "420",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Đàn Hòa Chi Lâm Ấp",
+    "thoiGian": "436",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Lý Trường Nhân",
+    "thoiGian": "468 - 485",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Tiêu Đạo Thành Lưu Chuẩn Nam Tề",
+    "thoiGian": "479",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Tiêu Diễn Tiêu Bảo Dung nhà Lương",
+    "thoiGian": "502",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "khởi nghĩa Lý Bí",
+    "thoiGian": "541",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Lý Bí Vạn Xuân",
+    "thoiGian": "544",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Tùy–Vạn Xuân",
+    "thoiGian": "602",
+    "diaDiem": "Tùy–Vạn Xuân",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Lý Uyên nhà Đường",
+    "thoiGian": "tháng 3 618",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Lý Uyên Dương Hựu",
+    "thoiGian": "tháng 5 618",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Lý Tự Tiên",
+    "thoiGian": "687",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Mai Hắc Đế",
+    "thoiGian": "713 - 723",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Phùng Hưng",
+    "thoiGian": "776-791",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời Bắc thuộc",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Khúc Thừa Dụ",
+    "thoiGian": "905",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Trận Bạch Đằng Ngô Quyền Nam Hán sông Bạch Đằng",
+    "thoiGian": "938",
+    "diaDiem": "Bạch Đằng Ngô Quyền Nam Hán sông Bạch Đằng",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Ngô Quyền Cổ Loa",
+    "thoiGian": "939",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Loạn 12 sứ quân",
+    "thoiGian": "944 - 968",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Đinh Bộ Lĩnh Đại Cồ Việt Hoa Lư",
+    "thoiGian": "968",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Đinh Bộ Lĩnh Thái Bình hưng bảo",
+    "thoiGian": "970",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Đinh Bộ Lĩnh",
+    "thoiGian": "979",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Lê Hoàn nhà Tiền Lê",
+    "thoiGian": "980",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Tống - Việt",
+    "thoiGian": "tháng 1 - tháng 4 981",
+    "diaDiem": "Tống  Việt",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Lý Công Uẩn nhà Lý",
+    "thoiGian": "21 tháng 11 1009",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Lý Công Uẩn Thăng Long",
+    "thoiGian": "1010",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Lý Thánh Tông Đại Cồ Việt Đại Việt",
+    "thoiGian": "1054",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Việt-Chiêm Đại Việt Chiêm Thành",
+    "thoiGian": "1069",
+    "diaDiem": "ViệtChiêm Đại Việt Chiêm Thành",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Tống-Việt",
+    "thoiGian": "1075–1077",
+    "diaDiem": "TốngViệt",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Trận Như Nguyệt Tống",
+    "thoiGian": "18 tháng 1 – 28 tháng 2 1077",
+    "diaDiem": "Như Nguyệt Tống",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Lý Chiêu Hoàng Trần Cảnh nhà Trần",
+    "thoiGian": "10 tháng 1 1226",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Nguyên Mông–Đại Việt lần 1",
+    "thoiGian": "1258",
+    "diaDiem": "Nguyên Mông–Đại Việt lần 1",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Hội nghị Bình Than",
+    "thoiGian": "1282",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Hội nghị Diên Hồng",
+    "thoiGian": "1284",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Nguyên Mông-Đại Việt lần 2",
+    "thoiGian": "1285",
+    "diaDiem": "Nguyên MôngĐại Việt lần 2",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Nguyên Mông–Đại Việt lần 3",
+    "thoiGian": "1287–1288",
+    "diaDiem": "Nguyên Mông–Đại Việt lần 3",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Thông Bảo hội sao Hồ Quý Ly",
+    "thoiGian": "1396",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Hồ Quý Ly Trần Thuận Tông Tây Đô",
+    "thoiGian": "1397",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Hồ Quý Ly nhà Hồ Đại Ngu",
+    "thoiGian": "22 tháng 3 1400",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Việt-Chiêm",
+    "thoiGian": "1400–1407",
+    "diaDiem": "ViệtChiêm",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Đại Ngu–Đại Minh",
+    "thoiGian": "1406–1407",
+    "diaDiem": "Đại Ngu–Đại Minh",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "nhà Minh Đại Ngu Giao Chỉ Đông Quan",
+    "thoiGian": "1407",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Trần Ngỗi nhà Hậu Trần",
+    "thoiGian": "2 tháng 10 1400",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "nhà Hậu Trần nhà Minh",
+    "thoiGian": "1413",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "khởi nghĩa Lam Sơn",
+    "thoiGian": "1418–1427",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Lê Lợi Đại Việt Đông Kinh",
+    "thoiGian": "29 tháng 4 1428",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Vụ án Lệ Chi viên",
+    "thoiGian": "1442",
+    "diaDiem": "Lệ Chi viên",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chính biến Thiên Hưng Lê Thánh Tông",
+    "thoiGian": "1459–1460",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Việt–Chiêm Chiêm Thành Đại Việt",
+    "thoiGian": "1471",
+    "diaDiem": "Việt–Chiêm Chiêm Thành Đại Việt",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Đại Việt–Lan Xang",
+    "thoiGian": "1478–1480",
+    "diaDiem": "Đại Việt–Lan Xang",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Luật Hồng Đức",
+    "thoiGian": "1483",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Trần Tuân",
+    "thoiGian": "1511–1512",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Trần Cảo",
+    "thoiGian": "1516–1521",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Khủng hoảng cuối nhà Lê sơ",
+    "thoiGian": "1516-1526",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Mạc Đăng Dung Lê Cung Hoàng nhà Mạc",
+    "thoiGian": "1527",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Nguyễn Kim Lê Ninh nhà Lê Vạn Lại",
+    "thoiGian": "1533",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Lê–Mạc",
+    "thoiGian": "1533–1677",
+    "diaDiem": "Lê–Mạc",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Lê trung hưng nhà Mạc",
+    "thoiGian": "1592",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Lê Thế Tông Đông Kinh",
+    "thoiGian": "1597",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Nguyễn Hoàng Thuận Hóa",
+    "thoiGian": "1558",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Trịnh – Nguyễn phân tranh",
+    "thoiGian": "1627–1672",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Lê trung hưng nhà Mạc",
+    "thoiGian": "1683",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "khởi nghĩa Tây Sơn",
+    "thoiGian": "1771",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Bình Nam",
+    "thoiGian": "1774–1775",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Nguyễn Ánh",
+    "thoiGian": "1777",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Nguyễn Nhạc nhà Tây Sơn Quy Nhơn",
+    "thoiGian": "1778",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Rạch Gầm – Xoài Mút",
+    "thoiGian": "19 tháng 1 – 20 tháng 1 1785",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Nguyễn Nhạc",
+    "thoiGian": "1788",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Nguyễn Huệ Phú Xuân",
+    "thoiGian": "22 tháng 12 1785",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Trận Ngọc Hồi – Đống Đa nhà Thanh Hậu Lê",
+    "thoiGian": "1789",
+    "diaDiem": "Ngọc Hồi – Đống Đa nhà Thanh Hậu Lê",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Nguyễn Huệ Nguyễn Quang Toản",
+    "thoiGian": "16 tháng 9 1792",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Nguyễn Ánh Tây Sơn Gia Long nhà Nguyễn Phú Xuân",
+    "thoiGian": "1802",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Nổi dậy Đá Vách",
+    "thoiGian": "1803–1855",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Nguyễn Ánh Việt Nam",
+    "thoiGian": "1804",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Khởi nghĩa Phan Bá Vành",
+    "thoiGian": "1821–1827",
+    "diaDiem": "Phan Bá Vành",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Việt–Xiêm",
+    "thoiGian": "1833–1834",
+    "diaDiem": "Việt–Xiêm",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Việt Nam Chân Lạp Trấn Tây Thành",
+    "thoiGian": "1836",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Minh Mạng",
+    "thoiGian": "15 tháng 2 1839",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Trấn Tây Thành Xiêm Ang Duong Chân Lạp",
+    "thoiGian": "1841",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh Pháp-Đại Nam",
+    "thoiGian": "1858–1884",
+    "diaDiem": "PhápĐại Nam",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Bạo loạn ven biển",
+    "thoiGian": "1861–1865",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chính biến chày vôi",
+    "thoiGian": "1866",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "nhà Nguyễn Nam Kỳ lục tỉnh Pháp",
+    "thoiGian": "1867",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Hòa ước Giáp Thân Chiến tranh Pháp–Đại Nam nhà Nguyễn bảo hộ Pháp",
+    "thoiGian": "6 tháng 6 1884",
+    "diaDiem": "Hòa ước Giáp Thân Pháp–Đại Nam nhà Nguyễn bảo hộ Pháp",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "phong trào Cần Vương",
+    "thoiGian": "1885–1895",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "thực dân Pháp Liên bang Đông Dương Bắc Kỳ Trung Kỳ Nam Kỳ Campuchia Sài Gòn",
+    "thoiGian": "17 tháng 10 1887",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Lào Liên bang Đông Dương",
+    "thoiGian": "3 tháng 10 1893",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Quảng Châu Loan Liên bang Đông Dương",
+    "thoiGian": "12 tháng 4 1898",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Liên bang Đông Dương Hà Nội",
+    "thoiGian": "1902",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "phong trào Duy Tân",
+    "thoiGian": "1906–1908",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "phong trào chống sưu thuế Trung Kỳ",
+    "thoiGian": "1908",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "châu Âu Pháp Chiến tranh thế giới thứ nhất",
+    "thoiGian": "1914–1918",
+    "diaDiem": "châu Âu Pháp thế giới thứ nhất",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "khởi nghĩa Thái Nguyên",
+    "thoiGian": "1917",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Nguyễn Ái Quốc Yêu sách của nhân dân An Nam Hội nghị Hòa bình Versailles",
+    "thoiGian": "18 tháng 6 1919",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Đảng Cộng sản Việt Nam",
+    "thoiGian": "3 tháng 2 1930",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Xô Viết Nghệ Tĩnh",
+    "thoiGian": "1930–1931",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Pháp chiến tranh thế giới thứ hai",
+    "thoiGian": "1939",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Nhật Bản Đông Dương",
+    "thoiGian": "30 tháng 8 1940",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "chính phủ Pháp quân đội Nhật",
+    "thoiGian": "25 tháng 9 1940",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Việt Nam Tuyên truyền Giải phóng quân",
+    "thoiGian": "22 tháng 12 1944",
+    "diaDiem": "Việt Nam Tuyên truyền quân",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "thực dân Pháp",
+    "thoiGian": "tháng 3 1945",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Đế quốc Việt Nam Đế quốc Nhật Bản",
+    "thoiGian": "11 tháng 3 1945",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "cách mạng tháng Tám",
+    "thoiGian": "14 tháng 8 - 30 tháng 8 1945",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Đế quốc Việt Nam",
+    "thoiGian": "23 tháng 8 1945",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Bảo Đại thoái vị",
+    "thoiGian": "30 tháng 8 1945",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Thời phong kiến độc lập",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Hồ Chí Minh Việt Nam Dân chủ Cộng hòa",
+    "thoiGian": "2 tháng 9 1945",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Bình dân học vụ",
+    "thoiGian": "8 tháng 9 1945",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Sài Gòn chiến tranh xâm lược Việt Nam lần 2",
+    "thoiGian": "23 tháng 9 1945",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Trần Văn Giàu Nam Bộ kháng chiến",
+    "thoiGian": "23 tháng 9 1945",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Tổng tuyển cử Quốc hội đầu tiên",
+    "thoiGian": "6 tháng 1 1946",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Pháp Cộng hòa Tự trị Nam Kỳ Liên hiệp Pháp Sài Gòn",
+    "thoiGian": "26 tháng 3 1946",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Tạm ước Việt - Pháp",
+    "thoiGian": "14 tháng 9 1946",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Hồ Chí Minh Toàn quốc kháng chiến",
+    "thoiGian": "19 tháng 12 1946",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến dịch Việt Bắc Thu - Đông 1947",
+    "thoiGian": "7 tháng 10 - 22 tháng 12 1947",
+    "diaDiem": "Việt Bắc Thu  Đông 1947",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Pháp Quốc gia Việt Nam Bảo Đại Sài Gòn",
+    "thoiGian": "14 tháng 6 1949",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Mỹ Việt Nam",
+    "thoiGian": "8 tháng 5 1950",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến dịch Biên giới",
+    "thoiGian": "16 tháng 9–17 tháng 10 1950",
+    "diaDiem": "Biên giới",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến dịch Điện Biên Phủ",
+    "thoiGian": "13 tháng 3 - 7 tháng 5 1954",
+    "diaDiem": "Điện Biên Phủ",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Hiệp định Genève",
+    "thoiGian": "20 tháng 7 1954",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Giải phóng Thủ đô",
+    "thoiGian": "10 tháng 10 1954",
+    "diaDiem": "Thủ đô",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Ngô Đình Diệm Bảo Đại Tổng thống Việt Nam Cộng hòa",
+    "thoiGian": "1955",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Đồng khởi",
+    "thoiGian": "1959–1960",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Mặt trận Dân tộc Giải phóng miền Nam Việt Nam",
+    "thoiGian": "20 tháng 12 1960",
+    "diaDiem": "Mặt trận Dân tộc miền Nam Việt Nam",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Quân Giải phóng miền Nam Việt Nam",
+    "thoiGian": "15 tháng 12 1961",
+    "diaDiem": "Quân miền Nam Việt Nam",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh đặc biệt",
+    "thoiGian": "1961–1965",
+    "diaDiem": "đặc biệt",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Ngô Đình Diệm",
+    "thoiGian": "1963",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Mỹ miền Nam Việt Nam",
+    "thoiGian": "8 tháng 3 1965",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến tranh cục bộ",
+    "thoiGian": "1965–1968",
+    "diaDiem": "cục bộ",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Việt Nam hóa chiến tranh",
+    "thoiGian": "1968–1973",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Cộng hòa Miền Nam Việt Nam Tây Ninh",
+    "thoiGian": "8 tháng 6 1969",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Hồ Chí Minh",
+    "thoiGian": "2 tháng 9 1969",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến dịch Điện Biên Phủ trên không",
+    "thoiGian": "18 tháng 12 - 30 tháng 12 1972",
+    "diaDiem": "Điện Biên Phủ trên không",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Hiệp định Paris Việt Nam",
+    "thoiGian": "27 tháng 1 1973",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Chiến dịch Hồ Chí Minh",
+    "thoiGian": "26 tháng 4 - 2 tháng 5 1975",
+    "diaDiem": "Hồ Chí Minh",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Việt Nam Cộng hòa Cộng hòa Miền Nam Việt Nam",
+    "thoiGian": "30 tháng 4 1975",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Việt Nam Dân chủ Cộng hòa",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+    "thoiGian": "2 tháng 7 1976",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Liên Hợp Quốc",
+    "thoiGian": "20 tháng 9 1977",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "chiến tranh biên giới Tây Nam",
+    "thoiGian": "1975–1979",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "chiến tranh biên giới phía Bắc",
+    "thoiGian": "1979",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Đổi Mới",
+    "thoiGian": "1986",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "bình thường hóa quan hệ với Trung Quốc",
+    "thoiGian": "7 tháng 11 1991",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "bình thường hóa quan hệ với Mỹ",
+    "thoiGian": "11 tháng 7 1995",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "ASEAN",
+    "thoiGian": "28 tháng 7 1995",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "APEC",
+    "thoiGian": "14 tháng 11 1998",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "WTO",
+    "thoiGian": "11 tháng 1 2007",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Đại dịch COVID-19",
+    "thoiGian": "2020–2022",
+    "diaDiem": "",
+    "thoiKy": {
+      "ten": "Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "cacDoiVua": []
+    }
+  },
+  {
+    "ten": "Đông Kinh Nghĩa Thục ",
+    "thoiGian": "1907 – 1907",
+    "noiDung": "Đông Kinh Nghĩa Thục lập ra từ tháng 3 năm 1907 do Lương Văn Can làm Thục trưởng và chấm dứt vào tháng 11 năm 1907) là một phong trào nhằm thực hiện cải cách xã hội Việt Nam vào đầu thế kỷ 20 trong thời Pháp thuộc. Mục đích của phong trào là: khai trí cho dân, phương tiện được hoạch định: mở những lớp dạy học không lấy tiền (để đúng với cái tên là nghĩa thục) và tổ chức những cuộc diễn thuyết để trao đổi tư tưởng cùng cổ động trong dân chúng."
+  },
+  {
+    "ten": "Pháp đánh thành Bắc Ninh ",
+    "thoiGian": "1884 – 1884",
+    "noiDung": "Trận Pháp đánh thành Bắc Ninh là một phần của cuộc chiến tranh Pháp-Việt 1858-1884 . Quân đội Pháp tổ chức tấn công nhằm hoàn thành gấp công cuộc thống trị và bảo hộ Việt Nam của chính phủ Pháp."
+  },
+  {
+    "ten": "Thực dân Pháp mở đầu cuộc xâm lược Việt Nam ",
+    "thoiGian": "1858 ",
+    "noiDung": "Từ giữa thế kỉ XIX, các nước tư bản phương tây đẩy mạnh việc xâm chiếm các nước phương đông. Sau nhiều lần khiêu khích, lấy cớ bảo vệ đạo Gia Tô, Pháp đem quân xâm lược Việt Nam."
+  },
+  {
+    "ten": "Chi tiết Ủy ban khởi nghĩa toàn quốc ra “Quân lệnh số 1” phát lệnh khởi nghĩa ",
+    "thoiGian": "1945",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Chi tiết Hồ Chí Minh bị chính quyền Tưởng Giới Thạch bắt giữ Tác phẩm “Nhật kí trong tù ra đời” ",
+    "thoiGian": "1942 ",
+    "noiDung": "Ngày 13-8-1942, mang tên gọi mới là Hồ Chí Minh, Nguyễn Ái Quốc dời Cao Bằng sang Trung Quốc, với danh nghĩa là đại biểu Việt Nam độc lập đồng minh và Phân bộ Quốc tế phản xâm lược của Việt Nam để tranh thủ sự viện trợ quốc tế. Ngày 29-8, bị nhà cầm quyền địa phương của Tưởng Giới Thạch bắt giữ tại thị trấn Túc Vinh (thuộc huyện Tĩnh Tây, Quảng Tây, Trung Quốc), Người bị giam giữ, đối xử tàn tệ suốt 13 tháng, bị giải qua hơn 30 nhà tù, thuộc 13 huyện của tỉnh Quảng Tây (như Thiên Bảo, Điền Đông, Quảng Đức…)."
+  },
+  {
+    "ten": "Chi tiết Khởi nghĩa Lý Bí bùng nổ ",
+    "thoiGian": "542",
+    "noiDung": "Đầu thế kỉ VI, nhà Lương đô hộ Giao Châu. Thứ sử Giao Châu là Tiêu Tư đã đặt ra hàng trăm thứ thuế làm cho nhân dân hết sức cơ cực, lầm than. Lý Bí nhân lòng oán giận của dân, đã liên kết với hào kiệt các châu thuộc miền đất nước ta cùng nổi dậy chống Lương. Triệu Túc là thủ lĩnh đất Chu Diên, Phạm Tu là một tướng tài người làng Thanh Liệt (Thanh Trì, Hà Nội) đã sớm đến với cuộc khởi nghĩa. Tháng giêng năm 542, cuộc khởi nghĩa toàn dân do Lý Bí lãnh đạo đã bùng nổ."
+  },
+  {
+    "ten": "Chiến thắng Đèo Nhông – Dương Liễu ",
+    "thoiGian": "1965 ",
+    "noiDung": "Trận đánh diễn ra tại khu vực Đèo Nhông – Dương Liễu vào giai đoạn của Chiến tranh đặc biệt (1965), khi đế quốc Mỹ đổ quân viễn chinh và chư hầu can dự trực tiếp vào chiến trường miền Nam Việt Nam. Vào ngày mồng 5 tháng Giêng, tại khu vực Đèo Nhông – Dương Liễu, Trung đoàn 2 bộ đội chủ lực Quân khu 5 phối hợp với bộ đội địa phương, dân quân du kích huyện Phù Mỹ đã phục kích tiêu diệt 2 tiểu đoàn bộ binh của Việt Nam Cộng hòa, một chiến đoàn xe bọc thép, thu nhiều vũ khí và phương tiện quân sự."
+  },
+  {
+    "ten": "Chi tiết Chiến dịch Nguyễn Huệ ",
+    "thoiGian": "1972 – 1973",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Chiến dịch Đường 14-Phước Long ",
+    "thoiGian": "1974 – 1975",
+    "noiDung": "Chiến dịch đường 14-Phước Long là trận đụng độ quân sự lớn giữa Quân đội Nhân dân Việt Nam và Quân lực Việt Nam Cộng hòa diễn ra trên địa bàn tỉnh Phước Long trong chiến tranh Việt Nam, kết quả là QĐNDVN chiến thắng và chiếm được Phước Long. Trận Phước Long (từ đêm 13.12.1974 đến ngày 6. 1.1975) có ý nghĩa như một trận đánh trinh sát chiến lược, thử sức đối với hai bên cũng như thăm dò phản ứng của quốc tế, nhất là của Hoa Kỳ để mở đầu cho những diễn biến tiếp theo của Chiến dịch Mùa Xuân 1975 đưa đến sự sụp đổ của Quân lực Việt Nam Cộng hòa và chính quyền Việt Nam Cộng hòa."
+  },
+  {
+    "ten": "Chiến tranh Tống – Việt ",
+    "thoiGian": "1075 – 1077",
+    "noiDung": "Chiến tranh Tống – Việt, 1075-1077 là tên gọi cuộc chiến tranh giữa nhà Lý nước Đại Việt và nhà Tống của Trung Quốc vào cuối thế kỷ 11. Giai đoạn đầu, tướng nhà Lý là Lý Thường Kiệt đã chủ động đánh sang đất Tống trong chiến dịch 1075-1076; Giai đoạn sau, quân Lý rút về phòng thủ chống lại cuộc nam tiến của đại quân Tống trong năm 1076-1077 và cuối cùng đẩy lui được quân Tống ra khỏi lãnh thổ Đại Việt."
+  },
+  {
+    "ten": "Việt Nam Quốc dân đảng ra đời ",
+    "thoiGian": "1927 ",
+    "noiDung": "Việt Nam Quốc dân Đảng – được gọi tắt là Việt Quốc – là một chính đảng được thành lập năm 1927 tại Hà Nội. Sau năm 1975, do biến động chính trị, tổ chức này hầu như chỉ hoạt động bên ngoài lãnh thổ Việt Nam."
+  },
+  {
+    "ten": "Chi tiết Cuộc nổi dậy chống nhà Nguyễn ở Ba Xuyên ",
+    "thoiGian": "1841 – 1842",
+    "noiDung": "Bất bình với chính sách “đồn điền” của triều Nguyễn, vì nó đã tạo ra cơ hội cho quan lại cùng địa chủ đổ xô đến Ba Xuyên, Lạc Hóa…chiếm đoạt ruộng đất. Bên cạnh đó, chủ trương nhằm thay đổi phong tục tập quán cùng việc cải cách tổ chức nông thôn của tộc người Khmer ở Nam Bộ, khiến họ mất quyền tự trị càng gây thêm căm phẫn. Bực dọc âm ỉ cho đến đầu năm 1841, thì tộc người Khmer ở Ba Xuyên (phủ Ba Xuyên thời bấy giờ ngày nay là tỉnh Sóc Trăng) nổi dậy chống đối triều đình. Cuộc nổi dậy Ba Xuyên do hai thủ lĩnh là Sơn Tốt và Trần Lâm cùng chỉ huy, khởi phát từ tháng 3 năm Tân Sửu (1841) đến khoảng đầu năm sau (1842) thì bị đánh tan. Thời điểm này, vua Thiệu Trị trị vì."
+  },
+  {
+    "ten": "Chi tiết Chiến dịch tiến công Đường 9-Khe Sanh ",
+    "thoiGian": "1968 – 1968",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Chi tiết Ban hành Quốc triều hình luật ",
+    "thoiGian": "1230 ",
+    "noiDung": "Năm 1230, Trần Thái Tông ban hành bộ Quốc triều thông chế gồm 20 quyển, quy định về tổ chức chính quyền. Sau đó qua vài lần sửa chữa bổ sung lại ban hành bộ Quốc triều hình luật. Bộ luật này là do Nguyễn Trung Ngạn và Trương Hán Siêu biên soạn. Nhà Trần đặt cơ quan thẩm hình viện để xét xử việc kiện cáo. Vua Trần để chuông lớn ở thềm điện Long Trì cho dân đền kêu oan khi cần. Sự tách biệt giữa vua, quan và dân chúng chưa thực sự sâu sắc."
+  },
+  {
+    "ten": "Chi tiết Lê Hoàn đánh bại quân Tống ",
+    "thoiGian": "981",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Nguyễn Ái Quốc tham dự Đại hội lần thứ 18 của Đảng Xã hội Pháp ",
+    "thoiGian": "1920 – 1920",
+    "noiDung": "Nguyễn Ái Quốc tham gia Đại hội đại biểu toàn quốc lần thứ XVIII Đảng Xã hội Pháp với tư cách là đại biểu Đông Dương. Đại hội khai mạc lúc 10 giờ 35 phút ngày 25-12-1920 tại phòng họp lớn của nhà Mane ở thành phố Tua (Tours), cách Pari 237km. Lần đầu tiên có một người Việt Nam tham gia một đại hội đại biểu của một chính đảng Pháp. Nguyễn Ái Quốc cũng là người bản xứ duy nhất trong số đại biểu các thuộc địa có mặt trong đại hội."
+  },
+  {
+    "ten": "Hồ Quý Ly lật đổ nhà Trần, lập nhà Hồ ",
+    "thoiGian": "1400 ",
+    "noiDung": "Nhà Trần, sau biến cố Dương Nhật Lễ, cái chết của Trần Duệ Tông và sự cướp phá của Chiêm Thành, ngày càng suy sụp. Thời hậu kỳ nhà Trần, mọi việc chính sự do thượng hoàng Trần Nghệ Tông quyết định. Trần Nghệ Tông lại rất trọng dụng Hồ Quý Ly nên lúc về già thường uỷ thác mọi việc cho Quý Ly quyết định. Hồ Quý Ly đã thực hiện nhiều cuộc cải cách khá toàn diện để đưa đất nước ta thoát khỏi tình trạng khủng khoảng. Sau khi Trần Nghệ Tông mất, Hồ Quý Ly được phong làm Phụ chính Thái Sư nhiếp chính, tước trung tuyên Vệ quốc Đại vương, nắm trọn quyền hành trong nước. Sau khi bức vua Trần dời đô từ Thăng Long vào Thanh Hoá và giết hàng loạt quần thần trung thành với nhà Trần, tháng 2 năm Canh Thìn 1400, Hồ Quý Ly truất ngôi của cháu ngoại là Trần Thiếu Đế, tự lên làm vua lấy quốc hiệu là Đại Ngu, lập nên nhà Hồ."
+  },
+  {
+    "ten": "Chi tiết Khởi nghĩa Mai Thúc Loan ",
+    "thoiGian": "713 ",
+    "noiDung": "Khoảng cuối những năm 10 của thế kỉ VIII, Mai Thúc Loan kêu gọi những người dân phu đã cùng ông phải đi gánh vải quả nộp cống cho chính quyền nhà Đường nổi dậy khởi nghĩa. Được nhân dân khắp vùng Thanh, Nghệ Tĩnh hưởng ứng, nghĩa quân trở nên đông đảo, mạnh mẽ."
+  },
+  {
+    "ten": "Phong trào Cần Vương ",
+    "thoiGian": "1885 – 1896",
+    "noiDung": "Khi cuộc phản công quân Pháp thất bại, Tôn Thất Thuyết phải đưa vua chạy ra Tân Sở (Quảng Trị), Tại đây, ngày 13 tháng 07 năm 1885, ông nhân danh vua Hàm Nghi ra Chiếu Cần Vương”, kêu gọi văn thân và nhân dân đứng lên giúp vua Hàm Nghi cứu nước. Từ đó, một phong trào yêu nước chống xâm lược đã dâng lên sôi nổi, kéo dài đến cuối thế kỉ XIX, được gọi là phong trào Cân Vương."
+  },
+  {
+    "ten": "Trận Cửa Việt 1973",
+    "thoiGian": "",
+    "noiDung": "Trận Cửa Việt diễn ra từ ngày 25.1 đến ngày 31.1.1973, khi Quân lực Việt Nam Cộng hòa (QLVNCH) thực hiện nỗ lực tái chiếm Cảng Cửa Việt từ tay Quân đội Nhân dân Việt Nam (QĐNDVN) ngay trước khi việc ngừng bắn theo Hiệp định Paris chính thức có hiệu lực, cũng như cuộc phản công của QĐNDVN nhằm đánh bật đối phương diễn ra ngay sau đó. Kết quả là QĐNDVN tiếp tục chiếm giữ Cảng Cửa Việt, buộc QLVNCH phải rút lui sau khi chiếm được cảng trong một thời gian ngắn."
+  },
+  {
+    "ten": "Quân Lam Sơn giải phóng Tân Bình, Thuận Hóa và tiến quân ra bắc ",
+    "thoiGian": "1425 – 1426",
+    "noiDung": "Sau khi giải phóng Nghệ An, tháng 8-1425, các tướng Trần Nguyên Hãn, Lê Ngân… được lệnh chỉ huy một lực lượng mạnh từ Nghệ An tiến vào Tân Bình (Quảng Bình, Bắc Quảng Trị) và Thuận Hóa (Thừa Thiên – Huế). Nghĩa quân nhanh chóng đập tan sức kháng cự của quân giặc, giải phóng Tân Bình, Thuận Hóa."
+  },
+  {
+    "ten": "Quang Trung đột ngột qua đời ",
+    "thoiGian": "1792 ",
+    "noiDung": "Sau khi tiêu diệt chính quyền chúa Nguyễn, chúa Trịnh và đập tan 29 vạn quân Thanh. Vua Quang Trung đã thực hiện nhiều cuộc cải cách về kinh tế, chính trị, xã hội và lên kế hoạch nam tiến. Tuy nhiên ngày 29 tháng 7 năm Nhâm Tý (16 tháng 9 năm 1792), vào khoảng 11-12 giờ đêm, Quang Trung Nguyễn Huệ qua đời, ở ngôi được 4 năm, hưởng thọ 40 tuổi, miếu hiệu là Thái Tổ Vũ hoàng đế"
+  },
+  {
+    "ten": "Khoảng 2 vạn 1 nghìn năm trước: Có văn hóa Sơn Vi ",
+    "thoiGian": "-21000 ",
+    "noiDung": "Có văn hóa hậu kỳ đá cũ được gọi là Văn hóa Sơn Vi (địa danh phát hiện đầu tiên thuộc xã Sơn Vi, huyện Lâm Thao, tỉnh Phú Thọ, năm 1968). Những di tích thuộc văn hóa Sơn Vi được phát hiện trên một diện rộng từ Lào Cai phía Bắc đến Nghệ An, Hà Tĩnh, Quảng Trị, Lâm Đồng ở phía Nam; từ Sơn La ở phía Tây đến vùng sông Lục Nam ở phía đông."
+  },
+  {
+    "ten": "Chi tiết Chiến dịch Trị – Thiên ",
+    "thoiGian": "1972 – 1972",
+    "noiDung": "Chiến dịch Trị – Thiên diễn ra từ ngày 30.3 đến 27.6.1972, là chiến dịch tiến công của Quân giải phóng miền Nam Việt Nam (QGPMNVN) vào tuyến phòng thủ kiên cố của quân Việt Nam cộng hòa (VNCH)tại 2 tỉnh Quảng Trị, Thừa Thiên nhằm tiêu diệt bộ phận lớn quân VNCH ở hướng chủ yếu của cuộc tiến công chiến lược năm 1972."
+  },
+  {
+    "ten": "Chi tiết Thảm sát Gò Dài ",
+    "thoiGian": "1966 ",
+    "noiDung": "Thảm sát Gò Dài 26.2.1966 hay còn gọi là Thảm sát Bình An (xã Bình An cũ) nay là thôn Gò Dài, xã Tây Vinh, huyện Tây Sơn, tỉnh Bình Định."
+  },
+  {
+    "ten": "Khởi nghĩa Phan Bá Vành ",
+    "thoiGian": "1821 – 1827",
+    "noiDung": "Khởi nghĩa Phan Bá Vành là cuộc khởi nghĩa nông dân ở Sơn Nam Hạ thời vua Minh Mạng, nhà Nguyễn nhằm chống lại đường lối cai trị của nhà Nguyễn ở nửa đầu thế kỷ 19 trong lịch sử Việt Nam. Vào thời vua Minh Mạng, ruộng đất tư tập trung gần 90%, trong một số đất trong tay địa chủ lớn có từ 5 đến 50 mẫu /điền chủ. Đại đa số nông dân nghèo không có ruộng đất, và cũng không có, hoặc có rất ít công điền quân cấp, lại bị tai họa bão lũ, đói kém triền miên, dẫn đến tình cảnh làng xã tiêu điều, dân nghèo tha phương cầu thực. Chế độ thống trị chuyên chế nặng nề. Bất mãn vì đường lối cai trị của nhà Nguyễn, khoảng năm 1821, Phan Bá Vành tập hợp dân nghèo khổ vùng Nam Định, Thái Bình (tức vùng Sơn Nam Hạ cũ) nổi dậy chống triều đình nhà Nguyễn."
+  },
+  {
+    "ten": "Khởi nghĩa Ba Đình ",
+    "thoiGian": "1886 – 1887",
+    "noiDung": "Khởi nghĩa Ba Đình là một trong các cuộc khởi nghĩa của phong trào Cần Vương cuối thế kỷ 19 của nhân dân Việt Nam chống lại ách đô hộ của thực dân Pháp, diễn ra vào năm 1886-1887 tại Ba Đình, huyện Nga Sơn, tỉnh Thanh Hóa. Khởi nghĩa Ba Đình nổ ra dưới sự chỉ huy chính của Đinh Công Tráng, Phạm Bành và một số tướng lĩnh khác."
+  },
+  {
+    "ten": "Hiệp ước Quý Mùi  ",
+    "thoiGian": "Hiệp ước Harmand1883 ",
+    "noiDung": "Hiệp ước Quý Mùi hay còn gọi là Hiệp ước Harmand được ký kết vào ngày 25 tháng 8 năm 1883 tại kinh đô Huế giữa đại diện của Pháp là Harmand – Tổng ủy, đại diện ngoại giao cho nước Cộng hòa Pháp và đại điện của triều Nguyễn là Trần Đình Túc – Hiệp biện Đại học sĩ (Trưởng đoàn), Nguyễn Trọng Hợp – Thượng thư bộ lại (Phó đoàn). Hiệp ước có tất cả 27 điều khoản với nội dung chính là xác lập quyền bảo hộ lâu dài của Pháp trên toàn bộ Việt Nam. Hiệp ước này chính thức đánh dấu thời kỳ, 1883-1945, toàn bộ Việt Nam trở thành thuộc địa của Thực dân Pháp (thời Pháp thuộc)."
+  },
+  {
+    "ten": "Trận Hàm Tử ",
+    "thoiGian": "1285 ",
+    "noiDung": "Trận Hàm Tử là trận quyết chiến giữa quân nhà Trần do Trần Quốc Tuấn, Trần Quang Khải chỉ huy và quân Nguyên do Toa Đô chỉ huy trong cuộc Kháng chiến chống Nguyên năm1285. Trận Hàm Tử diễn ra trên đoạn Sông Hồng từ ngã ba Sông Luộc đến Thăng Long mà điểm quyết chiến là khu vực từ Tây Kết đến Hàm Tử, Chương Dương. Trận Hàm Tử diễn ra nhằm phá tan tuyến phòng thủ của quân Nguyên trên Sông Hồng, cắt đứt đường hội quân của Thoát Hoan (đóng ở Thăng Long – trên bờ bắc Sông Hồng) và quân Toa Đô từ Nghệ An về Thăng Long theo đường thuỷ dọc Sông Hồng."
+  },
+  {
+    "ten": "Chi tiết Chiến tranh Việt Chiêm 1400-1407",
+    "thoiGian": "",
+    "noiDung": "Từ cuối thế kỷ 14, Chiêm Thành dưới thời Chế Bồng Nga đã nhiều lần tấn công Đại Việt khiến nhà Trần phải bỏ kinh thành Thăng Long. Khi Chế Bồng Nga tử trận năm 1390, những cuộc tấn công từ phía nam mới lắng xuống. Các con Chế Bồng Nga là Chế Ma Nô Đà Nan và Chế Sơn Na bị tướng La Ngai giành ngôi, yếu thế phải chạy sang đầu hàng Đại Việt. Sau khi Hồ Quý Ly lên ngôi, lập ra nước Đại Ngu, nhà Hồ đã chủ trương đánh Chiêm Thành để mở rộng đất đai về phía nam."
+  },
+  {
+    "ten": "Dương Tam Kha cướp ngôi Ngô Xương Ngập ",
+    "thoiGian": "943 ",
+    "noiDung": "Năm 944, Ngô Quyền mất, uỷ thác con trưởng là Ngô Xương Ngập cho ông. Dương Tam Kha cướp ngôi cháu, tự lập mình làm vua, xưng Dương Bình Vương."
+  },
+  {
+    "ten": "Hiệp ước Nhâm Tuất ",
+    "thoiGian": "1862 ",
+    "noiDung": "Hiệp ước Nhâm Tuất được ký ngày 5 tháng 6 năm 1862 tại Sài Gòn giữa đại diện triều Nguyễn (thời vua Tự Đức) là chánh sứ Phan Thanh Giản và phó sứ Lâm Duy Hiệp với đại diện của Pháp là thiếu tướng Bonard và đại diện của Tây Ban Nha là đại tá Don Carlos Palanca Guttiere."
+  },
+  {
+    "ten": "Chi tiết Lê Hoàn lên ngôi, lập nhà Tiền Lê, đóng đô ở Hoa Lư ",
+    "thoiGian": "980 – 1009",
+    "noiDung": "Sau khi Đinh Tiên Hoàng và con là Đinh Liễn bị ám hại, Vệ Vương Toàn lên làm vua, Lê Hoàn làm phụ chính, xưng là Phó Vương. Triều thần sợ Lê Hoàn cướp ngôi vua nhỏ, Định Quốc Công Nguyễn Bặc và ngoại giáp Đinh Điền dẫn quân về kinh đô định giết Lê Hoàn, thua trận bị Lê Hoàn giết. Năm 980, quân Tống nhân cơ hội đem quân sang muốn cướp nước, triều thần và thái hậu Dương Vân Nga đưa Lê Hoàn lên làm vua (vua Lê Đại Hành) lập ra nhà Tiền Lê, đổi niên hiệu là Thiên Phúc, đóng đô ở Hoa Lư. Nhà Tiền Lê trải qua ba đời vua và chấm dứt khi Lê Ngọa Triều qua đời, hoàng tử kế vị đang còn nhỏ tuổi và được kế tục bởi nhà Lý."
+  },
+  {
+    "ten": "Phong trào “Đón Gôđa” ",
+    "thoiGian": "1937 ",
+    "noiDung": "Trước phong trào đấu tranh mạnh mẽ của nhân dân Việt Nam và nhân dân Pháp, Chính phủ Mặt trận Nhân dân Pháp phải cử một phái đoàn do Giuyxtanh Gôđa (Justin Godart) dẫn đầu sang Đông Dương để điều tra tình hình."
+  },
+  {
+    "ten": "Chi tiết Hải Chiến Hoàng Sa ",
+    "thoiGian": "1974 ",
+    "noiDung": "Ngày 19.1.1974, Trung Quốc xua quân xuống cưỡng chiếm quần đảo Hoàng Sa lúc bấy giờ đang thuộc chủ quyền của Việt Nam Cộng Hòa. Trong hoàn cảnh có nhiều bất lợi, các quân nhân Việt Nam vẫn nổ súng chống lại kẻ xâm lược nhằm bảo vệ chủ quyền biển đảo quê hương. Cuộc vệ quốc thất bại. Hoàng Sa rơi vào tay ngoại bang."
+  },
+  {
+    "ten": "Chi tiết Đàm phán Việt – Pháp ở Phôngtennơblô ",
+    "thoiGian": "1946 – 1946",
+    "noiDung": "Phái đoàn Chính phủ Việt Nam do Phạm Văn Đồng làm trưởng đoàn, phái đoàn chính phủ Pháp do Mắc Ăngđrê dẫn đầu. Ngày 6-7, cuộc đàm phán khai mạc. Phái đoàn Chính phủ Pháp vẫn giữ nguyên những quan điểm từ Hội nghị trù bị Đà Lạt đối với những vấn đề cơ bản (chế độ chính trị, quan hệ ngoại giao của Việt Nam, sự thống nhất ba kỳ của Việt Nam…) quyết định quan hệ giữa hai nước Việt – Pháp."
+  },
+  {
+    "ten": "Khởi nghĩa chàng Lía ",
+    "thoiGian": "1800 ",
+    "noiDung": "Chàng Lía là một anh hùng Việt Nam người Bình Định vào thế kỉ 18, được biết đến nhiều qua miếng võ “cú nhảy cá lóc”. Vì khởi nghĩa chống chúa Nguyễn thất bại nên anh đã phẫn uất mà tự sát."
+  },
+  {
+    "ten": "Chi tiết Hàm Nghi ra Chiếu Cần Vương ",
+    "thoiGian": "1885 ",
+    "noiDung": "Vào cuối thế kỷ XIX, triều đình phong kiến nhà Nguyễn lâm vào khủng hoảng, suy vong và trở thành miếng mồi ngon của các nước tư bản phương Tây đang khao khát thuộc địa. Ngày 01-09-1858, thực dân Pháp bất ngờ tấn công vào bán đảo Sơn Trà (Đà Nẵng), rồi tiếp tục đánh chiếm 6 tỉnh Nam Bộ, sau đó đánh chiếm miền Bắc. Sau khi thành Hà Nội thất thủ, quan quân triều đình nhà Nguyễn kẻ hàng, người trốn, có những thành như Phủ Lý, Ninh Bình, có đến hàng ngàn quân canh giữ, nhưng chỉ cần 5 – 6 tên lính Pháp đã hạ được thành. Từ sau Hiệp ước ngày 25/ 8/ 1883, triều đình nhà Nguyễn bị phân hóa thành 2 bộ phận: bộ phận chủ hòa và bộ phận chủ chiến. Bộ phận chủ hòa đã trở thành tay sai đắc lực cho thực dân Pháp. Bộ phận chủ chiến đứng đầu là Tôn Thất Thuyết đã tập hợp lực lượng, phát động nhân dân các nơi trong nước đứng lên chống thực dân Pháp xâm lược. Năm 1885, sau khi kinh thành Huế thất thủ, Tôn Thất Thuyết đưa vua Hàm Nghi lên chiến khu Tân Sở (Quảng Trị), ra Chiếu Cần Vương, kêu gọi toàn dân kháng chiến chống thực dân Pháp xâm lược."
+  },
+  {
+    "ten": "Chi tiết Cuộc bãi công của công nhân Ba Son ",
+    "thoiGian": "1925 – 1925",
+    "noiDung": "Cuộc đấu tranh của hơn một nghìn công nhân xưởng sửa chữa tàu thuỷ Ba Son (Sài Gòn) do Tôn Đức Thắng lãnh đạo, kéo dài tám ngày (4 – 12.8.1925)."
+  },
+  {
+    "ten": "Chi tiết Vua Quang Trung đại phá quân Thanh ",
+    "thoiGian": "1789 ",
+    "noiDung": "Năm 1787 vua Lê Chiêu Thống cầu cứu quân Thanh. Năm 1788, 29 quân Thanh ồ ạt tiến vào miền bắc nước ta. Nhận được tin cấp báo, Nguyễn Huệ lên ngôi Hoàng Đế, lấy niên hiệu là Quang Trung lập tức tiến quân ra Bắc"
+  },
+  {
+    "ten": "Chi tiết Trận Lũy Thầy ",
+    "thoiGian": "1672 – 1672",
+    "noiDung": "Trận Lũy Thầy năm 1672 là trận đánh thứ 7 trong thời kỳ Trịnh – Nguyễn phân tranh. Trận đánh Lũy Thầy năm 1672 là trận đánh cuối cùng mà nhà Nguyễn đánh tan ý định xâm lược Đàng Trong của nhà Trịnh."
+  },
+  {
+    "ten": "Chi tiết Khởi nghĩa Hùng Lĩnh ",
+    "thoiGian": "1887 – 1892",
+    "noiDung": "Khởi nghĩa Hùng Lĩnh là một cuộc khởi nghĩa trong phong trào Cần Vương chống Pháp cuối thế kỷ 19 trong lịch sử Việt Nam. Lãnh đạo chính là Chánh sứ sơn phòng Thanh Hóa Tống Duy Tân cùng hai cộng sự đắc lực là Đề đốc Cao Điển và tù trưởng người Thái Cầm Bá Thước. Sau khi căn cứ Ba Đình, Mã Cao thất thủ (1887), bị quân Pháp truy lùng, Tống Duy Tân phải lánh sang Trung Quốc để che giấu lực lượng."
+  },
+  {
+    "ten": "Chi tiết Thành lập Hội Phục Việt ",
+    "thoiGian": "1925 ",
+    "noiDung": "Vào đúng ngày thực dân Pháp mở hội “Chính trung” (tức là ngày quốc khánh nước Pháp), một số chiến sĩ yêu nước trung kiên của tổ chức Việt Nam nghĩa đoàn (như Tôn Quang Phiệt, Đặng Thai Mai) cùng với nhóm tù chính trị Trung Kỳ (như Lê Văn Huân, Tú Kiên…) đã nhóm họp tại núi Quyết (Bến Thủy) tuyên bố thành lập Hội Phục Việt với chủ trương 3 điểm: nghiên cứu tình hình chính trị trong và ngoài nước để quyết định đường lối hòa bình hay bạo động; tìm hiểu và liên hệ với các tổ chức chính trị người Việt Nam ở Xiêm và Trung Quốc; kết nạp thêm hội viên."
+  },
+  {
+    "ten": "Chi tiết Cuộc khởi nghĩa Trần Quý Khoáng ",
+    "thoiGian": "1409 – 1414",
+    "noiDung": "Sau khi cuộc kháng chiến của nhà Hồ bị thất bại, tiếp theo là cuộc khởi nghĩa của Trần Ngỗi bị tan rã, hai tướng Đặng Tất, Nguyễn Cảnh Chân bi Trần Ngỗi giết chết, con trai của Đặng Tất, Nguyễn Cảnh Chân là Đặng Dung và Nguyễn Cảnh Dị cùng nhiều nghĩa quân bỏ vào Nghệ An, đưa Trần Quý Khoáng (con của Trang Định vương Trần Ngạc, cháu nội vua Trần Nghệ Tông) lên ngôi vua, lấy hiệu là Trùng Quang đế và phát động khởi nghĩa."
+  },
+  {
+    "ten": "Chi tiết Hội Nghị Diên Hồng ",
+    "thoiGian": "1285 ",
+    "noiDung": "Đầu năm 1285, vua Trần mở Hội Nghị Diên Hồng, mời các bậc phụ lão có uy tín trong cả nước về Thăng Long họp để bàn cách đánh giặc. Trong hội nghị diên hồng, khi vua hỏi cáh đánh giặc, “các phụ lão đều nói là nên đánh, muôn người cùng lời như một”."
+  },
+  {
+    "ten": "Chi tiết Thành lập “Việt Nam Quang phục hội” ",
+    "thoiGian": "1912 ",
+    "noiDung": "Tháng 2 năm 1912, thành lập “Việt Nam Quang phục hội”, bãi bỏ “Duy Tân hội” tại từ đường nhà Lưu Vĩnh Phúc ở Sa Hà, Tỉnh Quảng Đông, Trung Quốc. Đại biểu nhân sĩ cách mạng Việt Nam của cả Bắc Kỳ, Nam Kỳ, Trung Kỳ, đều có mặt. Tôn chỉ, mục đích của Việt Nam Quang phục hội là: “Đánh đuổi giặc Pháp, khôi phục nước Việt Nam, thành lập Cộng hòa Dân chủ Việt Nam”. Hội trưởng là Cường Để, Tổng lý hội là Phan Bội Châu."
+  },
+  {
+    "ten": "Chi tiết Ban hành bộ luật Hoàng triều luật lệ ",
+    "thoiGian": "1815 ",
+    "noiDung": "Hoàng Việt luật lệ hay còn được biết đến với tên Hoàng triều luật lệ, Quốc triều điều luật, Nguyễn triều hình luật, bộ luật Gia Long là bộ luật chính thức của Việt Nam thời đầu nhà Nguyễn do Bắc thành Tổng trấn Nguyễn Văn Thành soạn thảo và vua Gia Long cho ban hành năm 1815. Bộ luật này được biên soạn trên cơ sở tham khảo bộ luật của nhà Thanh và Bộ luật Hồng Đức (thời Lê Thánh Tông)."
+  },
+  {
+    "ten": "Chi tiết Cuộc khởi nghĩa Trần Ngỗi ",
+    "thoiGian": "1407 – 1409",
+    "noiDung": "Tháng 11-1406, quân Minh sang xâm lược nước ta. Sau thất bại của nhà Hồ, nhân dân ta ở nhiều nơi đã nổi dậy khởi nghĩa trong đó có cuộc khởi nghĩa của Trần Ngỗi. Trần Ngỗi vốn là con thứ của vua Trần Nghệ Tông, ông được một người yêu nước là Trần Triệu Cơ đưa lên làm minh chủ, Trần Ngỗi tự xưng là Giản Định hoàng đế."
+  },
+  {
+    "ten": "Cuộc khởi nghĩa Nông Văn Vân chống Nguyễn ",
+    "thoiGian": "1833 – 1835",
+    "noiDung": "Cuộc khởi nghĩa của Nông Văn Vân là một cuộc đấu tranh chống nhà Nguyễn của các dân tộc thiểu số ở Việt Bắc (Việt Nam) do Nông Văn Vân làm thủ lĩnh, xảy ra từ đầu tháng 7 (âm lịch) năm Quý Tỵ 1833 đến khoảng giữa tháng 3 (âm lịch) năm Ất Mùi (1835) thì bị triều đình dập tắt. Cuộc nổi dậy kết thúc khi quân nhà Nguyễn phóng hỏa đốt rừng Thẩm Pát (hay Thẩm Bát) ở Tuyên Quang và tuyên bố đã tìm thấy thủ lĩnh Nông Văn Vân bị chết cháy ở trong đó. Theo một số nhà nghiên cứu thì đây là cuộc đấu tranh rộng lớn và tiêu biểu nhất của các dân tộc thiểu số ở nửa đầu thế kỷ 19 tại Việt Nam"
+  },
+  {
+    "ten": "Chi tiết Nhà nước Văn Lang ra đời ",
+    "thoiGian": "-700",
+    "noiDung": "Văn Lang là nhà nước đầu tiên của Việt Nam trong lịch sử. Nhà nước Văn Lang được cai trị bởi các vua Hùng. Đứng đầu nhà nước là Hùng Vương, chia nước làm 15 bộ, vua giữ mọi quyền hành trong nước, tường văn là là Lạc Hầu, tướng võ là Lạc Tướng. Con trai vua là Quan Lang, con gái vua là Mị Nương. Các vị vua cai trị nước Văn Lang có tất cả 18 đời vua đều gọi là Hùng Vương."
+  },
+  {
+    "ten": "Chi tiết Trận Vân Đồn ",
+    "thoiGian": "1288 ",
+    "noiDung": "Trận Vân Đồn diễn ra năm 1288 trên dòng sông Mang (Quan Lạn) gắn liền với tên tuổi của danh tướng Trần Khánh Dư. Dưới sự chỉ huy của ông, quân dân nhà Trần đã đánh tan đoàn thuyền lương của Trương Văn Hổ, góp phần quan trọng vào chiến thắng chung của trận Bạch Đằng năm 1288."
+  },
+  {
+    "ten": "Chi tiết Nhà Lý đổi tên nước thành Đại Việt ",
+    "thoiGian": "1054 ",
+    "noiDung": "Năm 1054, vua Lý Thánh Tông đổi tên nước là Ðại Việt. Quốc hiệu Đại Việt tồn tại tổng cộng trong thời gian 723 năm, từ năm 1054 đến năm 1400, và từ năm 1428 đến năm 1804. Tên gọi Đại Việt được dùng làm quốc hiệu trong thời kỳ cai trị của các chính quyền nhà Lý, nhà Trần, nhà Hậu Lê, nhà Mạc, Đàng Ngoài, Đàng Trong, nhà Tây Sơn và 3 năm đầu thời nhà Nguyễn (1802 – 1804)"
+  },
+  {
+    "ten": "Chi tiết Quân Thanh xâm lược nước ta ",
+    "thoiGian": "1788 ",
+    "noiDung": "Sau khi Nguyễn Huệ lật đổ chính quyền họ Trịnh và rút quân về Nam, tình hình Bắc Hà rối loạn. Vua Lê Chiêu Thống bất tài, dựa vào Nguyễn Hữu Chỉnh để đánh dẹp những cuộc nổi loạn của con cháu họ Trịnh, sau đó bị Chỉnh thao túng triều đình. Năm 1787, Nguyễn Huệ cử tướng Vũ Văn Nhậm ra diệt Chỉnh. Vũ Văn Nhậm lại kiêu căng và có mưu đồ riêng. Để ổn định tình hình Bắc Hà, tháng 5/1787, Nguyễn Huệ đích thân đem quân ra Bắc, vào thẳng dinh Bắc Trấn, trị tội Vũ Văn Nhậm."
+  },
+  {
+    "ten": "Chi tiết Chiến thắng Ấp Bắc ",
+    "thoiGian": "1963 ",
+    "noiDung": "Trận Ấp Bắc là một trận quy mô lớn diễn ra vào giai đọan đầu của cuộc chiến tranh giữa Việt Nam và Hoa Kì với kết quả là chiến thắng lớn đầu tiên của du kích Mặt trận giải phóng dân tộc miền Nam Việt Nam đối với quân chính quy của Quân lực Việt Nam Cộng hòa. Trận Ấp Bắc diễn ra vào ngày 2 .1.1963, gần Ấp Bắc thuộc tỉnh Mỹ Tho lúc bấy giờ (ngày nay là tỉnh Tiền Giang), cách Sài Gòn 65 km về phía tây nam."
+  },
+  {
+    "ten": "Chi tiết Đông Dương cộng sản Liên Đoàn ra đời ",
+    "thoiGian": "1930 ",
+    "noiDung": "Đông Dương Cộng sản Liên đoàn là một trong ba tổ chức cộng sản tiền thân của Đảng Cộng sản Việt Nam (2 tổ chức còn lại là Đông Dương Cộng sản Đảng và An Nam Cộng sản Đảng), được thành lập ngày 1-1-1930 địa bàn hoạt động chủ yếu ở các tỉnh Bắc Trung Kỳ. Như vậy tại Đông Dương có 3 tổ chức cách mạng cùng mang tính chất cộng sản song song tồn tại. Mặc dù có chung một mục tiêu cách mạng nhưng đã nảy sinh tình trạng giành ảnh hưởng trong quần chúng."
+  },
+  {
+    "ten": "Chi tiết Lý Công Uẩn lên ngôi, lập ra nhà Lý ",
+    "thoiGian": "1009 ",
+    "noiDung": "Năm 1005, Lê Hoàn mất, Lê Long Đĩnh lên ngôi vua. Cuối 1009 Lê Long Đĩnh qua đời. Triều Đình chán ghét nhà Tiền Lê, vì vậy các tăng sư và đại thần, đứng đầu là Sư Vạn hạnh, Đào Cam Mộc tôn Lý Công Uẩn lên ngôi vua (vua Lý Thái Tổ). Nhà Lý thành lập. Nhà Lý đã trải qua 9 triều vua và chấm dứt khi vua Lý Chiêu Hoàng, lúc đó mới có 7 tuổi bị ép thoái vị để nhường ngôi cho chồng là Trần Cảnh vào năm 1225 – tổng cộng là 216 năm."
+  },
+  {
+    "ten": "Chi tiết Lý Thái Tổ dời đô về Đại la, đổi tên thành Thăng Long ",
+    "thoiGian": "1010 ",
+    "noiDung": "Cuối năm 1009, Lý Công Uẩn lên ngôi, nhà Lý thành lập. Năm 1010 Lý Công Uẩn đặt niên hiệu là Thuận Thiên, ông ban hành chiếu dời đô để chuyển kinh đô nước Đại Cồ Việt từ Hoa Lư (Ninh Bình) vể Đại La (Hà Nội ngày nay) và đổi tên thành là Thăng Long. Thời Lý, kinh thành Thăng Long đã dần trở thành đô thị phồn thịnh và có quy mô lớn trong cả khu vực và trên thế giới."
+  },
+  {
+    "ten": "Chi tiết Nước Vạn Xuân thành lập ",
+    "thoiGian": "544 ",
+    "noiDung": "Sau cuộc khởi nghĩa thắng lợi của Lý Bí năm 544, Lý Bí tự xưng là Lý Nam Đế và lên ngôi, đặt niên hiệu là Thiên Đức (đức trời), đặt tên nước là Vạn Xuân (xã tắc truyền đến muôn đời). Ông cho đóng đô ở miền cửa sông Tô Lịch, dựng điện Vạn Thọ làm nơi triều hội."
+  },
+  {
+    "ten": "Chi tiết Gia Long đặt quốc hiệu là Việt Nam ",
+    "thoiGian": "1804",
+    "noiDung": "Quốc hiệu Việt Nam chính thức xuất hiện vào thời nhà Nguyễn. Vua Gia Long đã đề nghị nhà Thanh công nhận quốc hiệu Nam Việt, với lý lẽ rằng “Nam” có ý nghĩa “An Nam” còn “Việt” có ý nghĩa “Việt Thường”. Tuy nhiên tên Nam Việt trùng với quốc hiệu của quốc gia cổ Nam Việt thời nhà Triệu, gồm cả Quảng Đông và Quảng Tây của Trung Hoa. Nhà Thanh yêu cầu nhà Nguyễn đổi ngược lại thành Việt Nam để tránh nhầm lẫn. Tháng 3 năm 1804, vua Gia Long đổi quốc hiệu nước ta là Việt Nam ."
+  },
+  {
+    "ten": "Chi tiết Phong trào Đông Du ",
+    "thoiGian": "1905 – 1908",
+    "noiDung": "Phong trào Đông Du là trào lưu du học tại Nhật Bản của thanh niên Việt Nam, nhằm tìm đường cứu nước do Hội Duy tân mà linh hồn là Phan Bội Châu khởi xướng từ những năm 1905. Mở đầu cao trào là vào đầu 1905, 3 thanh niên đã được Phan Bội Châu và Đặng Tử Kính gửi tới Nhật Bản. Nhằm cổ vũ cho phong trào, Phan Bội Châu đã viết bài “Khuyến quốc dân tự trợ du học văn” nhằm kêu gọi đồng bào cả nước ủng hộ, giúp đỡ và được nhân dân nhiệt thành hưởng ứng."
+  },
+  {
+    "ten": "Trận Him Lam ",
+    "thoiGian": "1954 ",
+    "noiDung": "Trận Him Lam là trận đánh mở màn ngày 13 tháng 3 năm 1954 trong chiến dịch Điện Biên Phủ – Cuộc đối đầu quyết định giữa Quân đội Nhân dân Việt Nam và Quân đội viễn chinh Pháp trong chiến tranh Đông Dương. Mục tiêu của Quân đội Nhân dân Việt Nam trong trận này là xóa sổ trung tâm đề kháng Béatrice trong phân khu Bắc cứ điểm Điện Biên Phủ, mà phía Việt Nam gọi là đồi Him Lam."
+  },
+  {
+    "ten": "Triệu Quang Phục giành lại độc lập ",
+    "thoiGian": "550 ",
+    "noiDung": "Triệu Quang Phục là người có công lớn trong cuộc khởi nghĩa Lý Bí và được Lý Bí rất tin cậy. Sau thất bại ở hồ Điển Triệt, ông được Lý Nam Đế trao quyền chỉ huy cuộc kháng chiến chống quân Lương."
+  },
+  {
+    "ten": "Chi tiết Nhà Tống đô hộ ",
+    "thoiGian": "420 – 479",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Chi tiết Quân Pháp đánh chiếm tỉnh thành Gia Định ",
+    "thoiGian": "1859 – 1859",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Chi tiết Lập Quốc tử giám ở kinh đô Thăng Long ",
+    "thoiGian": "1076",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Chi tiết Nhà Lý lập Văn Miếu thờ Khổng Tử ",
+    "thoiGian": "1070 ",
+    "noiDung": "Văn Miếu thờ Khổng Tử được xây dựng ở kinh đô Thăng Long vào năm Thần Vũ thứ 2 (1070) đời vua Lý Thánh Tông. Đại Việt sử ký toàn thư chép: “Mùa thu tháng 8, làm Văn Miếu, đắp tượng, Khổng Tử, Chu Công và Tứ phối, vẽ tượng Thất thập nhị hiền, bốn mùa cúng tế. Hoàng thái tử đến đấy học.”. Văn miếu ngoài chức năng thờ các bậc Tiên thánh, Tiên sư của đạo Nho, còn mang chức năng của một trường học Hoàng gia mà học trò đầu tiên là Thái tử Lý Càn Đức, con trai vua Lý Thánh Tông với Nguyên phi Ỷ Lan, lúc đó mới 5 tuổi, sau này trở thành vua Lý Nhân Tông."
+  },
+  {
+    "ten": "Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên ",
+    "thoiGian": "1925 ",
+    "noiDung": "Từ đầu năm 1925, trên cơ sở những hội viên trung kiên của Tâm tâm xã, Nguyễn Ái Quốc đã thành lập “Nhóm bí mật” trong đó có 5 đảng viên cộng sản dự bị và 2 đoàn viên thanh niên cộng sản dự bị. Lấy “Nhóm bí mật” này làm nồng cốt, tháng 6-1925, Nguyễn Ái Quốc thành lập Hội Việt Nam Cách mạng Thanh niên nhằm tổ chức và lãnh đạo quần chúng đoàn kết lại, kịch liệt tranh đấu để đánh đổ đế quốc chủ nghĩa Pháp và tay sai để tự cứu lấy mình."
+  },
+  {
+    "ten": "Đinh Bộ Lĩnh dẹp loạn 12 sứ quân, thống nhất đất nước, lên ngôi vua ",
+    "thoiGian": "968 ",
+    "noiDung": "Năm 944 Ngô Quyền mất, năm 945 Dương Tam Kha chiếm ngôi. Nhiều quan lại cựu thần của Ngô Quyền đã nổi lên chống lại Dương Tam Kha, thổ hào các nơi cũng đua nhau nổi dậy. Từ năm 966, hình thành đầy đủ 12 sứ quân chiếm giữ các địa phương. Trong hoàn cảnh nói trên, Đinh Bộ Lĩnh đã liên kết với sứ quân Trần Lãm, chiêu dụ được sứ quân Phạm Bạch Hổ, tiến đánh các sứ quân khác."
+  },
+  {
+    "ten": "Chi tiết Lập Quốc học viện và Giảng võ đường ",
+    "thoiGian": "1253 ",
+    "noiDung": "Năm 1253, vua Trần Thái Tông chuyển nhà Thái Học thành Quốc Học viện, mở rộng cho cả người học giỏi trong quần chúng bình dân và cho lập Giảng võ đường. Đây là một trường võ bị cao cấp, chuyên đào tạo các tướng lĩnh không chỉ về mặt kỹ thuật chiến đấu, mà quan trọng hơn, còn là kỹ năng chỉ huy, tham mưu. Chính từ Giảng Võ đường, nhà Trần đã đào tạo được nhiều tướng lĩnh xuất sắc cho quân đội, có đóng góp lớn cho các chiến thắng quân Nguyên-Mông bảo vệ được cho Thăng Long trường tồn."
+  },
+  {
+    "ten": "Chi tiết Hội nghị Toàn quốc của Đảng Cộng sản Đông Dương họp tại Tân Trào ",
+    "thoiGian": "1945 – 1945",
+    "noiDung": "Hội nghị được triệu tập từ ngày 13 đến ngày 15-8-1945 tại Tân Trào theo đề nghị của đồng chí Nguyễn Ái Quốc. Hội nghị diễn ra trong bối cảnh tình hình thế giới diễn ra mau lẹ: Phát xít Đức đã thất bại (tháng 5-1945), phát xít Nhật đang bị tuyên bố đầu hàng không điều kiện. Các nước Đồng minh thoả thuận sau khi Nhật đầu hàng, quân đội Anh và Tưởng sẽ vào Đông Dương để tiếp nhận sự đầu hàng của Nhật. Thực dân Pháp dựa vào Đồng minh ráo riết chuẩn bị lực lượng trở lại khôi phục địa vị thống trị ở Đông Dương. Các lực lượng phản động, tay sai của Nhật ra sức tìm chủ mới, bọn phản động người Việt lưu vong dựa thế quân đội nước ngoài, rắp tâm trở về nắm chính quyền. Tình thế đó đòi hỏi Đảng ta phải có hành động kiên quyết, linh hoạt, mau lẹ, kịp thời để lãnh đạo nhân dân giành chính quyền."
+  },
+  {
+    "ten": "Chiến thắng Rạch Gầm – Xoài Mút ",
+    "thoiGian": "1785 ",
+    "noiDung": "Trận Rạch Gầm-Xoài Mút là một trận chiến lớn trên sông diễn ra vào đêm 19 rạng 20 tháng 1 năm 1785 giữa liên quân Xiêm-Nguyễn và quân Tây Sơn tại khúc sông Rạch Gầm-Xoài Mút, khi đó thuộc dinh Trấn Định, xứ Đàng Trong; nay thuộc Tiền Giang, Việt Nam. Đây là một trong những trận thủy chiến lớn nhất trong lịch sử chống ngoại xâm của nhân dân ta."
+  },
+  {
+    "ten": "Chi tiết Chiến dịch Bắc Tây Nguyên trong kháng chiến chống Mỹ ",
+    "thoiGian": "1972 – 1972",
+    "noiDung": "Chiến dịch Bắc Tây Nguyên 1972 là một chiến dịch tiến công của các lực lượng của Quân đội Nhân dân Việt Nam /Quân giải phóng miền Nam vào Quân lực Việt Nam Cộng hòa diễn ra tại Bắc Tây Nguyên trong Chiến dịch Xuân Hè 1972. Chiến dịch Bắc Tây Nguyên 1972 diễn ra từ 24.4 đến 6.6.1972 tại địa bàn hai tỉnh bao gồm Kon Tum, Gia Lai."
+  },
+  {
+    "ten": "Chi tiết Nhà Lý ban hành bộ luật Hình thư ",
+    "thoiGian": "1042 ",
+    "noiDung": "Năm 1042, nhà Lý biên soạn và cho ban hành bộ luật Hình thư (hiện nay không còn nữa), đây là bộ luật thành văn đầu tiên của nước ta. Bộ Hình thư ra đời thay thế cho các quy chế, luật lệ, chiếu chỉ trước đó. Theo Đại Việt sử kí toàn thư: “Trước kia, trong nước, việc kiện tụng phiền nhiễu, quan giữ việc hình câu nệ luật văn, cốt làm khắc nghiệt, thậm chí bị oan uổng. Vua lấy làm thương xót, sai sửa định luật lệnh, châm chướt cho, thích dụng với thời bấy giờ, chia ra môn loại, biên ra điều khoảng làm sách hình luật của mọi triều đại để cho người xem dễ biết. Sách làm xong, chiếu ban ra cho thi hành, dân đều lấy làm tiện”. Theo Lê Quý Đôn trong Đại Việt thông sử thì Hình thư đời Lý Thái Tông gồm có ba quyển, bây giờ thất truyền."
+  },
+  {
+    "ten": "Chi tiết Chiến Thắng Bạch Đằng năm 1288 ",
+    "thoiGian": "1288 ",
+    "noiDung": "Trận Bạch Đằng năm1288 xảy ra trên sông Bạch Đằng do Trần Hưng Đạo cùng với Thái thượng hoàng Trần Thánh Tông và vua Trần Nhân Tông chỉ huy là một trận đánh quan trọng trong cuộc Kháng chiến chống Nguyên Mông lần thứ ba của lịch sử Việt Nam. Quân Nguyên bị thiệt hại vô cùng nặng, và nhiều tướng Nguyên trong đó có cả Ô Mã Nhi, Phạm Nhàn và Phàn Tiếp cũng bị bắt sống. Ngoài ra, có những 400 chiến thuyền của quân Nguyên rơi vào tay quân Trần. Đại thắng trên sông Bạch Đằng được xem là trận thủy chiến lớn nhất trong lịch sử Việt Nam, và là thắng lợi tiêu biểu nhất của Đại Việt trong ba cuộc kháng chiến chống quân xâm lược Nguyên-Mông."
+  },
+  {
+    "ten": "Khởi nghĩa Phùng Hưng ",
+    "thoiGian": "776 – 791",
+    "noiDung": "Dưới sự thống trị của nhà Đường, nhân dân ta phải chịu nhiều cực khổ, nhà Đường đặt ra nhiều loại thuế như thuế muối, thuế sắt, thuế đay, gai, tơ lụa…Hàng năm dân ta phải cống nạp những sản vật quý hiếm như ngọc trai, ngà voi, sừng tê, đồi mồi, trầm hương, vàng, bạc…Căm ghét chính sách thống trị của quan lại nhà Đường, và nhân lòng căm phẫn của nhân dân, lợi dụng khi quân lính ở Tống Bình nổi loạn, Phùng Hưng đã phát động một cuộc khởi nghĩa lớn chống chính quyền đô hộ chống chính quyền đô hộ nhà Đường."
+  },
+  {
+    "ten": "Thư Viện Lịch Sử Việt Nam",
+    "thoiGian": "",
+    "noiDung": "Trang Thư Viện Lịch Sử Việt Nam được xây dựng với mục đích tạo ra một nơi hiển thị trực quan sinh động các thông tin về lịch sử. Giúp người xem ngoài đọc hiểu các thông tin lịch sử cơ bản, còn có thể gắn kết Sự Kiện – Nhân Vật – Địa Điểm lại cùng nhau. Ví dụ:"
+  },
+  {
+    "ten": "Chi tiết Chiến dịch Biên giới ",
+    "thoiGian": "1950 – 1950",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Chi tiết Thành lập Việt Nam nghĩa đoàn ",
+    "thoiGian": "1925 ",
+    "noiDung": "Việt Nam Nghĩa Đoàn là tổ chức của một nhóm 17 người mà nòng cốt là những sinh viên yêu nước của trường Cao đẳng Sư phạm Hà Nội (trong đó có Tôn Quang Phiệt, Đặng Thai Mai…) được thành lập ngày 25-1-1925, tức ngày mùng Một Tết năm Ất Sửu, sau một cuộc họp tại nhà số 4 đường Giôrêghiberi (Jauréguiberry, nay là phố Quang Trung, Hà Nội)."
+  },
+  {
+    "ten": "Chi tiết Thành lập tổ chức Tâm Tâm Xã tại Quảng Châu Trung Quốc ",
+    "thoiGian": "1923",
+    "noiDung": "Năm 1923, tại Quảng Châu, Trung Quốc do bất đồng với tư tưởng bảo thủ của cánh già trong Việt Nam Quang phục Hội, Lê Hồng Phong, Hồ Tùng Mậu, Phạm Hồng Thái… đã thành lập Tâm Tâm Xã với tôn chỉ: “Liên hiệp những người có tri thức trong toàn dân Việt Nam, không phân biệt ranh giới, đảng phái; miễn là có quyết tâm hi sinh tất cả tư ý và quyền lợi cá nhân, đem hết sức mình tiến hành mọi việc để khôi phục quyền làm người của người Việt Nam”."
+  },
+  {
+    "ten": "Chi tiết Đội Việt Nam tuyên truyền giải phóng quân thành lập ",
+    "thoiGian": "1944 ",
+    "noiDung": "Việt Nam Tuyên truyền Giải phóng quân là tên của đội quân chủ lực của Mặt trận Việt Minh từ tháng 12 năm 1944 đến tháng 5 năm 1945. Đây là tổ chức quân sự được xem là tiền thân của Quân đội Nhân dân Việt Nam. Ngày thành lập Việt Nam Tuyên truyền Giải phóng quân, 22 tháng 12, sau này đã được chọn làm ngày truyền thống của Quân đội Nhân dân Việt Nam."
+  },
+  {
+    "ten": "Chi tiết Tờ báo “Người cùng khổ” ra số đầu tiên tại Pari do Nguyễn Ái Quốc làm chủ nhiệm ",
+    "thoiGian": "1922 ",
+    "noiDung": "Vào tháng 1/1922, để xây dựng một diễn đàn của nhân dân các nước thuộc địa và tạo ra một hình thức đấu tranh mới, Nguyễn Ái Quốc và Ban thường vụ Hội Liên hiệp thuộc địa đã thống nhất quyết định thành lập “Hội hợp tác Người cùng khổ” và ra tờ báo “Người cùng khổ” hay “Le Paria”. Ngày 1/4/1922 báo ra số đầu tiên bằng ba thứ tiếng Pháp, Ả rập và Trung Quốc. Đầu tiên báo lấy tiêu đề “Diễn đàn của các dân tộc thuộc địa”, sau đổi là “Diễn đàn của vô sản thuộc địa”, rồi sau lại đổi là “Cơ quan của nhân dân bị áp bức các thuộc địa”. Đây là lần đầu tiên nhân dân của nhiều nước thuộc địa khác nhau có một tổ chức và một tiếng nói đấu tranh chung."
+  },
+  {
+    "ten": "Khởi nghĩa Hương Khê ",
+    "thoiGian": "1885 – 1896",
+    "noiDung": "Khởi nghĩa Hương Khê là cuộc khởi nghĩa có quy mô lớn nhất, độc đáo nhất và kéo dài nhất trong phong trào Cần Vương cuối thế kỷ XIX. Cuộc khởi nghĩa do Phan Đình Phùng lãnh đạo với sự trợ giúp của Cao Thắng, Ngô Quảng, Cao Đạt, Hà Văn Mỹ, Nguyễn Chanh, Nguyễn Trạch… Địa bàn hoạt động của nghĩa quân bao gồm 4 tỉnh: Thanh Hóa, Nghệ An, Hà Tĩnh, Quảng Bình, trong đó địa bàn chính vẫn là Nghệ An – Hà Tĩnh."
+  },
+  {
+    "ten": "Chi tiết Lữ Gia giết Ai Vương, Cù Thị và sứ giả nhà Hán ",
+    "thoiGian": "-112 – -111",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Chi tiết Chiến dịch phòng ngự Quảng Trị ",
+    "thoiGian": "1972 – 1973",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Thực dân Pháp tấn công thành Hà Nội lần thứ nhất ",
+    "thoiGian": "1873 ",
+    "noiDung": "Sau khi đã chiếm xong sáu tỉnh Nam Kỳ (6 /1867), thực dân Pháp ráo riết chuẩn bị cho cuộc tấn công chinh phục toàn bộ lãnh thổ Việt Nam. Việc đánh ra miền Bắc chiếm Hà nội bắt đầu được diễn ra vào ngày 20 tháng 11 năm 1873."
+  },
+  {
+    "ten": "Chi tiết Hội nghị lần thứ nhất Ban Chấp hành Trung ương Đảng Cộng Sản Việt Nam",
+    "thoiGian": "",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Chi tiết Phạm Hồng Thái mưu sát toàn quyền Đông Dương tại Sa Diện ",
+    "thoiGian": "1924 ",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Chi tiết Hội nghị Quân sự cách mạng Bắc Kỳ được triệu tập ",
+    "thoiGian": "1945 ",
+    "noiDung": "Hội nghị Ban Thường vụ Trung ương Đảng Cộng sản Đông Dương triệu tập, tiến hành từ 15-4 đến 20-4 tại Hiệp Hòa (Bắc Giang), do Trường Chinh chủ trì nhằm giải quyết các vấn đề quân sự đã được Hội nghị tháng 3-1945 của Thường vụ Trung ương nêu ra."
+  },
+  {
+    "ten": "Mỹ thất bại trong cuộc hành quân Junction City của quân Mỹ ",
+    "thoiGian": "1967 – 1967",
+    "noiDung": "Junction City (thường phiên âm thành Gian-xơn Xi-ty) là một chiến dịch kéo dài 53 ngày của Quân đội Mỹ và Quân lực Việt Nam Cộng hòa nhắm vào các căn cứ của lực lượng Mặt trận Dân tộc Giải phóng miền Nam Việt Nam ở Chiến khu C, tức vùng Lò Gò – Xa Mát ngày nay diễn ra vào đầu năm 1967. Đây là cuộc hành quân lớn nhất của Mỹ trong Chiến tranh Việt Nam – huy động 35.000 quân Mỹ và Việt Nam Cộng hoà và kéo dài từ 22.2 đến 15.4.1967 – để đánh vào vùng kiểm soát của quân Giải phóng nhưng đã thất bại."
+  },
+  {
+    "ten": "Chi tiết Nhà Ngô đô hộ nước Âu Lạc ",
+    "thoiGian": "210 – 280",
+    "noiDung": "Cuối đời Hán, Trung Quốc đại loạn. Nhà Ngô chiếm giữ miền Nam Trung Quốc, sát biên giới nước ta. Chúa Ngô là Tôn Quyền mưu cướp quyền đô hộ Giao Châu. Nhà Hán bất lực không giữ được. Đến năm 226. Sĩ Nhiếp chết, con là Sĩ Huy lên làm Thái thú Giao Châu thay cha, không xin mệnh lệnh của nhà Ngô. Thấy Sĩ Nhiếp đã chết, chúa Đông Ngô là Tôn Quyền vội nắm lấy cơ hội chiếm đóng toàn bộ Giao Châu, loại bỏ hẳn thế lực của Sĩ Nhiếp ở đây."
+  },
+  {
+    "ten": "Nguyễn Tri Phương thất thủ tại Đại đồn Chí Hòa ",
+    "thoiGian": "1861 – 1861",
+    "noiDung": "Trận đánh tại Đại đồn Chí Hòa do Nguyễn Tri Phương trấn thủ là một trận đánh trong Chiến dịch Nam Kỳ của cuộc chiến tranh giữa Thực dân Pháp và Đại Nam vào năm 1801. Thống đốc quân Nguyễn Tri Phương thất thủ, Đại đồn Chí Hòa rơi vào tay người Pháp, triều đình nhà Nguyễn từ việc thủ để hòa chuyển sang chủ hòa, đất đai Đại Nam lần lượt rơi vào tay người Pháp."
+  },
+  {
+    "ten": "Loạn 12 sứ quân ",
+    "thoiGian": "965 – 967",
+    "noiDung": "Loạn 12 hình thành và phát triển mạnh từ khi Dương Tam Kha cướp ngôi nhà Ngô, các nơi không chịu thuần phục, các thủ lĩnh nổi lên cát cứ một vùng và đem quân đánh chiếm lẫn nhau. Loạn 12 sứ quân kéo dài hơn 20 năm (944-968) và kết thúc khi Đinh Bộ Lĩnh thống nhất đất nước, lập ra nhà nước Đại Cồ Việt – nhà nước phong kiến tập quyền đầu tiên trong lịch sử."
+  },
+  {
+    "ten": "Chi tiết Quân Pháp đánh chiếm tỉnh thành Gia Định ",
+    "thoiGian": "1859 – 1859",
+    "noiDung": "Quân Pháp với mong muốn đánh chiếm nhanh Đà Nẵng, rồi sẽ “giáng cho Huế một đòn quyết định”, để có thể làm chủ nước Đại Nam nhưng vì vấp phải sự kháng cự của nhân dân nên chỉ chiếm được bán đảo Sơn Trà. Bị cầm chân ở Đà Nẵng, tướng Charles Rigault de Genouilly buộc phải thay đổi kế hoạch, là rút đi hai phần ba số quân (tức 2.000 người) và 8 trong số 14 chiến thuyền ở mặt trận này để vào đánh chiếm Gia Định. Tháng 2 năm 1859, liên minh Pháp và Tây Ban Nha đã đưa quân vào để đánh chiếm và phá hủy nhiều công trình quân sự của Vương triều nhà Nguyễn, trong đó có thành Gia Định. Trận đánh thành Gia Định bắt đầu vào rạng sáng ngày 17 tháng 2 năm 1859 và kết thúc khoảng 10 giờ trưa cùng ngày."
+  },
+  {
+    "ten": "Chi tiết Đánh chiếm thành Tuyên ",
+    "thoiGian": "1884 – 1885",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Chi tiết Tân Việt cách mạng Đảng ra đời ",
+    "thoiGian": "1928",
+    "noiDung": "Tân Việt Cách mệnh Đảng (hay gọi tắt là Đảng Tân Việt) là một chính đảng tồn tại ở Việt Nam vào những năm đầu thế kỷ 20 với chủ trương “Đánh đổ đế quốc, xây dựng một xã hội bình đẳng, bác ái”. Đảng Tân Việt chấm dứt hoạt động vào năm 1929, khi phân chia làm hai phái. Một phái với xu hướng thành lập Liên đoàn Quốc gia và một phái với ảnh hưởng của tư tưởng cộng sản tách ra thành lập Đông Dương Cộng sản Liên đoàn, về sau Đông Dương Cộng sản Liên đoàn sáp nhập vào Đảng Cộng sản Việt Nam."
+  },
+  {
+    "ten": "Chi tiết Chiến dịch Tây Nguyên giải phóng Buôn Mê Thuột ",
+    "thoiGian": "1975 – 1975",
+    "noiDung": "Chiến dịch Tây Nguyên (từ 4.3 đến 24.3.1975), mật danh Chiến dịch 275, là chiến dịch mở đầu cuộc Tổng tấn công mùa Xuân năm 1975 do Quân đội Nhân dân Việt Nam phát động tấn công. Chiến dịch Tây Nguyên, mở đầu Cuộc tổng tiến công và nổi dậy mùa Xuân 1975 thắng lợi vang dội có ý nghĩa to lớn cả về chính trị và quân sự đối với Việt Nam."
+  },
+  {
+    "ten": "Chi tiết Lê Lợi lên ngôi vua ở Đông đô, đặt lại quốc hiệu là Đại Việt ",
+    "thoiGian": "1428",
+    "noiDung": "Sau khi chiến thắng quân Minh, Năm 1428 Lê Lợi lên ngôi Hoàng đế, tức vua Lê Thái Tổ, chính thức dựng lên triều Hậu Lê. Ông khôi phục quốc hiệu Đại Việt, đóng đô ở Thăng Long và đổi tên Thăng Long thành Đông Đô vào năm Thuận Thiên thứ hai"
+  },
+  {
+    "ten": "Chi tiết Trận Tốt Động – Chúc Động ",
+    "thoiGian": "1426 – 1426",
+    "noiDung": "Trận Tốt Động – Chúc Động là trận đánh vào cuối năm năm1426, giữa nghĩa quân Lam Sơn do Lê Lợi chỉ huy với quân nhà Minh đóng ở Đông Quan (tức là Thăng Long, Hà Nội). Đây là một trong những điển hình rực rỡ về quyết tâm tiêu diệt địch, về tinh thần chiến đấu dũng cảm và nghệ thuật quân sự tuyệt vời của nghĩa quân Lam Sơn. Trận này được nhắc đến trong Bình Ngô đại cáo của Nguyễn Trãi: Ninh Kiều máu chảy thành sông, tanh hôi vạn dặm; Tụy Động thây chất đầy nội, nhơ để ngàn năm."
+  },
+  {
+    "ten": "Chi tiết Trận Trấn Ninh giữa quân Tây Sơn và quân Nhà Nguyễn ",
+    "thoiGian": "1802",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Định quan chế và hình luật của nước Đại Ngu ",
+    "thoiGian": "1401 ",
+    "noiDung": "Năm 1401, Hồ Hán Thương “định quan chế về hình luật nước Đại Ngu”. Nếu như pháp luật hình sự thời kỳ nhà Lý còn mang nhiều tính khoan dung, đến pháp luật hình sự thời kỳ nhà Trần đã mang tính nghiêm khắc hơn, thì đến thời kỳ nhà Hồ, để khôi phục kỷ cương và củng cố uy quyền của nhà nước phong kiến, chế tài hình sự được áp dụng đã mang tính chất hà khắc, nặng nề hơn các triều đại trước rất nhiều."
+  },
+  {
+    "ten": "Triệu Quang Phục đóng quân ở đầm Dạ Trạch ",
+    "thoiGian": "547",
+    "noiDung": "Năm 546, vua Lý Nam Đế thua trận phải lui về động Khuất Lão, đã ủy thác cho Triệu Quang Phục giữ việc nước, điều quân đi đánh Trần Bá Tiên của nhà Lương. Năm 547, tháng giêng, Triệu Quang Phục lui về giữ đầm Dạ Trạch (bãi Màn Trò, huyện Khoái Châu, tỉnh Hưng Yên)."
+  },
+  {
+    "ten": "Chi tiết Vua Hàm Nghi bị Pháp bắt ",
+    "thoiGian": "1888 ",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Chi tiết Khởi nghĩa Lý Bí bùng nổ ",
+    "thoiGian": "542 ",
+    "noiDung": "Đầu thế kỉ VI, nhà Lương đô hộ Giao Châu. Thứ sử Giao Châu là Tiêu Tư đã đặt ra hàng trăm thứ thuế làm cho nhân dân hết sức cơ cực, lầm than. Lý Bí nhân lòng oán giận của dân, đã liên kết với hào kiệt các châu thuộc miền đất nước ta cùng nổi dậy chống Lương. Triệu Túc là thủ lĩnh đất Chu Diên, Phạm Tu là một tướng tài người làng Thanh Liệt (Thanh Trì, Hà Nội) đã sớm đến với cuộc khởi nghĩa. Tháng giêng năm 542, cuộc khởi nghĩa toàn dân do Lý Bí lãnh đạo đã bùng nổ."
+  },
+  {
+    "ten": "Thảm sát Gò Dài ",
+    "thoiGian": "1966 ",
+    "noiDung": "Thảm sát Gò Dài 26.2.1966 hay còn gọi là Thảm sát Bình An (xã Bình An cũ) nay là thôn Gò Dài, xã Tây Vinh, huyện Tây Sơn, tỉnh Bình Định."
+  },
+  {
+    "ten": "Chi tiết Lý Nam Đế mất tại động Khuất Lão ",
+    "thoiGian": "548",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "2500 công nhân nhà máy sợi Nam Định bãi công ",
+    "thoiGian": "1925 ",
+    "noiDung": "Hoà chung với khí thế đấu tranh của giai cấp công nhân Việt Nam hồi đầu thế kỷ XX, công nhân Nam Định ngay từ thời kỳ đầu cũng đã tự tổ chức nhiều cuộc đấu tranh chống lại sự áp bức bóc lột của bọn thực dân. Nam Định trở thành một điểm sáng trong phong trào đấu tranh của giai cấp công nhân cả nước, với nhiều cuộc đấu tranh tiêu biểu."
+  },
+  {
+    "ten": "Chiến thắng Bình Giã ",
+    "thoiGian": "1964 – 1965",
+    "noiDung": "Trận đánh Bình Giã là trận đánh chính nằm trong Chiến dịch Bình Giã xảy ra vào cuối tháng 12 năm 1964 tại địa bàn làng Bình Giã, tỉnh Phước Tuy (nay là tỉnh Bà Rịa – Vũng Tàu), giữa Quân giải phóng miền Nam và Quân lực Việt Nam Cộng hòa với cố vấn Mỹ chỉ huy."
+  },
+  {
+    "ten": "Chiến dịch Việt Bắc ",
+    "thoiGian": "1947 – 1947",
+    "noiDung": "Kế hoạch tiến công Việt Bắc do Xalăng (Salan), Tư lệnh chiến trường Bắc Đông Dương vạch ra và được Chính phủ Pháp phê chuẩn tháng 7-1947. m mưu của cuộc tiến công này, như lời Vally tuyên bố, là Pháp “sẽ chơi ván bài cuối cùng” nhằm phá tan cơ quan đầu não kháng chiến, tiêu diệt bộ đội chủ lực của Việt Minh, lập ngụy quyền toàn quốc, kết thúc chiến tranh và đặt lại ách thống trị thực dân trên toàn bộ nước Việt Nam; đồng thời nhằm khóa chặt biên giới Việt –Trung, ngăn chặn mối quan hệ giữa cách mạng Việt Nam với cách mạng Trung Quốc."
+  },
+  {
+    "ten": "Chi tiết Hải chiến Trường Sa ",
+    "thoiGian": "1988",
+    "noiDung": "Hải chiến Trường Sa là tên gọi của cuộc chiến trên biển Đông năm 1988 khi Hải quân Quân giải phóng Nhân dân Trung Hoa đưa quân chiếm đóng bãi đá Cô Lin, bãi đá Len Đao và bãi đá Gạc Ma thuộc quần đảo Trường Sa, do ba bãi đá này không có quân đội đồn trú nên Hải quân Nhân dân Việt Nam phải đưa quân ra bảo vệ, đánh trả và cuộc chiến nổ ra vào ngày 14 tháng 3 năm 1988. Phía Việt Nam mất ba tàu vận tải của hải quân Việt Nam, 64 thủy binh Việt Nam đã hi sinh. Trung Quốc bị hư hại tàu chiến, thương vong 24 thủy binh. Kể từ đó Trung Quốc đã chiếm đóng bãi đá Gạc Ma và hai nước cùng cho hải quân ra đóng giữ một số đá ngầm khác mà hai bên cùng tuyên bố chủ quyền. Trong các tài liệu của Hải Quân Việt Nam, sự kiện này được biết đến với tên gọi CQ-88 (Chủ quyền-88)."
+  },
+  {
+    "ten": "Kháng chiến chống quân Nam Hán lần thứ nhất ",
+    "thoiGian": "930 – 931",
+    "noiDung": "Năm 917, Khúc Hạo mất, Khúc Thừa Mĩ lên thay. Tiếp tục sự nghiệp của cha, Khúc Thừa Mĩ đã cử quân sang thần phục nhà Hậu Lương và được vua Lương phong chức Tiết độ sứ. Viện cớ này, năm 930, quân Nam Hán đánh sang nước ta. Khúc Thừa Mĩ chống cự không nổi bị bắt đem về Quảng Châu. Nhà Nam Hán nhân đó cử Lý Tiến làm Thứ sử Giao Châu, đặt cơ quan đô hộ ở Tống Bình (Hà Nội). Năm 931, một tướng cũ của Khúc Hạo là Dương Đình Nghệ được tin đã kéo quân từ Thanh Hoá ra Bắc, bao vây thành Tống Bình."
+  },
+  {
+    "ten": "Chi tiết Hội Duy Tân được thành lập ",
+    "thoiGian": "1904 ",
+    "noiDung": "Ngày 8 tháng 4 năm Giáp Thìn (1904), sau khi từ Nam Kỳ về, Phan Bội Châu cùng Cường Để và hơn 20 đồng chí khác họp tại nhà riêng của Nguyễn Hàm (còn có tên là Nguyễn Thành, Nguyễn Tiểu La) tại Nam Thịnh sơn trang (Thăng Bình, Quảng Nam) lập ra một tổ chức bí mật có tên là Duy Tân Hội."
+  },
+  {
+    "ten": "Ngày Quốc Tế Phụ Nữ ",
+    "thoiGian": "1910 ",
+    "noiDung": "Ngày Quốc tế Phụ nữ hay còn gọi là Ngày Liên Hiệp Quốc vì Nữ quyền và Hòa bình Quốc tế được Liên Hiệp Quốc, đây là thành quả đấu tranh lâu dài và lặng lẽ của hàng triệu phụ nữ trên thế giới."
+  },
+  {
+    "ten": "Chiến dịch Tây Bắc ",
+    "thoiGian": "1952 – 1952",
+    "noiDung": "Tây Bắc là một vùng chiến lược quan trọng và là nơi hiểm yếu. Ở đây quân Pháp có thể uy hiếp căn cứ Việt Bắc và che trở cho Thượng Lào. Nhưng lực lượng quân Pháp ở đây lại yếu và sơ hở. Vào đầu tháng 9 năm 1952, Bộ Chính trị quyết định mở chiến dịch Tây Bắc. Chủ trương của Trung ương Đảng là “Tránh chỗ mạnh, đánh chỗ yếu, tìm nơi sơ hở của địch mà đánh và hướng tiến công là Chiến dịch Tây Bắc. Mục đích: Tiêu diệt sinh lực địch, tranh thủ nhân dân, đánh bại ý đồ của thực dân Pháp lập “xứ Thái tự trị”, giải phóng một phần đất đai ở vùng Tây Bắc."
+  },
+  {
+    "ten": "Chi tiết Nguyến Ái Quốc gửi bản yêu sách của nhân dân Việt tới hội nghị Vecxay ",
+    "thoiGian": "1919 ",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Pháp chiếm thành Vĩnh Long ",
+    "thoiGian": "1862 – 1862",
+    "noiDung": "Ngày 20.3.1862, Pháp mang quân tiến đánh và chiếm đóng thành Vĩnh Long. Trận đánh Vĩnh Long nằm trong chiến dịch Nam kỳ của người Pháp. Sau khi chiến thắng tại Đại đồn Chí Hòa (2.1861) rồi tiếp đến Định Tường (1862), quan quân triều đình nhà Nguyễn bỏ đồn nhưng nghĩa sĩ yêu nước Nam kỳ vẫn tiếp tục đứng lên chống Pháp. Bất lực trước sức đề kháng của nhân dân Việt, Đề đốc Hải quân Charner đã xin từ chức. Tháng 10 năm 1861, Đô đốc L. Bonard được cử sang thay, quyết tâm thực hiện lệnh của Bộ trưởng Hải quân Pháp là phải giữ vững sự đô hộ của người Pháp ở Sài Gòn. Theo đó, kế hoạch đánh chiếm Biên Hòa và Vĩnh Long liền được thảo ra, và nhanh chóng thực hiện nhằm mở rộng khả năng càn quét, bao vây, tiêu diệt các lực lượng chống đối trên một địa bàn rộng lớn từ sông Đồng Nai đến sông Tiền, sông Hậu"
+  },
+  {
+    "ten": "Khởi nghĩa Bắc Sơn ",
+    "thoiGian": "1940 ",
+    "noiDung": "Ngày 22 tháng 9 năm 1940, quân Nhật đánh vào Lạng Sơn, quân đội Pháp trên đường thua chạy đã rút lui qua châu Bắc Sơn. Nhân cơ hội đó, Đảng bộ Bắc Sơn thuộc Đảng Cộng sản Việt Nam đã lãnh đạo người dân nổi dậy tước khí giới của tàn quân Pháp để tự vũ trang cho mình, giải tán chính quyền địch, thành lập chính quyền cách mạng."
+  },
+  {
+    "ten": "Khoảng 4000 năm trước :Có văn hóa Phùng Nguyên, đồ đồng xuất hiện ",
+    "thoiGian": "-4000 ",
+    "noiDung": "Văn hóa Phùng Nguyên. Các bộ lạc Phùng Nguyên là cư dân nông nghiệp trồng lúa nước ở lưu vực sông Hồng đã đạt đến trình độ cao trong kỹ thuật chế tác đồ đá và biết đến nguyên liệu đồng thau. Các di tích thuộc văn hóa Phùng Nguyên đã được phát hiện ở các tỉnh Phú Thọ, Vĩnh Phúc, Bắc Giang, Bắc Ninh, Hà Tây, Hà Nội và Hải Phòng."
+  },
+  {
+    "ten": "Thành lập Tổng Liên đoàn Lao động Việt Nam ",
+    "thoiGian": "1929 ",
+    "noiDung": "Tổng Liên đoàn Lao động Việt Nam thành lập ngày 28-7-1929, là cơ quan lãnh đạo của các cấp Công đoàn.Tổng Liên đoàn Lao động Việt Nam thay mặt cho công nhân, viên chức và lao động tham gia quản lý kinh tế, quản lý Nhà nước, tham gia xây dựng pháp luật, chế độ chính sách liên quan đến quyền lợi, nghĩa vụ của công nhân, viên chức và lao động."
+  },
+  {
+    "ten": "Thực dân Pháp đánh chiếm Sài Gòn Nhân dân Nam Bộ đứng lên chống thực dân Pháp trở lại xâm lược ",
+    "thoiGian": "1945 ",
+    "noiDung": "Chỉ 3 tuần lễ sau khi nước Việt Nam dân chủ cộng hoà ra đời, ngày 23/9/1945 thực dân Pháp núp dưới bóng quân đội Anh tước vũ khí của quân đội Nhật ở Nam Bộ, âm mưu quay trở lại xâm lược nước ta lần nữa. 6.000 quân Pháp dựa vào hơn 1 vạn quân Anh đã trắng trợn gây hấn ở thành phố Sài Gòn. Chúng mưu toan chiếm Nam Bộ làm bàn đạp chiếm cả Việt Nam và Đông Dương."
+  },
+  {
+    "ten": "Chi tiết Thành lập Tổng Liên đoàn Lao động Việt Nam ",
+    "thoiGian": "1929 ",
+    "noiDung": "Tổng Liên đoàn Lao động Việt Nam thành lập ngày 28-7-1929, là cơ quan lãnh đạo của các cấp Công đoàn.Tổng Liên đoàn Lao động Việt Nam thay mặt cho công nhân, viên chức và lao động tham gia quản lý kinh tế, quản lý Nhà nước, tham gia xây dựng pháp luật, chế độ chính sách liên quan đến quyền lợi, nghĩa vụ của công nhân, viên chức và lao động."
+  },
+  {
+    "ten": "Chi tiết Nguyễn Ái Quốc tham dự Đại hội lần thứ V Quốc tế Cộng sản họp tại Mátxcơva ",
+    "thoiGian": "1924 ",
+    "noiDung": "Nguyễn Ái Quốc dự Đại hội lần thứ V của Quốc tế Cộng sản với tư cách là đại biểu tư vấn. Đại hội họp tại cung Anđrâyépxki trong Điện Kremli (Mátxcơva) với sự tham gia của 504 đại biểu của 49 Đảng Cộng sản và Đảng Công nhân thay mặt cho 1.319.000 đảng viên cộng sản trên toàn thế giới và 10 tổ chức quốc tế. Phiên khai mạc đại hội tổ chức vào buổi tối ngày 17 – 6 – 1924."
+  },
+  {
+    "ten": "Khởi nghĩa Yên Thế ",
+    "thoiGian": "1884 – 1913",
+    "noiDung": "Trong nhữn năm cuối thế kỉ XIX, song song với các cuộc khởi nghĩa của phong trào Cần Vương, còn có các cuộc đấu tranh tự phát của nhân dân các địa phương trung du miền núi, nổi bật nhất là cuộc khởi nghĩa yên Thế. Cuộc khởi nghĩa yên thế bùng nổ năm 1884, kéo dài đến năm 1913. Những người lãnh đạo cuộc khởi nghĩa gồm phần lớn là nông dân. Người có công và đóng vai trò to lớn hơn cả là Lương Văn Nắm (Đề Nắm) và tiếp đó là Hoàng Hoa Thám (Đề Thám)."
+  },
+  {
+    "ten": "Chi tiết Minh Mạng thành lập Quốc tử giám ở kinh thành Huế ",
+    "thoiGian": "1821 ",
+    "noiDung": "Nay là Bảo tàng Lịch sử và Cách mạng tỉnh Thừa Thiên Huế. Quốc Tử Giám là di tích trường đại học duy nhất thời phong kiến còn tồn tại ở Việt Nam, và là một di tích lịch sử, văn hóa có giá trị cao. Ngày 11 tháng 12 năm 1993, Quốc Tử Giám cùng với hệ thống di tích cung đình triều Nguyễn đã được ghi tên vào danh mục Di sản thế giới."
+  },
+  {
+    "ten": "Chiến thắng Vạn Tường ",
+    "thoiGian": "1965 ",
+    "noiDung": "Ngày 18.8.1965, trên đất Vạn Tường (huyện Bình Sơn, tỉnh Quảng Ngãi) đã diễn ra trận đánh diệt Mỹ quy mô lớn đầu tiên của quân và dân miền Nam. Đây là trận đánh quy mô đầu tiên giữa quân đội Mỹ và Quân Giải phóng Miền Nam Việt Nam trên bộ."
+  },
+  {
+    "ten": "Chiến thắng Ba Gia ",
+    "thoiGian": "1965 – 1965",
+    "noiDung": "Trận Ba Gia hay còn gọi là trận Tây Sơn Tịnh diễn ra từ ngày 29.5 đến 31.5. 1965 trên địa bàn thị trấn Ba Gia, huyện Sơn Tịnh, tỉnh Quảng Ngãi, là trận đánh góp phần đẩy nhanh sự phá sản của chiến lược Chiến tranh đặc biệt trong Chiến tranh Việt Nam. Trận đánh được tiến hành bởi Trung đoàn 1 bộ binh Quân khu V (Quân Giải phóng miền Nam) nhằm vào một chiến đoàn, 2 tiểu đoàn bộ binh hải quân và 3 tiểu đoàn biệt động quân của Quân lực Việt Nam Cộng hòa."
+  },
+  {
+    "ten": "Chiến dịch Tây Bắc ",
+    "thoiGian": "1952 – 1952",
+    "noiDung": "Tây Bắc là một vùng chiến lược quan trọng và là nơi hiểm yếu. Ở đây quân Pháp có thể uy hiếp căn cứ Việt Bắc và che trở cho Thượng Lào. Nhưng lực lượng quân Pháp ở đây lại yếu và sơ hở. Vào đầu tháng 9 năm 1952, Bộ Chính trị quyết định mở chiến dịch Tây Bắc. Chủ trương của Trung ương Đảng là “Tránh chỗ mạnh, đánh chỗ yếu, tìm nơi sơ hở của địch mà đánh và hướng tiến công là Chiến dịch Tây Bắc. Mục đích: Tiêu diệt sinh lực địch, tranh thủ nhân dân, đánh bại ý đồ của thực dân Pháp lập “xứ Thái tự trị”, giải phóng một phần đất đai ở vùng Tây Bắc."
+  },
+  {
+    "ten": "Chi tiết Kháng chiến chống quân xâm lược Tần ",
+    "thoiGian": "-214 – -208",
+    "noiDung": "Vào cuối thế kỉ III TCN – đời vua Hùng thứ 18, đất nước Văn Lang không còn bình yên nữa. “vua không lo sửa sang võ bị chỉ ham chơi, ăn uống, lụt lội xảy ra, đời sống nhân dân gặp nhiều khó khăn. Trong khi đó ở phương Bắc nhà Tần thống nhất Trung Nguyên. Năm 218 TCN, vua Tần sai quân đánh xuống phương Nam để mở rộng bờ cõi. Sau 4 năm chinh chiến, quân Tần đánh xuống Bắc Văn Lang nơi người Lạc Việt và Tây u đang sinh sống. Cuộc kháng chiến bùng nổ, thủ lĩnh Tây u bị giết. Người Việt trốn vào rừng và tôn một người tuấn kiệt là Thục Phán lên làm tướng. Cuộc chiến đấu kiên cường của cư dân Tây u-Lạc Việt đã đại phá quân Tần, giết Hiệu úy Đồ Thư. Nhà Tần phải bãi binh."
+  },
+  {
+    "ten": "Nhà Hồ quản lí đất nước, đổi quốc hiệu là Đại Ngu ",
+    "thoiGian": "1400 – 1407",
+    "noiDung": "Năm 1400, sau khi lật đổ nhà Trần, Hồ Quý Ly tự lên ngôi vua đổi quốc hiệu là Đại Ngu. Quốc hiệu “Đại Ngu” bắt nguồn từ truyền thuyết cho rằng họ Hồ là con cháu Ngu Thuấn- một vị vua của Trung Hoa cổ đại, nổi tiếng vì đã đem lại sự bình yên và thịnh vượng cho dân chúng. Chữ “Ngu”có nghĩa là “sự yên vui, hòa bình”. “Đại Ngu thể hiện ước vọng của nhà Hồ về một giang sơn bình yên và rộng lớn. Sau đó vào tháng 4 năm 1407, nhà Hồ bị thất bại trước nhà Minh, và tên Đại Ngu không được dùng làm quốc hiệu từ thời điểm đó. Sau khi nhà Hậu Lê giành lại độc lập, quốc hiệu đổi lại thành Đại Việt."
+  },
+  {
+    "ten": "Chi tiết Khởi nghĩa Cao Bá Quát ",
+    "thoiGian": "1854 – 1856",
+    "noiDung": "Đến giữa thế kỷ 19, nền kinh tế Việt Nam hết sức suy đốn trì trệ. Các nạn chiếm đoạt và tập trung ruộng đất của giới địa chủ, sự tham nhũng của nhiều quan lại, chế độ tô thuế và lao dịch khắc nghiệt; nạn bão lụt, hạn hán, ôn dịch và vỡ đê xảy ra liên miên. Tất cả đã đẩy người dân lao động xuống tận đáy khốn cùng. Do vậy khoảng thời gian từ 1847 đến 1862, tức trước khi vua Tự Đức ký Hòa ước Nhâm Tuất nhường cho Pháp ba tỉnh miền Tây Nam Kỳ, đã có hơn 40 cuộc nổi dậy chống nghèo đói và áp bức, trong đó có cuộc nổi dậy Cao Bá Quát (1854-1856) ở Hà Tây (nay thuộc Hà Nội) là tiêu biểu nhất. Khởi nghĩa Cao Bá Quát cuộc nổi dậy của nông dân dưới triều Tự Đức, thủ lĩnh là Cao Bá Quát. Ông đã tập hợp nghĩa quân nổi dậy ở Mỹ Lương (nay thuộc Mỹ Đức và Chương Mỹ, Hà Tây), tự mình làm quân sư, tôn Lê Duy Cự làm minh chủ"
+  },
+  {
+    "ten": "Chi tiết Cuộc khởi nghĩa Hai Bà Trưng bùng nổ ",
+    "thoiGian": "40",
+    "noiDung": "Mùa xuân năm 40 (tháng 3 dương lịch), Hai Bà Trưng dựng cờ khởi nghĩa ở Hát Môn (Hà Nội). Nghĩa quân nhanh chóng đánh bại kẻ thù, làm chủ Mê Linh; rồi từ Mê Linh, tiến đánh Cổ Loa và Luy Lâu. Tô Định hoảng hốt phải bỏ thành, cắt tóc, cạo râu, lẻn trốn về Nam Hải (Quảng Đông – Trung Quốc). Quân Hán ở các quận khác cũng lần lượt bị đánh tan"
+  },
+  {
+    "ten": "Chi tiết Nhà Đường đổi Giao Châu thành An Nam đô hộ phủ ",
+    "thoiGian": "679",
+    "noiDung": "Năm 618, nhà Đường được thành lập ở Trung Quốc. Nước ta lại chịu sự thống trị của nhà Đường. Năm 679 nhà Đường đổi Giao Châu thành An Nam đô hộ phủ (sử Trung Quốc bắt đầu gọi ta là An Nam kể từ đó). Với các hình thức và thủ đoạn cai trị xảo quyệt, hà khắc và ngu dân. An Nam đô hộ phủ tương ứng với một phần tây nam Quảng Tây (Trung Quốc), Miền Bắc và miền Trung Việt Nam ngày nay, có địa bàn từ Hà Tĩnh trở ra."
+  },
+  {
+    "ten": "Chi tiết Khởi nghĩa nông dân Tây Sơn bùng nổ ",
+    "thoiGian": "1771 ",
+    "noiDung": "Từ giữa thế kỉ XVIII, chính quyền họ Nguyễn ở Đàng Trong suy yếu dần. Việc mua quan bán tước diễn ra phổ biến. Số quan lại ngày càng tăng, nhất là quan thu thuế. Quan lại, hào cường kết thành bè cánh, đàn áp bóc lột nhân dân thậm tệ và đua nhau ăn chơi xa xỉ. Nỗi bất bình oán hận của các tầng lớp xã hội với chính quyền họ Nguyễn ngày càng dâng cao. Mùa xuân năm 1771, ba anh em Nguyễn Nhạc, Nguyễn Huệ và Nguyễn Lữ lên vùng Tây Sơn thượng đạo (nay thuộc An Khê, Gia Lai) lập căn cứ, dụng cờ khởi nghĩa chống chính quyền họ Nguyễn."
+  },
+  {
+    "ten": "Chi tiết Nước Âu lạc bị quân Triệu Đà xâm chiếm ",
+    "thoiGian": "-179 ",
+    "noiDung": "Triệu Đà là một tướng của nhà Tần. Năm 207 TCN, nhân lúc nhà Tần suy yếu, Triệu Đà cắt đất ba quận lập nước nam Việt và đem quân đi đánh các vùng xung quang và đánh xuống u lạc."
+  },
+  {
+    "ten": "Chi tiết Khởi nghĩa của Trương Định ",
+    "thoiGian": "1861 ",
+    "noiDung": "Khởi nghĩa của Trương Định là cuộc khởi nghĩa chống Pháp ở Nam Kỳ do Trương Định lãnh đạo, lấy Gò Công làm căn cứ, địa bàn hoạt động rộng. Người anh hùng Trương Định với trí dũng song toàn, từ đất Gò Công đã thu hút được nhiều anh tài như Đỗ Quang, Đỗ Trình Thoại, u Dương Lân, Nguyễn Thông… nghĩa quân của Trương Định ngày càng đông và uy thế lan rộng khắp các vùng từ Tân An, Mỹ Tho, Gò Công xuống Đồng Tháp Mười… Suốt những năm từ 1861 đến cuối 1864, nghĩa quân ông chiến đấu anh dũng và giành được nhiều thắng lợi. Tuy nhiên, do kẻ thù với vũ khí hiện đại, cuộc khởi nghĩa của Trương Định cũng nhanh chóng bị dập tắt."
+  },
+  {
+    "ten": "Chi tiết Nhà Lý mở khoa thi đầu tiên, Lê Văn Thịnh đỗ đầu ",
+    "thoiGian": "1075 ",
+    "noiDung": "Khoa thi đầu tiên được nhà Lý tổ chức vào tháng 2 năm 1075 thời vua Lý Nhân Tông. Lê Văn Thịnh đỗ đầu cùng hơn 10 người trúng tuyển. Ông trở thành thủ khoa đầu tiên trong lịch sử Việt Nam. Việc mở khoa thi Nho giáo đầu tiên đánh dấu mốc về việc nhà Lý chính thức tuyển người theo Nho giáo làm quan bên cạnh tầng lớp quan lại thiên về kiến thức Phật giáo trước đó."
+  },
+  {
+    "ten": "Chi tiết Chiến dịch đồng bằng sông Cửu Long ",
+    "thoiGian": "1972 – 1972",
+    "noiDung": "Chiến dịch đồng bằng song Cửu Long diễn ra từ ngày 10.6 đến ngày 10.9.1972. Đây là chiến dịch tiến công tổng hợp của quân và dân miền trung Nam Bộ (khu VIII),diễn ra trên địa bàn phía nam – bắc đường số 4 gồm các tỉnh Mỹ Tho, Kiến Phong (nay thuộc tỉnh Đồng Tháp), Kiến Tường (nay thuộc tỉnh Long An), Bến Tre, Gò Công (nay là tỉnh Tiền Giang). Trong chiến dịch này, Quân đội nhân dân Việt Nam (QĐNDVN) sử dụng lực lượng vũ trang ba thứ quân đột phá tuyến phòng thủ biên giới, mở thông hành lang và tuyến trung gian, đưa lực lượng chủ lực xuống chia cắt Đường số 4, tiêu diệt một bộ phận Quân Việt Nam Cộng hòa (VNCH) trong các chi khu, tiểu khu, đập vỡ hệ thống đồn bốt, phá thế kìm kẹp. Trong thực hiện chiến dịch, QĐNDVN kết hợp chặt chẽ ba mũi giáp công, phát động quần chúng mở mảng, mở vùng, mở rộng vùng giải phóng, giành một bộ phận nhân dân trong khu vực."
+  },
+  {
+    "ten": "Hội nghị Giơnevơ về Đông Dương kết thúc thắng lợi ",
+    "thoiGian": "1954",
+    "noiDung": "Hiệp định Giơ-ne-vơ (Genève) năm 1954, khôi phục hòa bình ở Đông Dương, bãi bỏ quyền cai trị của người Pháp, công nhận nền độc lập của ba quốc gia Việt Nam, Lào và Campuchia, chính thức chấm dứt chế độ thực dân Pháp tại Đông Dương. Tháng 1 – 1954, ngoại trưởng 4 nước Liên Xô, Mỹ, Anh và Pháp đã họp tại Bec-lin và quyết định sẽ triệu tập một hội nghị quốc tế ở Giơ-ne-vơ (Thụy Sĩ) để giải quyết hai vấn đề: chiến tranh tại Triều Tiên và lập lại hòa bình ở Đông Dương."
+  },
+  {
+    "ten": "Lý Thường Kiệt lãnh đạo kháng chiến chống Tống thắng lợi ",
+    "thoiGian": "1077 ",
+    "noiDung": "Từ giữa thế kỉ thứ XI, nhà Tống gặp phải những khó khăn: tài chính nguy ngập, ngân khố cạn kiệt, nội bộ mâu thuẫn, nhân dân đói khổ, nhiều nơi nổi dậy đấu tranh. Vùng biên cương phía bắc của nhà Tống thường xuyên bị hai nước Liêu-Hạ quấy nhiễu. Để giải quyết tình trạng trên, nhà Tống tiến hành xâm lược Đại Việt. Một mặt nhà Tống xúi giục vua Chăm-pa đánh lên từ phía nam, một mặt ngăn cản việc buôn bán, đi lại của nhân dân hai nước, dụ đỗ các tù trưởng dân tộc ít người ở biên giới phía bắc Đại Việt. Sớm phát hiện mưu đồ của kẻ thù, vua nhà Lý cử Lý Thường Kiệt chỉ huy, tổ chức kháng chiến."
+  },
+  {
+    "ten": "Chi tiết Đại hội quốc dân họp ở Tân Trào quyết định tổng khởi nghĩa trong cả nước ",
+    "thoiGian": "1945",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Trận Cầu Giấy  PGacniê bị giết ",
+    "thoiGian": "Hà Nội1873 ",
+    "noiDung": "Theo lệnh của Hoàng Tá Viêm, Thống đốc quân thứ Tam Tuyên (Sơn Tây, Hưng Hóa, Tuyên Quang) và của Tôn Thất Thuyết, Tham tán quân thứ Tam Tuyên, Lưu Vĩnh Phúc đem quân đến mai phục ở khu Cầu Giấy cách thành Hà Nội hơn 2km và cho một nhóm đến sát thành Hà Nội khiêu chiến. Bấy giờ Phrăngxi Gacniê đang hội đàm buổi thứ hai với phái đoàn của Trần Đình Túc ở trong thành. Thấy bên ngoài thành có động, Phrăngxi Gacniê bỏ họp, đem quân ra ngoài thành nghênh chiến rồi bị phục kích. Thiếu tá hải quân Phrăngxi Gacniê cùng một số sĩ quan thực dân bị giết chết tại trận. Tàn quân của Phrăngxi Gacniê rút vào trong thành cố thủ."
+  },
+  {
+    "ten": "Chi tiết Nghĩa quân Tây Sơn lật đổ chính quyền chúa Nguyễn ở Đàng Trong ",
+    "thoiGian": "1777 ",
+    "noiDung": "Năm 1771, ba anh em Nguyễn Nhạc, Nguyễn Huệ, Nguyễn Lữ lên vùng Tây Sơn Thượng Đạo (thuộc huyện An Khê, Gia Lai) tập hợp lực lượng chuẩn bị khởi nghĩa. Mùa thu năm 1773, nghĩa quân đã kiểm soát phần lớn phủ Quy Nhơn. Chỉ trong vòng một năm (đến giữa năm 1774), nghĩa quân kiểm soát một vùng rộng lớn từ Quảng Nam ở phía bắc đến Bình Thuận ở phía Nam."
+  },
+  {
+    "ten": "Tô Định làm Thái thú Giao Chỉ ",
+    "thoiGian": "34",
+    "noiDung": "Tô Định sang làm Thái thú Giao Chỉ thay cho Tích Quang. Tô Định thi hành chính sách cai trị và bóc lột rất tàn bạo đối với người Việt. Bọn Thái thú Tô Định cùng Đốc bưu đốc thúc đồ cống, thu thuế muối, sắt, cùng sản vật thủ công, thuế đánh cá đầm ao,… Không những thế, chúng còn khống chế, đè nén các lạc tướng và con cháu họ. Dân oán hận, quý tộc u lạc cũ cũng oán hận chính quyền đô hộ, đã làm bùng nổ những phong trào chống đối ngày càng mạnh mẽ của nhân dân và quý tộc Lạc Việt."
+  },
+  {
+    "ten": "Thực dân Pháp nổ súng xâm lược Việt Nam tại bán đảo Sơn Trà – Đà Nẵng ",
+    "thoiGian": "1858 – 1858",
+    "noiDung": "Kế hoạch xâm lược Việt Nam đã được thông qua từ tháng 4-1857 và đến khi cuộc can thiệp của Pháp ở vùng biển Trung Hoa tạm ngưng bởi hiệp ước thiên Tân lần thứ nhất ngày 27-6-1858, hạm đội Pháp lập tức quay mũi về phía Đà Nẵng."
+  },
+  {
+    "ten": "Phát xít Nhật tuyên bố đầu hàng phe Đồng minh ",
+    "thoiGian": "1945",
+    "noiDung": "Ngày 8-8-1945, Liên Xô tuyên chiến với Nhật. Ngày 9-8, quân đội Xô viết mở màn chiến dịch tổng công kích đạo quân Quang Đông của Nhật ở chiến trường Mông Cổ và Đông Bắc Trung Quốc. Chiến dịch kéo dài đến 28-8, tiêu diệt 1 triệu quân của lực lượng chiến lược trụ cột của Nhật vào giai đoạn kết thúc cuộc Chiến tranh thế giới thức hai. Cũng trong thời gian này, Mỹ ném hai quả bom nguyên tử xuống Hirôsima (6-8) và Nagadaki (9-8)."
+  },
+  {
+    "ten": "Chi tiết Quân Lam Sơn giải phóng Nghệ An ",
+    "thoiGian": "1424 ",
+    "noiDung": "Năm 1416, Lê Lợi và các cộng sự mở Hội thề Lũng Nhai, bắt đầu khởi nghĩa chống quân Minh xâm lược. Ban đầu nghĩa quân lập chiến khu ở vùng núi Lam Sơn (Thanh Hóa) nhưng lực lượng mỏng lại bị quân Minh trấn áp quyết liệt, nên phải rút về lập chiến khu mới ở vùng núi Chí Linh. Tại Chí Linh, quân Việt tiếp tục gặp phải khó khăn về lương thực và lực lượng, bị quân Minh tấn công dữ dội. Sau thời gian tạm hòa, cuối năm 1424 quân Minh tiến công nghĩa quân. Trước tình hình này, Nguyễn chích đề nghị tạm rời Chí Linh (Thanh Hóa) để chuyển quân về Nghệ An là nơi đất rộng, người đông và cũng rất hiểm yếu, dựa vào đó có thể quay ra đánh lấy Đông Đô."
+  },
+  {
+    "ten": "Chi tiết Chiến dịch tiến công tuyến phòng thủ Xuân Lộc – Long Khánh ",
+    "thoiGian": "1975 – 1975",
+    "noiDung": "Chiến dịch tiến công tuyến phòng thủ Xuân Lộc – Long Khánh, là một chiến dịch trong Chiến tranh Việt Nam. Chiến dịch diễn ra trong khoảng 9-20.4.1975 giữa Quân đội Nhân dân Việt Nam (QĐNDVN) và Quân lực Việt Nam Cộng hoà (QLVNCH). Chiến dịch này là một mốc quan trọng của quá trình tiến tới sự kiện 30.4.1975, vì Xuân Lộc là khu vực phòng thủ trọng yếu trong tuyến phòng thủ cơ bản (Biên Hòa – Xuân Lộc – Bà Rịa – Vũng Tàu) của QLVNCH để phòng giữ cửa ngõ phía đông của Sài Gòn."
+  },
+  {
+    "ten": "Chi tiết Trận Tà Mây – Làng Vây .",
+    "thoiGian": "1968 – 1968",
+    "noiDung": "Trận Tà Mây – Làng Vây là một trận đánh then chốt trong Chiến dịch Đường 9 – Khe Sanh của Quân đội Nhân dân Việt Nam (QĐNDVN), diễn ra vào đêm ngày 6.2, rạng sáng7.2.1968. Đây là trận đánh đầu tiên có sự tham gia của lực lượng tăng thiết giáp QĐNDVN trong Chiến tranh Việt Nam"
+  },
+  {
+    "ten": "Chi tiết Chiến thắng Như Nguyệt ",
+    "thoiGian": "1077 – 1077",
+    "noiDung": "Trận Như Nguyệt, trận đánh Lý Thường Kiệt phat Tống vang danh trong lịch sử Việt Nam. Như Nguyệt là tên của một bến đò và là tên chung của một đoạn sông Cầu. Nhắc đến sông Cầu hẳn ai cũng nhớ đến trận đánh nổi tiếng của quân đội nhà Lý dưới sự chỉ huy của danh tướng Lý Thường Kiệt. Dòng sông có chiều dài 290km bắt nguồn từ núi Văn Ôn, chảy qua biết bao làng mạc, dòng sông đã nuôi nấng bao thế hệ để rồi khi chảy đến ngã ba Xà, nơi hợp lưu của sông Cà Lồ chảy vào sông Cầu, dòng sông là minh chứng duy nhất để kể lại cho muôn đời về trận đánh hào hùng, về phòng tuyến trên sông Như Nguyệt, nơi đánh đuổi 10 vạn quân bắc Tống."
+  },
+  {
+    "ten": "Chi tiết Trận Bắc Lệ ",
+    "thoiGian": "1884 ",
+    "noiDung": "Hiển thị thông tin của Sự kiện Lịch sử."
+  },
+  {
+    "ten": "Chi tiết Khởi nghĩa Lam Sơn ",
+    "thoiGian": "1418 – 1427",
+    "noiDung": "Sau khi nhà Minh tiêu diệt nhà Hồ, nhân dân ta đã nổi dậy ở nhiều nơi như cuộc khởi nghĩa của Trần Ngỗi, cuộc khởi nghĩa của Trần Quý Khoáng. Tuy nhiên các cuộc khởi nghĩa này lần lượt thất bại. Trước cảnh nước mất, nhân dân lầm than, Lê Lợi một hào trưởng vùng Lam Sơn (Thanh Hóa) đã dốc hết tài sản dể chiêu tập nghĩa sĩ, bí mật liên lạc với các hào kiệt, xây dựng lực lượng và chọn Lam Sơn làm căn cứ cho cuộc khởi nghĩa. Nghe tin Lê Lợi chuẩn bị khởi nghĩa ở Lam Sơn, nhiều người yêu nước tìm về càng đông, trong đó có Nguyễn Trãi. Ngày 2 tháng 1 năm Mậu Tuất (7-2-1418), Lê Lợi dựng cờ khởi nghĩa ở Lam Sơn và tự xưng là Bình Định Vương."
+  },
+  {
+    "ten": "Đại hội hợp nhất mặt trận Việt Minh và Hội Liên Việt thành Mặt trận Liên Việt ",
+    "thoiGian": "1951 – 1951",
+    "noiDung": "Đại hội toàn quốc thống nhất Việt Minh- Liên Việt được tổ chức từ ngày 3 đến ngày 7- 3-1951 tại xã Vinh Quang, huyện Chiêm Hóa, tỉnh Tuyên Quang. Đại hội đã thông qua Nghị quyết thống nhất hai tổ chức Việt Nam độc lập đồng minh (Việt Minh) và Hội Liên hiệp quốc dân Việt Nam (Liên Việt) thành Mặt trận Liên- Việt nhằm củng cố và mở rộng khối đại đoàn kết toàn dân, đáp ứng yêu cầu mới của cuộc kháng chiến chống thực dân Pháp đang bước vào thời kỳ quyết liệt. Mặt trận Liên Việt bao gồm tất cả các đoàn thể, tôn giáo, đảng phái, các cá nhân yêu nước nhằm kết chặt khối đại đoàn kết toàn dân để kháng chiến kiến quốc."
+  },
+  {
+    "ten": "Chi tiết Nhà Nguyễn sắp xếp lại đơn vị hành chính trong cả nước ",
+    "thoiGian": "1831 – 1832",
+    "noiDung": "Sau khi lật đổ nhà Lê Sơ, lên ngôi hoàng đế, năm 1802, vua Gia Long chọn Phú Xuân làm quốc đô, vẫn tạm đặt 11 trấn phía Bắc (tương đương khu vực Bắc Bộ ngày nay) thành một Tổng trấn với tên cũ Bắc Thành, do một Tổng trấn đứng đầu. Đến thời Minh Mạng, để nhất thể hóa các đơn vị hành chính trong cả nước, năm 1831-1832 nhà vua thực hiện một cuộc cải cách hành chính lớn, theo đó bỏ các tổng trấn, đổi các dinh, trấn thành tỉnh. Đây là lần đầu tiên đơn vị hành chính tỉnh xuất hiện ở Việt Nam."
+  },
+  {
+    "ten": "Chi tiết Khúc Thừa Dụ khởi nghĩa giành chính quyền tự chủ ",
+    "thoiGian": "905 ",
+    "noiDung": "Từ cuối thế kỉ thứ IX, triều đại nhà Đường sắp sụp đổ, Trung Quốc rơi vào thời kỳ đại loạn sử cũ gọi là thời kỳ Ngũ đại Thập quốc (5 đời 10 nước). Việc cai trị ở An Nam trở nên lỏng lẻo. Nhân cơ hội này, Khúc Thừa Dụ, một hào trưởng có thế lực lâu đời ở đất Hồng Châu (Ninh Giang, Hải Dương), đã nhanh chóng đứng ra lãnh đạo nhân dân nổi lên đánh đuổi bọn đô hộ nhà Đường, đánh chiếm Tống Bình, dựng quyền tự chủ cho đất nước. Khúc Thừa Dụ cũng tự xưng là Tiết độ sứ."
+  },
+  {
+    "ten": "Chi tiết Thánh Gióng đánh giặc ngoại xâm ",
+    "thoiGian": "-2879 – -258",
+    "noiDung": "Thời bắt đầu dựng nước, thời Hùng Vương, nước ta đã bị các thế lực ngoại bang xâm lấn. Truyền thuyết dân gian còn lưu truyền về cuộc kháng chiến của nhân dân dưới sự chỉ huy của người anh hùng thần thoại Thánh Gióng."
+  },
+  {
+    "ten": "Chi tiết Binh biến Đô Lương ",
+    "thoiGian": "1941 – 1941",
+    "noiDung": "Năm 1941, Đội Cung cùng với 50 anh em binh lính Đô Lương nổi dậy đánh chiếm các đồn Chợ Rạng, Đô Lương, rồi tiến về Vinh định phối hợp với binh lính ở đây với mục đích chiếm trại Giám binh thành Nghệ An và sau đó phát triển ra các nơi khác. Cuộc binh biến Đô Lương đã nêu cao tinh thần bất khuất của nhân dân Việt Nam, đã giáng một đòn phủ đầu vào chính quyền đô hộ Pháp."
+  },
+  {
+    "ten": "THÀNH LẬP ĐỘI THIẾU NIÊN TIỀN PHONG HỒ CHÍ MINH ",
+    "thoiGian": "1941",
+    "noiDung": "Đội Thiếu niên Tiền phong Hồ Chí Minh là tổ chức của thiếu nhi Việt Nam do Chủ tịch Hồ Chí Minh và Đảng Cộng sản Việt Nam sáng lập, Đoàn Thanh niên cộng sản Hồ Chí Minh phụ trách. Đội là tổ chức nòng cốt trong các phong trào thiếu nhi, là lực lượng giáo dục trong và ngoài nhà trường, là lực lượng dự bị của Đoàn Thanh niên cộng sản Hồ Chí Minh. Đội lấy 5 điều Bác Hồ dạy thiếu niên, nhi đồng làm mục tiêu phấn đấu rèn luyện cho đội viên, giúp đỡ đội viên phát triển mọi khả năng trong học tập hoạt động, vui chơi, thực hiện quyền và bổn phận theo Luật Bảo vệ chăm sóc và giáo dục trẻ em."
+  },
+  {
+    "ten": "Khởi nghĩa Yên Bái ",
+    "thoiGian": "1930 ",
+    "noiDung": "Khởi nghĩa Yên Bái là một cuộc nổi dậy bằng vũ trang ở Yên Bái, một phần trong cuộc khởi nghĩa do Việt Nam Quốc dân Đảng tổ chức và lãnh đạo nhằm đánh chiếm một số tỉnh và thành phố trọng yếu của miền Bắc Việt Nam vào ngày 10 tháng 2 năm 1930. Mục đích của cuộc nổi dậy là lật đổ chính quyền thuộc địa của Pháp để xây dựng một nước Việt Nam theo chính thể cộng hòa. Tỉnh lỵ Yên Bái chỉ là một trong những mục tiêu của cuộc tổng tấn công của Việt Nam Quốc dân Đảng vào quân đội và chính quyền thuộc địa."
+  },
+  {
+    "ten": "Lý Phật Tử gây hấn với Triệu Việt vương ",
+    "thoiGian": "555 – 571",
+    "noiDung": "Năm 557, Lý Phật Tử đem quân xuống miền Đông đánh nhau với Triệu Việt Vương ở huyện Thái Bình"
+  },
+  {
+    "ten": "Mạc Đăng Dung lật đổ nhà Lê Sơ, thành lập nhà Mạc ",
+    "thoiGian": "1527 ",
+    "noiDung": "Vào thế kỉ XVI, triều đình nhà Lê Sơ ngày càng suy yếu, sự tranh chấp phe phái ngày càng diễn ra quyết liệt. Mạc Đăng Dung vốn là một võ quan nhà Lê, lợi dụng xung đột giữa các phe phái. mạc Đăng Dung đã tiêu diệt các thế lực đối lập, thâu tóm quyền hàng, cương vị như Tể tướng. Năm 1527, Mạc Đăng Dung cướp ngôi nhà Lê, lập ra triều Mạc. Ông lên làm vua từ ngày 15 tháng 6 âm lịch năm 1527 đến hết năm 1529 với niên hiệu Minh Đức. Sau đó nhường ngôi cho con là Mạc Đăng Doanh (tức Mạc Thái Tông) để lui về làm Thái thượng hoàng."
+  },
+  {
+    "ten": "Thành lập Hội Văn hóa cứu quốc ",
+    "thoiGian": "1943 ",
+    "noiDung": "Dưới ánh sáng của bảng Đề cương Văn hóa Việt Nam, Hội Văn hóa cứu quốc được thành lập tại Hà Nội theo tinh thần của Nghị quyết Hội nghị Ban Thường vụ Trung ương Đảng (2-1943) đã đặt ra: “Đảng cần phải phái cán bộ chuyên môn vào hoạt động về văn hóa, đặng gây ra một phong trào văn hóa tiến bộ, văn hóa cứu quốc chống lại văn hóa phát xít thụt lùi. Ở những đô thị văn hóa như Hà Nội, Sài Gòn, Huế v.v…phải gây ra những tổ chức văn hóa cứu quốc và phải dùng những hình thức công khai hay bán công khai đặng đoàn kết các nhà văn hóa và trí thức…”"
+  },
+  {
+    "ten": "Chi tiết Chiến thắng quân xâm lược Mông Cổ lần thứ nhất ",
+    "thoiGian": "1258 ",
+    "noiDung": "Đầu thề kỉ thứ XIII, nước Mông Cổ thành lập. Với một lực lượng quân đội mạnh và hiếu chiến, vua Mông Cổ liên tiếp xâm lược và thống trị nhiều nước ở Châu Á, Châu u. Quân Mông Cổ đi đến đâu cũng làm nhà cửa đổ nát, thành trì tan hoang, nhân dân bị giết hoặc bị bắt làm nô lệ. Năm 1257, để thực hiện kế hoạch “gọng kìm” tiêu diệt Nam Tống nhằm xâm chiếm toàn bộ Trung Quốc, vua Mông Cổ sai tướng Ngột Lương Hợp Thai chỉ huy hơn 2 vạn quân xâm lược Đại Việt."
+  },
+  {
+    "ten": "Chi tiết Hiệp ước Giáp Tuất 1874 .",
+    "thoiGian": "",
+    "noiDung": "Hiệp ước Giáp Tuất 1874 là bản hiệp định thứ hai giữa triều Nguyễn và Pháp, được ký vào ngày 15 tháng 3 năm 1874 với đại diện của triều Nguyễn là Lê Tuấn – Chánh sứ toàn quyền đại thần, Nguyễn Văn Tường – Phó sứ toàn quyền đại thần và đại diện của Pháp là Dupré – Toàn quyền đại thần, Thống đốc Nam Kỳ. Hoà ước gồm có 22 điều khoản với nội dung chính là thay thế bản Hòa ước Nhâm Tuất 1862, công nhận chủ quyền vĩnh viễn của Pháp ở Nam Kỳ, lệ thuộc về chủ quyền ngoại giao, mở cửa cho Pháp tự do buôn bán tại các cảng biển và trên sông Hồng cùng tự do truyền đạo."
+  },
+  {
+    "ten": "Chi tiết Ngày Nam Bộ Kháng chiến ",
+    "thoiGian": "1945 ",
+    "noiDung": "Nam Bộ kháng chiến là một hoạt động quân sự trong chiến tranh Đông Dương. Được lấy mốc là ngày 23/9/1945, khi quân Pháp đánh Nam Bộ. Chiến sự ban đầu diễn ra trên chiến trường Nam Bộ, sau đó phát triển ra Tây Nguyên và Nam Trung Bộ."
+  },
+  {
+    "ten": "Trận chiến Vị Xuyên ",
+    "thoiGian": "1984 ",
+    "noiDung": "Ngày 12/7/1984, quân đội Việt Nam phản công giành lại những điểm cao bị Trung Quốc chiếm giữ ở Vị Xuyên (Hà Giang), 820 chiến sĩ đã bị thương, sư đoàn 356 có khoảng 600 người hy sinh. Mặt trận Vị Xuyên – Thanh Thuỷ được xác định là vùng chiến sự ác liệt nhất trong cuộc chiến tranh chống lấn chiếm biên giới phía Bắc 1984-1989. Trong vòng 4 tháng (4/1984 – 8/1984), Việt Nam đã loại khỏi vòng chiến đấu khoảng 7.500 quân Trung Quốc."
+  },
+  {
+    "ten": "Chi tiết Khởi nghĩa ở quận Nhật Nam ",
+    "thoiGian": "137",
+    "noiDung": "Dân và quân lính ở ba quận miền Nam Giao Chỉ khởi nghĩa. Từ đầu năm 137, nhân dân cả quận Nhật Nam nổi dậy, quân số chừng vài nghìn người, đánh phá chính quyền đô hộ nhà Hán ở Nhật Nam."
+  },
+  {
+    "ten": "Quốc hiệu Đại Nam ",
+    "thoiGian": "1838 ",
+    "noiDung": "Vương triều Nguyễn, quốc hiệu Việt Nam tồn tại trong thời gian 34 năm (1804 – 1838). Sau khi lên nối nghiệp vua Gia Long, vua Minh Mạng đã cho thay đổi quốc hiệu Đại Nam vào năm Minh Mạng thứ 19 (1838). Sự kiện này được phản ánh trong mộc bản triều Nguyễn và được xác nhận bằng một văn bản quan trọng là bản Dụ của vua Minh Mạng bố cáo cho toàn thần dân trong nước và các nước đều biết."
+  },
+  {
+    "ten": "Chi tiết Khoảng 14 vạn năm trước: Phát hiện răng người vượn ở hang Thẩm Ồm ",
+    "thoiGian": "Quỳ Châu, Nghệ An",
+    "noiDung": "Ở hang Thẩm Ồm (Quỳ Châu, Nghệ An) có răng người vượn cùng với xương và răng của các động vật thuộc thế Cánh tân như voi răng kiếm, gấu tre, đười ươi lùn… Ở đây cũng đã tìm thấy răng vượn khổng lồ."
+  },
+  {
+    "ten": "Chi tiết Vua Quang Trung đại phá quân Thanh",
+    "thoiGian": "",
+    "noiDung": ""
+  }
+]
