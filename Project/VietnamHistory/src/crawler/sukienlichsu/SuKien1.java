@@ -100,34 +100,34 @@ public class SuKien1 extends GetData {
 			s.setDiaDiem(CaoDiaDiem(ten, thoi_gian));
 			ThoiKy t = new ThoiKy();
 			if(i>=6 && i<=9) {
-				t.setTen("Thời đại đồ đá cũ");
+				t.setTen("THỜI ĐẠI ĐỒ ĐÁ CŨ");
 				s.setThoiKy(t);
 			}else if(i>=10 && i<=14) {
-				t.setTen("Thời đại đồ đá mới");
+				t.setTen("THỜI ĐẠI ĐỒ ĐÁ MỚI");
 				s.setThoiKy(t);
 			}else if(i>=15 && i<=17) {
-				t.setTen("Thời đại đồ đồng đá");
+				t.setTen("THỜI ĐẠI ĐỒ ĐỒNG ĐÁ");
 				s.setThoiKy(t);
 			}else if(i>=18 && i<=19) {
 				t.setTen("Thời đại đồ đồng");
 				s.setThoiKy(t);
 			}else if(i>=20 && i<=23) {
-				t.setTen("Thời đại đồ sắt");
+				t.setTen("THỜI ĐẠI ĐỒ ĐỒNG");
 				s.setThoiKy(t);
 			}else if(i>=24 && i<=26) {
-				t.setTen("Thời sơ sử");
+				t.setTen("THỜI SƠ SỬ");
 				s.setThoiKy(t);
 			}else if(i>=27 && i<=53) {
-				t.setTen("Thời Bắc thuộc");
+				t.setTen("THỜI KỲ ĐẤU TRANH CHỐNG PHONG KIẾN PHƯƠNG BẮC");
 				s.setThoiKy(t);
 			}else if(i>=54 && i<=162) {
-				t.setTen("Thời phong kiến độc lập");
+				t.setTen("THỜI PHONG KIẾN ĐỘC LẬP");
 				s.setThoiKy(t);
 			}else if(i>=163 && i<=205) {
-				t.setTen("Việt Nam Dân chủ Cộng hòa");
+				t.setTen("VIỆT NAM DÂN CHỦ CỘNG HÒA");
 				s.setThoiKy(t);
 			}else if(i>=206 && i<=222) {
-				t.setTen("Cộng hòa xã hội chủ nghĩa Việt Nam");
+				t.setTen("CỘNG HOÀ XÃ HỘI CHỦ NGHĨA VIỆT NAM");
 				s.setThoiKy(t);
 			}
 			s.setNoiDung(null);
