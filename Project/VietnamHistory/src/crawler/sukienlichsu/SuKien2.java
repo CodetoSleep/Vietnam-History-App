@@ -27,7 +27,6 @@ public class SuKien2 extends GetData {
 
 	@Override
 	public void scraping() throws IOException {
-		// TODO Auto-generated method stub
 		processPage(url);
 		for(int i=0; i<SK2Links.size(); i++) {
 			SuKienLichSu s = new SuKienLichSu();
@@ -64,12 +63,13 @@ public class SuKien2 extends GetData {
 
     public void printLinks(Elements links) {
         for (Element link : links) {
-            String linkText = link.text();
+            // String linkText = link.text();
             String linkUrl = link.attr("href");
             SK2Links.add(linkUrl);
             
         }
     }
+	
     private String CaoThoiGian(String input) {
 	    StringBuilder result = new StringBuilder();
 	    int openParenthesisCount = 0;

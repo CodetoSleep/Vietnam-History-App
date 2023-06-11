@@ -3,15 +3,15 @@ package crawler.lehoi;
 import java.io.IOException;
 
 import crawler.util.datain.GetData;
-import javax.swing.text.html.parser.Element;
+// import javax.swing.text.html.parser.Element;
 
 import org.jsoup.select.Elements;
 
-import crawler.util.datain.GetData;
+// import crawler.util.datain.GetData;
 import model.lehoi.LeHoi;
 import java.util.ArrayList;
-import model.nhanvatlichsu.NhanVatLichSu;
-import crawler.util.datain.GetData;
+// import model.nhanvatlichsu.NhanVatLichSu;
+// import crawler.util.datain.GetData;
 
 public class LeHoi3 extends GetData {
 	private ArrayList<LeHoi> leHoi;
@@ -58,7 +58,7 @@ public class LeHoi3 extends GetData {
 		LeHoi3 leHoi3 = new LeHoi3();
 		leHoi3.scraping();
 		ArrayList<LeHoi> content = leHoi3.getLeHoi();
-		ArrayList<NhanVatLichSu> in;
+		// ArrayList<NhanVatLichSu> in;
 		for (LeHoi s : content) {
 			System.out.println();
 			System.out.println("ten:" + s.getTen());
@@ -68,7 +68,4 @@ public class LeHoi3 extends GetData {
 		}
 
 	}
-	
-	
-	
 }

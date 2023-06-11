@@ -128,7 +128,7 @@ public class NhanVatLichSuFull implements IWriteJson, ICombine {
 
 	@Override
 	public void WriteJson() throws IOException {
-		String filePath = "src/crawler/test/nvls.json";
+		String filePath = "src/data/nhanvatlichsu/nhanVatLichSu.json";
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 		try {
 			FileWriter writer = new FileWriter(filePath);

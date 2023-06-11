@@ -104,7 +104,7 @@ public class Vua1 extends GetData {
 	}
 
 	public void WriteJson() throws IOException {
-		String filePath = "src/crawler/test/vua.json";
+		String filePath = "src/data/nhanvatlichsu/vua.json";
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 		try {
 			FileWriter writer = new FileWriter(filePath);
@@ -119,10 +119,10 @@ public class Vua1 extends GetData {
 		Vua1 vua = new Vua1();
 		vua.scraping();
 		ArrayList<Vua> content = vua.getVua();
-		for(Vua e: content){
-			System.out.println(e.getTen());
-			System.out.println(e.getNamTriVi());
-		}
+		// for(Vua e: content){
+		// 	System.out.println(e.getTen());
+		// 	System.out.println(e.getNamTriVi());
+		// }
 		System.out.println("So luong: " + content.size());
 
 		vua.WriteJson();

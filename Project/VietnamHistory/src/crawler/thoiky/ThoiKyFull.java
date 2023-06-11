@@ -123,7 +123,7 @@ public class ThoiKyFull implements IWriteJson, ICombine {
 
 	@Override
 	public void WriteJson() throws IOException {
-		String filePath = "src/crawler/test/thoiKy.json";
+		String filePath = "src/data/thoiky/thoiKy.json";
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 		try {
 			FileWriter writer = new FileWriter(new File(filePath));

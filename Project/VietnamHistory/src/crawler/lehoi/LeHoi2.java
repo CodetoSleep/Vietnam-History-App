@@ -3,11 +3,11 @@ package crawler.lehoi;
 import java.io.IOException;
 
 import crawler.util.datain.GetData;
-import javax.swing.text.html.parser.Element;
+// import javax.swing.text.html.parser.Element;
 
 import org.jsoup.select.Elements;
 
-import crawler.util.datain.GetData;
+// import crawler.util.datain.GetData;
 import model.lehoi.LeHoi;
 import java.util.ArrayList;
 import model.nhanvatlichsu.NhanVatLichSu;;

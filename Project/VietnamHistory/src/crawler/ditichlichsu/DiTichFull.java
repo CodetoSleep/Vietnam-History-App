@@ -21,7 +21,7 @@ import model.nhanvatlichsu.NhanVatLichSu;
 public class DiTichFull implements IWriteJson, ICombine {
 	List<JSONObject> ditichFullList = new ArrayList<>();
 	private ArrayList<DiTichLichSu> ditichlichsu;
-	private ArrayList<NhanVatLichSu> nvls;
+	// private ArrayList<NhanVatLichSu> nvls;
 	public DiTichFull(){
 		this.ditichlichsu = new ArrayList<>();
 	}
@@ -32,7 +32,6 @@ public class DiTichFull implements IWriteJson, ICombine {
 
 	@Override
 	public void Combine() throws IOException {
-		// TODO Auto-generated method stub
 //		DiTichLichSu data = new DiTichLichSu();
 
 		String relic2Content = new String(Files.readAllBytes(Paths.get("Project/VietnamHistory/src/data/ditichlichsu/relic2.json")));
@@ -56,7 +55,7 @@ public class DiTichFull implements IWriteJson, ICombine {
 //			ditichlichsu.add(diTichLichSu);
 
 
-			NhanVatLichSu person = new NhanVatLichSu();
+			// NhanVatLichSu person = new NhanVatLichSu();
 			DiTichLichSu data = new DiTichLichSu();
 
 
@@ -84,7 +83,7 @@ public class DiTichFull implements IWriteJson, ICombine {
 //				ditichlichsu.add(diTichLichSu);
 
 
-				ArrayList<NhanVatLichSu> nvls = new ArrayList<>();
+				// ArrayList<NhanVatLichSu> nvls = new ArrayList<>();
 
 				data.setTen(obj2.getString("ten"));
 				data.setDiaDiem(obj2.getString("diaDiem"));

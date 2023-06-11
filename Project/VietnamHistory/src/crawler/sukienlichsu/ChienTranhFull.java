@@ -20,7 +20,6 @@ public class ChienTranhFull implements ICombine, IWriteJson{
 	}
 	@Override
 	public void WriteJson() throws IOException {
-		// TODO Auto-generated method stub
 		String filePath = "src/data/sukienlichsu/ChienTranh.json";
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 		try {
@@ -34,7 +33,6 @@ public class ChienTranhFull implements ICombine, IWriteJson{
 
 	@Override
 	public void Combine() throws IOException {
-		// TODO Auto-generated method stub
 		chientranh1 = new ChienTranh1();
 		chientranh1.scraping();
 		chienTranhFull = chientranh1.getCTVN();

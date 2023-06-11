@@ -4,31 +4,30 @@ import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 
-import crawler.thoiky.ThoiKyFull;
-import crawler.util.datain.GetData;
-import javax.swing.text.html.parser.Element;
+// import crawler.thoiky.ThoiKyFull;
+// import crawler.util.datain.GetData;
+// import javax.swing.text.html.parser.Element;
 
-import org.jsoup.select.Elements;
+// import org.jsoup.select.Elements;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
 
-import crawler.util.datain.GetData;
 import model.lehoi.LeHoi;
 import java.util.ArrayList;
-import model.nhanvatlichsu.NhanVatLichSu;
-import model.thoiky.ThoiKy;
-import crawler.util.datain.GetData;
+// import model.nhanvatlichsu.NhanVatLichSu;
+// import model.thoiky.ThoiKy;
+// import crawler.util.datain.GetData;
 
 import crawler.util.dataout.ICombine;
 import crawler.util.dataout.IWriteJson;
 
 public class LeHoiFull implements IWriteJson, ICombine {
 	private ArrayList<LeHoi> leHoiFull;
-	private String ten;
-	private String thoiGian;
-	private String diaDiem;
-	private String noiDung;
+	// private String ten;
+	// private String thoiGian;
+	// private String diaDiem;
+	// private String noiDung;
 	
 	public LeHoiFull(){
 		leHoiFull = new ArrayList<LeHoi>();
@@ -63,7 +62,7 @@ public class LeHoiFull implements IWriteJson, ICombine {
 
 	@Override
 	public void WriteJson() throws IOException {
-		String filePath = "src/crawler/test/leHoi.json";
+		String filePath = "src/data/lehoi/leHoi.json";
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 		try {
 			FileWriter writer = new FileWriter(new File(filePath));

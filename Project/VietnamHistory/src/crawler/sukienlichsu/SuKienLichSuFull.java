@@ -23,7 +23,6 @@ public class SuKienLichSuFull implements ICombine, IWriteJson {
 
 	@Override
 	public void Combine() throws IOException {
-		// TODO Auto-generated method stub
 		sukien1 = new SuKien1();
 		sukien1.scraping();
 		suKienFull = sukien1.getList();
@@ -35,7 +34,6 @@ public class SuKienLichSuFull implements ICombine, IWriteJson {
 
 	@Override
 	public void WriteJson() throws IOException {
-		// TODO Auto-generated method stub
 		String filePath = "src/data/sukienlichsu/SuKien.json";
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 		try {

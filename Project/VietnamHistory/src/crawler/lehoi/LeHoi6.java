@@ -3,19 +3,12 @@ package crawler.lehoi;
 import java.io.IOException;
 
 import crawler.util.datain.GetData;
-import javax.swing.text.html.parser.Element;
 
-import org.jsoup.Jsoup;
-import org.jsoup.nodes.Document;
 import org.jsoup.select.Elements;
 
-import crawler.util.datain.GetData;
 import model.lehoi.LeHoi;
 import java.util.ArrayList;
-import model.nhanvatlichsu.NhanVatLichSu;
-import crawler.util.datain.GetData;
 
-import crawler.util.datain.GetData;
 
 public class LeHoi6 extends GetData {
 	private ArrayList<LeHoi> leHoi;

@@ -2,20 +2,17 @@ package crawler.sukienlichsu;
 import model.thoiky.*;
 import model.sukienlichsu.*;
 import java.io.IOException;
-import java.io.File;
-import java.io.FileWriter;
+// import java.io.File;
+// import java.io.FileWriter;
 
 import java.util.ArrayList;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
+// import com.google.gson.Gson;
+// import com.google.gson.GsonBuilder;
 
 import crawler.util.datain.GetData;
-
-
-
 
 public class SuKien1 extends GetData {
 	private ArrayList<SuKienLichSu> NienBieuLichSu = new ArrayList<SuKienLichSu>();
@@ -81,7 +78,6 @@ public class SuKien1 extends GetData {
 
 	@Override
 	public void scraping() throws IOException {
-		// TODO Auto-generated method stub
 		String TamNhoGiaTriThoiGian = "";
 		Element noi_dung_chinh = this.doc.getElementById("bodyContent");
 		// Elements thoi_ki = noi_dung_chinh.select("h3");

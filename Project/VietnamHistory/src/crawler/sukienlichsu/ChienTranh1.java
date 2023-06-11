@@ -2,19 +2,19 @@ package crawler.sukienlichsu;
 
 import java.io.IOException;
 import model.sukienlichsu.*;
-import java.io.IOException;
-import java.io.File;
-import java.io.FileWriter;
+// import java.io.IOException;
+// import java.io.File;
+// import java.io.FileWriter;
 
 import java.util.ArrayList;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-import java.math.BigDecimal;
-import java.text.DecimalFormat;
-import java.util.regex.Pattern;
+// import com.google.gson.Gson;
+// import com.google.gson.GsonBuilder;
+// import java.math.BigDecimal;
+// import java.text.DecimalFormat;
+// import java.util.regex.Pattern;
 
 import crawler.util.datain.GetData;
 
@@ -70,7 +70,6 @@ public class ChienTranh1 extends GetData {
 
 	@Override
 	public void scraping() throws IOException {
-		// TODO Auto-generated method stub
 		Elements tables = doc.select("table");
 
         for (int i = 2; i < tables.size(); i++) {

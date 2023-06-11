@@ -3,7 +3,7 @@ package crawler.lehoi;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import javax.swing.text.html.parser.Element;
+// import javax.swing.text.html.parser.Element;
 
 import org.jsoup.select.Elements;
 
@@ -42,7 +42,7 @@ public class LeHoi1 extends GetData {
         	   
    				ArrayList<NhanVatLichSu> doiTuongList = new ArrayList<>();
    				String [] nhanVat = a.get(4).text().split("\\,");
-   				String [] p;
+   				// String [] p;
    				if(j == 10)
    				{
    					String[] newArray = new String[7];
