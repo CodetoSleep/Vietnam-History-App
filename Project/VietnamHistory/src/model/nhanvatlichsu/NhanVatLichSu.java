@@ -10,7 +10,7 @@ public class NhanVatLichSu {
 	private String namSinh;
 	private String namMat;
 	private String queQuan;
-	private ArrayList<ThoiKy> thoiKy;
+	private ArrayList<ThoiKy> thoiKy = new ArrayList<>();
 	private String ghiChu;
 
 	public NhanVatLichSu(String ten, String tenKhac, String namSinh, String namMat, String queQuan,
