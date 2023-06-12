@@ -6,10 +6,10 @@ import java.util.ArrayList;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import crawler.util.datain.GetData;
+import crawler.util.datain.AGetData;
 import model.thoiky.ThoiKy;
 
-public class ThoiKy1 extends GetData {
+public class ThoiKy1 extends AGetData {
 	private ArrayList<ThoiKy> thoiKy;
 	
 	public ThoiKy1() {

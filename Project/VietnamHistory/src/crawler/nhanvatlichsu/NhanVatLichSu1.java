@@ -6,13 +6,13 @@ import java.util.ArrayList;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import crawler.util.datain.GetData;
+import crawler.util.datain.AGetData;
 import model.nhanvatlichsu.NhanVatLichSu;
 import model.thoiky.ThoiKy;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Element;
 
-public class NhanVatLichSu1 extends GetData {
+public class NhanVatLichSu1 extends AGetData {
 	private static ArrayList<NhanVatLichSu> list = new ArrayList<>();
 	private NhanVatLichSu nvls;
 

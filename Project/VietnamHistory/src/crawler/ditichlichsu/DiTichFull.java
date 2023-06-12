@@ -31,7 +31,7 @@ public class DiTichFull implements IWriteJson, ICombine {
 	}
 
 	@Override
-	public void Combine() throws IOException {
+	public void combine() throws IOException {
 //		DiTichLichSu data = new DiTichLichSu();
 
 		String relic2Content = new String(Files.readAllBytes(Paths.get("Project/VietnamHistory/src/data/ditichlichsu/relic2.json")));
@@ -140,7 +140,7 @@ public class DiTichFull implements IWriteJson, ICombine {
 
 
 	@Override
-	public void WriteJson() throws IOException {
+	public void writeJson() throws IOException {
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 		try (FileWriter file = new FileWriter("Project/VietnamHistory/src/data/ditichlichsu/DiTich.json")) {
 
@@ -164,8 +164,8 @@ public class DiTichFull implements IWriteJson, ICombine {
 
 	public static void main(String[] args) throws IOException {
 		DiTichFull ditichfull = new DiTichFull();
-		ditichfull.Combine();
-		ditichfull.WriteJson();
+		ditichfull.combine();
+		ditichfull.writeJson();
 		ArrayList<DiTichLichSu> content = ditichfull.getDitichlichsu();
 		for(DiTichLichSu e: content){
 			System.out.println(e.getTen());

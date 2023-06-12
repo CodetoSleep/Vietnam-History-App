@@ -5,22 +5,22 @@ package crawler.ditichlichsu;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import crawler.util.datain.GetData;
+import crawler.util.datain.AGetData;
 
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Ditich1 extends GetData {
+public class DiTich1 extends AGetData {
 	public static List<JSONObject> ditich2List;
 
 
-	public Ditich1(){
+	public DiTich1(){
 
 	}
 
-	public Ditich1(String url) {
+	public DiTich1(String url) {
 		this.setUrl(url);
 		connect();
 		ditich2List = new ArrayList<>();
@@ -95,9 +95,9 @@ public class Ditich1 extends GetData {
 
 	public static void main(String[] args) throws IOException {
 		String url = "https://vi.wikipedia.org/wiki/Danh_s%C3%A1ch_Di_t%C3%ADch_qu%E1%BB%91c_gia_Vi%E1%BB%87t_Nam";
-		Ditich1 ditich1 = new Ditich1(url);
-		ditich1.connect(); // Connect to the URL
-		ditich1.scraping(); // Perform scraping
+		DiTich1 diTich1 = new DiTich1(url);
+		diTich1.connect(); // Connect to the URL
+		diTich1.scraping(); // Perform scraping
 
 
 		try (FileWriter file = new FileWriter("Project/VietnamHistory/src/data/ditichlichsu/relic2.json")) {

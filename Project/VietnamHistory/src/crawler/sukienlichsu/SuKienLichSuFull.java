@@ -22,7 +22,7 @@ public class SuKienLichSuFull implements ICombine, IWriteJson {
 
 
 	@Override
-	public void Combine() throws IOException {
+	public void combine() throws IOException {
 		sukien1 = new SuKien1();
 		sukien1.scraping();
 		suKienFull = sukien1.getList();
@@ -33,7 +33,7 @@ public class SuKienLichSuFull implements ICombine, IWriteJson {
 	}
 
 	@Override
-	public void WriteJson() throws IOException {
+	public void writeJson() throws IOException {
 		String filePath = "src/data/sukienlichsu/SuKien.json";
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 		try {
@@ -46,8 +46,8 @@ public class SuKienLichSuFull implements ICombine, IWriteJson {
 	}
 	public static void main(String[] args) throws IOException {
 		SuKienLichSuFull t = new SuKienLichSuFull();
-		t.Combine();
-		t.WriteJson();
+		t.combine();
+		t.writeJson();
 	}
 
 }

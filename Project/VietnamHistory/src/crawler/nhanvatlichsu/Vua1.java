@@ -10,8 +10,8 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.ArrayList;
 
-import crawler.util.datain.GetData;
-public class Vua1 extends GetData {
+import crawler.util.datain.AGetData;
+public class Vua1 extends AGetData {
 	private ArrayList<Vua> vua;
 
 	public Vua1() {

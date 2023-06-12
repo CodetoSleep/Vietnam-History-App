@@ -75,7 +75,7 @@ public class NhanVatLichSuFull implements IWriteJson, ICombine {
 	}
 
 	@Override
-	public void Combine() throws IOException {
+	public void combine() throws IOException {
 		int pageIndex = 1;
 		String urlFirstHalf = "https://vansu.vn/viet-nam/viet-nam-nhan-vat/";
 		while (pageIndex <= 2300) {
@@ -127,7 +127,7 @@ public class NhanVatLichSuFull implements IWriteJson, ICombine {
 	}
 
 	@Override
-	public void WriteJson() throws IOException {
+	public void writeJson() throws IOException {
 		String filePath = "src/data/nhanvatlichsu/nhanVatLichSu.json";
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 		try {
@@ -141,7 +141,7 @@ public class NhanVatLichSuFull implements IWriteJson, ICombine {
 
 	public static void main(String[] args) throws IOException {
 		NhanVatLichSuFull nvF = new NhanVatLichSuFull();
-		nvF.Combine();
-		nvF.WriteJson();
+		nvF.combine();
+		nvF.writeJson();
 	}
 }

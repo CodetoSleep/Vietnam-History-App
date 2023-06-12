@@ -19,7 +19,7 @@ public class ChienTranhFull implements ICombine, IWriteJson{
 		chienTranhFull = new ArrayList<ChienTranh>();
 	}
 	@Override
-	public void WriteJson() throws IOException {
+	public void writeJson() throws IOException {
 		String filePath = "src/data/sukienlichsu/ChienTranh.json";
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 		try {
@@ -32,7 +32,7 @@ public class ChienTranhFull implements ICombine, IWriteJson{
 	}
 
 	@Override
-	public void Combine() throws IOException {
+	public void combine() throws IOException {
 		chientranh1 = new ChienTranh1();
 		chientranh1.scraping();
 		chienTranhFull = chientranh1.getCTVN();
@@ -45,7 +45,7 @@ public class ChienTranhFull implements ICombine, IWriteJson{
 	}
 	public static void main(String[] args) throws IOException {
 		ChienTranhFull t = new ChienTranhFull();
-		t.Combine();
-		t.WriteJson();
+		t.combine();
+		t.writeJson();
 	}
 }

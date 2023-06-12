@@ -16,34 +16,34 @@ public class ProcessFull implements ICombine {
     }
     
     @Override
-    public void Combine() throws IOException{
+    public void combine() throws IOException{
         ThoiKyFull thoiKyFull = new ThoiKyFull();
-        thoiKyFull.Combine();
-        thoiKyFull.WriteJson();
+        thoiKyFull.combine();
+        thoiKyFull.writeJson();
 
         NhanVatLichSuFull nhanVatLichSuFull = new NhanVatLichSuFull();
-        nhanVatLichSuFull.Combine();
-        nhanVatLichSuFull.WriteJson();
+        nhanVatLichSuFull.combine();
+        nhanVatLichSuFull.writeJson();
 
         SuKienLichSuFull suKienLichSuFull = new SuKienLichSuFull();
-        suKienLichSuFull.Combine();
-        suKienLichSuFull.WriteJson();
+        suKienLichSuFull.combine();
+        suKienLichSuFull.writeJson();
 
         ChienTranhFull chienTranhFull = new ChienTranhFull();
-        chienTranhFull.Combine();
-        chienTranhFull.WriteJson();
+        chienTranhFull.combine();
+        chienTranhFull.writeJson();
 
         DiTichFull diTichFull = new DiTichFull();
-        diTichFull.Combine();
-        diTichFull.WriteJson();
+        diTichFull.combine();
+        diTichFull.writeJson();
 
         LeHoiFull leHoiFull = new LeHoiFull();
-        leHoiFull.Combine();
-        leHoiFull.WriteJson();
+        leHoiFull.combine();
+        leHoiFull.writeJson();
     }
 
     public static void main(String[] args) throws IOException {
         ProcessFull prc = new ProcessFull();
-        prc.Combine();
+        prc.combine();
     }
 }

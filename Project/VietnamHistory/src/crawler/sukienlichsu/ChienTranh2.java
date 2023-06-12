@@ -7,9 +7,9 @@ import java.util.ArrayList;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import crawler.util.datain.GetData;
+import crawler.util.datain.AGetData;
 
-public class ChienTranh2 extends GetData {
+public class ChienTranh2 extends AGetData {
     private ArrayList<ChienTranh> chientranh2 = new ArrayList<ChienTranh>(100);
     private ArrayList<String> CT2Links = new ArrayList<>(100);
 

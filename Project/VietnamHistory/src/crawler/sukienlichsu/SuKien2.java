@@ -11,8 +11,8 @@ import org.jsoup.select.Elements;
 
 
 
-import crawler.util.datain.GetData;
-public class SuKien2 extends GetData {
+import crawler.util.datain.AGetData;
+public class SuKien2 extends AGetData {
     private ArrayList<SuKienLichSu> sukien2 = new ArrayList<SuKienLichSu>(180);
     private ArrayList<String> SK2Links = new ArrayList<>(180);
 	public ArrayList<SuKienLichSu> getSuKien2(){

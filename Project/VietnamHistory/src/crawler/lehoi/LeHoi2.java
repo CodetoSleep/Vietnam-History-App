@@ -2,7 +2,7 @@ package crawler.lehoi;
 
 import java.io.IOException;
 
-import crawler.util.datain.GetData;
+import crawler.util.datain.AGetData;
 // import javax.swing.text.html.parser.Element;
 
 import org.jsoup.select.Elements;
@@ -12,7 +12,7 @@ import model.lehoi.LeHoi;
 import java.util.ArrayList;
 import model.nhanvatlichsu.NhanVatLichSu;;
 
-public class LeHoi2 extends GetData {
+public class LeHoi2 extends AGetData {
 	private ArrayList<LeHoi> leHoi;
 
 	public LeHoi2() {

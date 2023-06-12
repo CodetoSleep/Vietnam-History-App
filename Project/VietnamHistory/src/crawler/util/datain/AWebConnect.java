@@ -5,11 +5,11 @@ import java.io.IOException;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
-public abstract class WebConnect {
+public abstract class AWebConnect {
 	protected Document doc;
 	protected String url;
 	
-	public WebConnect() {
+	public AWebConnect() {
 		
 	}
 	

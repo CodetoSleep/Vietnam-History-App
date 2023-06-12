@@ -16,11 +16,11 @@ import org.jsoup.select.Elements;
 // import java.text.DecimalFormat;
 // import java.util.regex.Pattern;
 
-import crawler.util.datain.GetData;
+import crawler.util.datain.AGetData;
 
 
 
-public class ChienTranh1 extends GetData {
+public class ChienTranh1 extends AGetData {
 	private ArrayList<ChienTranh> CTVN;
 	public ChienTranh1() {
 		String url = "https://vi.m.wikipedia.org/wiki/C%C3%A1c_cu%E1%BB%99c_chi%E1%BA%BFn_tranh_Vi%E1%BB%87t_Nam_tham_gia";

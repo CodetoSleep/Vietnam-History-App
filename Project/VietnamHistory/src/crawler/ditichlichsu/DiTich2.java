@@ -8,9 +8,9 @@ import java.util.List;
 import org.json.JSONObject;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-import crawler.util.datain.GetData;
+import crawler.util.datain.AGetData;
 
-public class DiTich2 extends GetData {
+public class DiTich2 extends AGetData {
 	private String name, Type, address;
 //	private String Figure;
 	private String TypeOfRank, RecordYear, Rank;

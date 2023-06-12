@@ -12,9 +12,9 @@ import org.jsoup.select.Elements;
 // import com.google.gson.Gson;
 // import com.google.gson.GsonBuilder;
 
-import crawler.util.datain.GetData;
+import crawler.util.datain.AGetData;
 
-public class SuKien1 extends GetData {
+public class SuKien1 extends AGetData {
 	private ArrayList<SuKienLichSu> NienBieuLichSu = new ArrayList<SuKienLichSu>();
 	
 	public ArrayList<SuKienLichSu> getList(){

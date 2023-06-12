@@ -6,11 +6,11 @@ import java.util.ArrayList;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import crawler.util.datain.GetData;
+import crawler.util.datain.AGetData;
 import model.nhanvatlichsu.Vua;
 import model.thoiky.ThoiKy;
 
-public class CacDoiVua extends GetData {
+public class CacDoiVua extends AGetData {
 	private ArrayList<ThoiKy> thoiKy;
 	
 	public CacDoiVua() {

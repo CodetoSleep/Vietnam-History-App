@@ -25,7 +25,7 @@ public class ThoiKyFull implements IWriteJson, ICombine {
 
 
 	@Override
-	public void Combine() throws IOException {
+	public void combine() throws IOException {
 		thoiKy1 = new ThoiKy1();
 		thoiKy1.scraping();
 		thoiKyFull = thoiKy1.getThoiKy();
@@ -122,7 +122,7 @@ public class ThoiKyFull implements IWriteJson, ICombine {
 	}
 
 	@Override
-	public void WriteJson() throws IOException {
+	public void writeJson() throws IOException {
 		String filePath = "src/data/thoiky/thoiKy.json";
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 		try {
@@ -136,8 +136,8 @@ public class ThoiKyFull implements IWriteJson, ICombine {
 	
 	public static void main(String[] args) throws IOException {
 		ThoiKyFull t = new ThoiKyFull();
-		t.Combine();
-		t.WriteJson();
+		t.combine();
+		t.writeJson();
 	}
 
 }

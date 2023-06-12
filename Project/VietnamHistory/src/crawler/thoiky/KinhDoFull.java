@@ -5,10 +5,10 @@ import java.io.IOException;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-import crawler.util.datain.GetData;
+import crawler.util.datain.AGetData;
 import model.thoiky.ThoiKy;
 
-public class KinhDoFull extends GetData {
+public class KinhDoFull extends AGetData {
     private String tenTrieuDai;
     private String capital;
 

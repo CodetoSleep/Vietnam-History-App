@@ -34,7 +34,7 @@ public class LeHoiFull implements IWriteJson, ICombine {
 	}
 
 
-	public void Combine() throws IOException {
+	public void combine() throws IOException {
 		LeHoi1 leHoi1 = new LeHoi1();
 		leHoi1.scraping();
 		leHoiFull.addAll(leHoi1.getLeHoi());
@@ -61,7 +61,7 @@ public class LeHoiFull implements IWriteJson, ICombine {
 	}
 
 	@Override
-	public void WriteJson() throws IOException {
+	public void writeJson() throws IOException {
 		String filePath = "src/data/lehoi/leHoi.json";
 		Gson gson = new GsonBuilder().setPrettyPrinting().create();
 		try {
@@ -75,8 +75,8 @@ public class LeHoiFull implements IWriteJson, ICombine {
 	
 	public static void main(String[] args) throws IOException {
 		LeHoiFull t = new LeHoiFull();
-		t.Combine();
-		t.WriteJson();
+		t.combine();
+		t.writeJson();
 	}
 
 

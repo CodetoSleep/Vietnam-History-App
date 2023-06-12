@@ -7,10 +7,10 @@ import java.util.ArrayList;
 
 import org.jsoup.select.Elements;
 
-import crawler.util.datain.GetData;
+import crawler.util.datain.AGetData;
 import model.lehoi.LeHoi;
 import model.nhanvatlichsu.NhanVatLichSu;
-public class LeHoi1 extends GetData {
+public class LeHoi1 extends AGetData {
 	private ArrayList<LeHoi> leHoi;
 
 	public LeHoi1() {
