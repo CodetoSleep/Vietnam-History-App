@@ -11,10 +11,8 @@ public class ThoiKy {
 	private String quocHieu;
 	private String kinhDo;
 	private ArrayList<Vua> cacDoiVua = new ArrayList<Vua>();
-	private String congTrinh;
-	
 	public ThoiKy(String ten, String thoiGianTonTai, Vua nguoiSangLap, String quocHieu, String kinhDo,
-			ArrayList<Vua> cacDoiVua, String congTrinh) {
+			ArrayList<Vua> cacDoiVua) {
 		super();
 		this.setTen(ten);
 		this.setThoiGianTonTai(thoiGianTonTai);
@@ -22,7 +20,6 @@ public class ThoiKy {
 		this.setQuocHieu(quocHieu);
 		this.setKinhDo(kinhDo);
 		this.setCacDoiVua(cacDoiVua);
-		this.setCongTrinh(congTrinh);
 	}
 
 	public ThoiKy(String ten) {
@@ -79,14 +76,6 @@ public class ThoiKy {
 
 	public void setCacDoiVua(ArrayList<Vua> cacDoiVua) {
 		this.cacDoiVua = cacDoiVua;
-	}
-
-	public String getCongTrinh() {
-		return congTrinh;
-	}
-
-	public void setCongTrinh(String congTrinh) {
-		this.congTrinh = congTrinh;
 	}
 	
 }
