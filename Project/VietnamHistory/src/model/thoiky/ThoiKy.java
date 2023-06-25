@@ -1,7 +1,6 @@
 package model.thoiky;
 
 import java.util.ArrayList;
-
 import model.nhanvatlichsu.Vua;
 
 public class ThoiKy {
@@ -11,6 +10,7 @@ public class ThoiKy {
 	private String quocHieu;
 	private String kinhDo;
 	private ArrayList<Vua> cacDoiVua = new ArrayList<Vua>();
+	
 	public ThoiKy(String ten, String thoiGianTonTai, Vua nguoiSangLap, String quocHieu, String kinhDo,
 			ArrayList<Vua> cacDoiVua) {
 		super();
@@ -77,5 +77,4 @@ public class ThoiKy {
 	public void setCacDoiVua(ArrayList<Vua> cacDoiVua) {
 		this.cacDoiVua = cacDoiVua;
 	}
-	
 }

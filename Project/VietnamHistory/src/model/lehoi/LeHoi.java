@@ -1,7 +1,6 @@
 package model.lehoi;
 
 import java.util.ArrayList;
-
 import model.nhanvatlichsu.NhanVatLichSu;
 
 public class LeHoi {
@@ -24,9 +23,6 @@ public class LeHoi {
 	public LeHoi(String ten) {
 		super();
 		this.setTen(ten);
-	}
-	
-	public LeHoi() {
 	}
 
 	public String getTen() {
@@ -68,5 +64,4 @@ public class LeHoi {
 	public void setNhanVatLienQuan(ArrayList<NhanVatLichSu> nhanVatLienQuan) {
 		this.nhanVatLienQuan = nhanVatLienQuan;
 	}
-	
 }

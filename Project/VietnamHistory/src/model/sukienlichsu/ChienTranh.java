@@ -10,9 +10,6 @@ public class ChienTranh extends SuKienLichSu {
     private String benThuNhat;
     private String benThuHai;
        
-    public ChienTranh(){
-    }
-       
 	public ChienTranh(String ten, String thoiGian, String diaDiem, ThoiKy thoiKy, String noiDung,
 			ArrayList<NhanVatLichSu> nhanVatLienQuan, String ketQua, String benThuNhat, String benThuHai) {
 		super(ten, thoiGian, diaDiem, thoiKy, noiDung, nhanVatLienQuan);
@@ -20,23 +17,28 @@ public class ChienTranh extends SuKienLichSu {
 		this.setBenThuNhat(benThuNhat);
 		this.setBenThuHai(benThuHai);
 	}
+	
 	public String getKetQua() {
 		return ketQua;
 	}
+	
 	public void setKetQua(String ketQua) {
 		this.ketQua = ketQua;
 	}
+	
 	public String getBenThuNhat() {
 		return benThuNhat;
 	}
+	
 	public void setBenThuNhat(String benThuNhat) {
 		this.benThuNhat = benThuNhat;
 	}
+	
 	public String getBenThuHai() {
 		return benThuHai;
 	}
+	
 	public void setBenThuHai(String benThuHai) {
 		this.benThuHai = benThuHai;
-	}
-       
+	} 
 }

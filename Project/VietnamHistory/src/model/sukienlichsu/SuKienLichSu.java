@@ -5,7 +5,6 @@ import model.thoiky.*;
 import model.nhanvatlichsu.*;
 
 public class SuKienLichSu {
-	
 	private String ten;
 	private String thoiGian;
 	private String diaDiem;
@@ -23,7 +22,9 @@ public class SuKienLichSu {
 		this.setNoiDung(noiDung);
 		this.setNhanVatLienQuan(nhanVatLienQuan);
 	}
+	
 	public SuKienLichSu(){
+		
 	}
 
 	public String getTen() {

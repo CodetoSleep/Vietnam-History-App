@@ -97,5 +97,4 @@ public class NhanVatLichSu {
 	public void setGhiChu(String ghiChu) {
 		this.ghiChu = ghiChu;
 	}
-	
 }

@@ -31,6 +31,7 @@ public class DiTichLichSu {
 	}
 
 	public DiTichLichSu() {
+		
 	}
 
 	public String getTen() {
@@ -88,5 +89,4 @@ public class DiTichLichSu {
 	public void setXepHang(String xepHang) {
 		this.xepHang = xepHang;
 	}
-
 }

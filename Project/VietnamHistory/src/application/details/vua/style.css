@@ -1,0 +1,14 @@
+.root {
+    -fx-background-image: url('../..//images/background_ngaivang.jpg');
+    -fx-background-size: cover;
+}
+
+.text-color {
+    -fx-text-fill: white;
+    -fx-font-size: 20px;
+}
+
+.border-style {
+    -fx-border-color: #000000; 
+    -fx-border-width: 2px; 
+}

@@ -1,0 +1,81 @@
+#pnlHomepage { 
+	-fx-background-image: url('images/background_home.jpg');
+	-fx-background-size: cover;
+}
+
+#borderPane {
+	-fx-background-image: url('images/background_home.jpg');
+	-fx-background-size: cover;
+}
+
+#text {
+  	-fx-effect : dropshadow(two-pass-box,black, 10, 10, 0, 0);
+  	-fx-text-fill: #e8d422
+}
+
+.button {
+	-fx-background-color : #000000;
+	-fx-text-fill: #ffffff;
+	-fx-font-weight: 700;
+}
+
+.button:hover {
+	-fx-background-color : #ffffff;
+	-fx-text-fill: #111111
+}
+
+/*
+.button:pressed {
+	-fx-background-color : #777777;
+}
+*/
+
+.table-view {
+    -fx-background-color: transparent; 
+    -fx-border-color: #cbcbcb;
+}
+
+.table-column {
+    -fx-alignment: CENTER;
+    -fx-text-fill: #f0e68c;
+}
+
+.table-row-cell {
+    -fx-background-color: rgba(0,0,0,0.7);
+    -fx-font-weight: bold;
+    -fx-cursor: hand;
+}
+
+.table-row-cell:hover{
+    -fx-background-color: rgba(8, 8, 8, 0.97);
+}
+
+/*
+.scroll-pane {
+    -fx-background-color: #111111;
+}
+
+.scroll-bar:horizontal, .scroll-bar:vertical {
+    -fx-background-color:transparent;
+}
+
+.increment-button, .decrement-button {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+}
+
+.scroll-bar:horizontal .track, .scroll-bar:vertical .track {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-background-radius: 0em;
+}
+
+.scroll-bar:horizontal .thumb, .scroll-bar:vertical .thumb {
+    -fx-background-color: #2f2f2f;
+    -fx-background-radius: 5em;
+}
+
+.scroll-pane > .corner {
+    -fx-background-color: black;
+} 
+*/
