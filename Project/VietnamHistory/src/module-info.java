@@ -1,15 +1,17 @@
 module VietnamHistory {
     requires javafx.controls;
     requires javafx.fxml;
-	requires gson;
-	requires java.sql;
-	requires javafx.graphics;
+    requires gson;
+    requires java.sql;
+    requires javafx.graphics;
+	
     exports application;
     exports model.ditichlichsu;
     exports model.lehoi;
     exports model.nhanvatlichsu;
     exports model.sukienlichsu;
     exports model.thoiky;
+	
     opens model.ditichlichsu to gson;
     opens model.lehoi to gson;
     opens model.nhanvatlichsu to gson;
