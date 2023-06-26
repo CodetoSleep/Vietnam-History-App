@@ -10,6 +10,10 @@ public class LeHoi {
 	private String noiDung;
 	private ArrayList<NhanVatLichSu> nhanVatLienQuan;
 	
+	public LeHoi() {
+		super();
+	}
+	
 	public LeHoi(String ten, String thoiGian, String diaDiem, String noiDung,
 			ArrayList<NhanVatLichSu> nhanVatLienQuan) {
 		super();

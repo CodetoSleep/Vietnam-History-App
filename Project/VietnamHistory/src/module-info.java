@@ -4,6 +4,8 @@ module VietnamHistory {
     requires gson;
     requires java.sql;
     requires javafx.graphics;
+	requires org.json;
+	requires org.jsoup;
 	
     exports application;
     exports model.ditichlichsu;

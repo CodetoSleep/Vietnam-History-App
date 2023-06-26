@@ -31,7 +31,7 @@ public class DiTichLichSu {
 	}
 
 	public DiTichLichSu() {
-		
+		super();
 	}
 
 	public String getTen() {

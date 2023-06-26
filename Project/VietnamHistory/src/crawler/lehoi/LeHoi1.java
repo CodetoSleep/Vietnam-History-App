@@ -10,6 +10,7 @@ import org.jsoup.select.Elements;
 import crawler.util.datain.AGetData;
 import model.lehoi.LeHoi;
 import model.nhanvatlichsu.NhanVatLichSu;
+
 public class LeHoi1 extends AGetData {
 	private ArrayList<LeHoi> leHoi;
 
@@ -82,26 +83,26 @@ public class LeHoi1 extends AGetData {
 		}
 
 
-	public static void main(String[] args) throws IOException {
-		LeHoi1 leHoi1 = new LeHoi1();
-		leHoi1.scraping();
-		ArrayList<LeHoi> content = leHoi1.getLeHoi();
-		ArrayList<NhanVatLichSu> in;
-		for (LeHoi s : content) {
-			System.out.println();
-			System.out.println("ten:" + s.getTen());
-			System.out.println("dia diem:" + s.getDiaDiem());
-			System.out.println("thoi gian:" + s.getThoiGian());
-			System.out.println("noi dung:" + s.getNoiDung());
-			in = s.getNhanVatLienQuan() ;
-			int m = 1;
-			for(NhanVatLichSu k : in)
-			{
-				System.out.println("nhan vat " + m + ":" + k.getTen());
-				m++;
-			}
-		}
-
-	}
+//	public static void main(String[] args) throws IOException {
+//		LeHoi1 leHoi1 = new LeHoi1();
+//		leHoi1.scraping();
+//		ArrayList<LeHoi> content = leHoi1.getLeHoi();
+//		ArrayList<NhanVatLichSu> in;
+//		for (LeHoi s : content) {
+//			System.out.println();
+//			System.out.println("ten:" + s.getTen());
+//			System.out.println("dia diem:" + s.getDiaDiem());
+//			System.out.println("thoi gian:" + s.getThoiGian());
+//			System.out.println("noi dung:" + s.getNoiDung());
+//			in = s.getNhanVatLienQuan() ;
+//			int m = 1;
+//			for(NhanVatLichSu k : in)
+//			{
+//				System.out.println("nhan vat " + m + ":" + k.getTen());
+//				m++;
+//			}
+//		}
+//
+//	}
 	
 }

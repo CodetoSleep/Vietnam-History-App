@@ -9,8 +9,6 @@ import java.util.ArrayList;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
-
-
 import crawler.util.datain.AGetData;
 public class SuKien2 extends AGetData {
     private ArrayList<SuKienLichSu> sukien2 = new ArrayList<SuKienLichSu>(180);
@@ -114,16 +112,16 @@ public class SuKien2 extends AGetData {
             System.out.println();
         }
     }*/
-	public static void main(String[] args) throws IOException{
-		SuKien2 test = new SuKien2();
-		test.scraping();
-		ArrayList<SuKienLichSu> content = test.getSuKien2();
-		for (SuKienLichSu s : content) {
-			System.out.println(s.getTen());
-			System.out.println(s.getThoiGian());
-			System.out.println(s.getNoiDung());
-		}
-    }
+//	public static void main(String[] args) throws IOException{
+//		SuKien2 test = new SuKien2();
+//		test.scraping();
+//		ArrayList<SuKienLichSu> content = test.getSuKien2();
+//		for (SuKienLichSu s : content) {
+//			System.out.println(s.getTen());
+//			System.out.println(s.getThoiGian());
+//			System.out.println(s.getNoiDung());
+//		}
+//    }
 	
 	
 }

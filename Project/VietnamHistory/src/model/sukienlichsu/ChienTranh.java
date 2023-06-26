@@ -18,6 +18,10 @@ public class ChienTranh extends SuKienLichSu {
 		this.setBenThuHai(benThuHai);
 	}
 	
+	public ChienTranh() {
+		super();
+	}
+	
 	public String getKetQua() {
 		return ketQua;
 	}
