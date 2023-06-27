@@ -1,6 +1,10 @@
 package application.details.chientranh;
 
+import java.io.File;
 import java.io.InputStream;
+import java.net.MalformedURLException;
+import java.net.URL;
+
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
 import javafx.scene.control.Label;
@@ -31,9 +35,14 @@ public class ChienTranhDetails {
 	    imageView.setPickOnBounds(true);
 	    imageView.setStyle("-fx-border-color: white; -fx-border-width: 5px; -fx-effect : dropshadow(one-pass-box,white, 5, 5, 0, 0);");
 	    
-	    InputStream inputStream = getClass().getResourceAsStream("/application/images/dienbienphu.jpg");
-	    Image image = new Image(inputStream);
-	    imageView.setImage(image);
+	    URL imageURL = null;
+		try {
+			imageURL = new File("src/application/images/dienbienphu.jpg").toURI().toURL();
+		} catch (MalformedURLException e) {
+			e.printStackTrace();
+		}
+		Image image = new Image(imageURL.toExternalForm());
+		imageView.setImage(image);
 	
 	    GridPane gridPane = new GridPane();
 	    gridPane.setLayoutX(170);
@@ -103,7 +112,14 @@ public class ChienTranhDetails {
 	    root.getChildren().addAll(imageView, gridPane);
 	
 	    Scene scene = new Scene(root,1100,600);
-	    scene.getStylesheets().add(getClass().getResource("style.css").toExternalForm());
+	    
+	    URL cssURL = null;
+		try {
+			cssURL = new File("src/application/details/chientranh/style.css").toURI().toURL();
+		} catch (MalformedURLException e) {
+			e.printStackTrace();
+		}
+        scene.getStylesheets().add(cssURL.toExternalForm());
 	    stage.setScene(scene);
 	    stage.show();
 	}

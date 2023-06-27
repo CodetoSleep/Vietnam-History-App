@@ -1,5 +1,8 @@
 package application;
 
+import java.io.File;
+import java.net.URL;
+
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
 import javafx.scene.Parent;
@@ -11,9 +14,11 @@ public class Main extends Application {
     private double x, y;
     @Override
     public void start(Stage primaryStage) throws Exception {
-        Parent root = FXMLLoader.load(getClass().getResource("Home.fxml"));
+    	URL fxmlURL = new File("src/application/Home.fxml").toURI().toURL();
+    	Parent root = FXMLLoader.load(fxmlURL);
         Scene scene = new Scene(root);
-		scene.getStylesheets().add(getClass().getResource("style.css").toExternalForm());
+        URL cssURL = new File("src/application/style.css").toURI().toURL();
+        scene.getStylesheets().add(cssURL.toExternalForm());
         primaryStage.setScene(scene); 
         
         // Set stage borderless

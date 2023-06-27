@@ -1,6 +1,9 @@
 package application.details.ditich;
 
+import java.io.File;
 import java.io.InputStream;
+import java.net.MalformedURLException;
+import java.net.URL;
 import java.util.ArrayList;
 
 import javafx.collections.ObservableList;
@@ -36,9 +39,14 @@ public class DiTichDetails {
         imageView.setPickOnBounds(true);
         imageView.setStyle("-fx-border-color: white; -fx-border-width: 5px; -fx-effect : dropshadow(one-pass-box,white, 5, 5, 0, 0);");
         
-        InputStream inputStream = getClass().getResourceAsStream("/application/images/relic.jpg");
-        Image image = new Image(inputStream);
-        imageView.setImage(image);
+        URL imageURL = null;
+		try {
+			imageURL = new File("src/application/images/relic.jpg").toURI().toURL();
+		} catch (MalformedURLException e) {
+			e.printStackTrace();
+		}
+		Image image = new Image(imageURL.toExternalForm());
+		imageView.setImage(image);
 
         GridPane gridPane = new GridPane();
         gridPane.setLayoutX(488);
@@ -136,7 +144,14 @@ public class DiTichDetails {
         root.getChildren().addAll(imageView, gridPane);
 
         Scene scene = new Scene(root,1100,600);
-        scene.getStylesheets().add(getClass().getResource("style.css").toExternalForm());
+        
+        URL cssURL = null;
+		try {
+			cssURL = new File("src/application/details/ditich/style.css").toURI().toURL();
+		} catch (MalformedURLException e) {
+			e.printStackTrace();
+		}
+        scene.getStylesheets().add(cssURL.toExternalForm());
         stage.setScene(scene);
         stage.show();
 	}

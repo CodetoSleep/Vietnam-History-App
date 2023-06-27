@@ -1,6 +1,8 @@
 package application.details.vua;
 
-import java.io.InputStream;
+import java.io.File;
+import java.net.MalformedURLException;
+import java.net.URL;
 import javafx.geometry.Insets;
 import javafx.scene.Scene;
 import javafx.scene.control.Label;
@@ -30,9 +32,14 @@ public class VuaDetails {
         imageView.setPreserveRatio(true);
         imageView.setStyle("-fx-border-color: white; -fx-border-width: 5px; -fx-effect : dropshadow(one-pass-box,white, 5, 5, 0, 0);");
         
-        InputStream inputStream = getClass().getResourceAsStream("/application/images/vuabaodai.jpg");
-        Image image = new Image(inputStream);
-        imageView.setImage(image);
+        URL imageURL = null;
+		try {
+			imageURL = new File("src/application/images/vuabaodai.jpg").toURI().toURL();
+		} catch (MalformedURLException e) {
+			e.printStackTrace();
+		}
+		Image image = new Image(imageURL.toExternalForm());
+		imageView.setImage(image);
 
         GridPane gridPane = new GridPane();
         gridPane.setLayoutX(450.0);
@@ -120,7 +127,14 @@ public class VuaDetails {
         root.getChildren().addAll(imageView, gridPane);
 
         Scene scene = new Scene(root, 1100, 600);
-        scene.getStylesheets().add(getClass().getResource("style.css").toExternalForm());
+        
+        URL cssURL = null;
+		try {
+			cssURL = new File("src/application/details/vua/style.css").toURI().toURL();
+		} catch (MalformedURLException e) {
+			e.printStackTrace();
+		}
+        scene.getStylesheets().add(cssURL.toExternalForm());
         stage.setScene(scene);
         stage.show();
     }
