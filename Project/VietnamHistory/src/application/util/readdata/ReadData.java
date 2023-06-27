@@ -1,4 +1,4 @@
-package application.readdata;
+package application.util.readdata;
 
 import java.io.FileReader;
 import java.io.IOException;

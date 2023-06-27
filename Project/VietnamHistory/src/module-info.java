@@ -7,7 +7,7 @@ module VietnamHistory {
 	requires org.json;
 	requires org.jsoup;
 	
-    exports application;
+    exports application.main;
     exports model.ditichlichsu;
     exports model.lehoi;
     exports model.nhanvatlichsu;
@@ -19,5 +19,5 @@ module VietnamHistory {
     opens model.nhanvatlichsu to gson;
     opens model.sukienlichsu to gson;
     opens model.thoiky to gson;
-    opens application to javafx.fxml;
+    opens application.main to javafx.fxml;
 }

@@ -1,10 +1,10 @@
 #pnlHomepage { 
-	-fx-background-image: url('images/background_home.jpg');
+	-fx-background-image: url('../images/background_home.jpg');
 	-fx-background-size: cover;
 }
 
 #borderPane {
-	-fx-background-image: url('images/background_home.jpg');
+	-fx-background-image: url('../images/background_home.jpg');
 	-fx-background-size: cover;
 }
 

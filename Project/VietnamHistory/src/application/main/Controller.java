@@ -1,4 +1,4 @@
-package application;
+package application.main;
 
 import java.io.IOException;
 import java.net.MalformedURLException;
@@ -29,8 +29,8 @@ import application.details.nhanvatlichsu.NhanVatDetails;
 import application.details.sukien.SuKienDetails;
 import application.details.vua.VuaDetails;
 import application.details.thoiky.ThoiKyDetails;
-import application.readdata.ReadData;
-import application.search.Search;
+import application.util.readdata.ReadData;
+import application.util.search.Search;
 
 public class Controller {
     @FXML

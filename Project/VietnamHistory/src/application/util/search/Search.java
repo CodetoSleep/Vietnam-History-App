@@ -1,4 +1,4 @@
-package application.search;
+package application.util.search;
 
 import java.lang.reflect.InvocationTargetException;
 

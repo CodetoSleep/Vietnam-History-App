@@ -18,7 +18,7 @@
 <?import javafx.scene.paint.Color?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1100.0" style="-fx-background-color: #ffffff;" stylesheets="@style.css" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Controller">
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="1100.0" style="-fx-background-color: #ffffff;" stylesheets="@style.css" xmlns="http://javafx.com/javafx/20.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.main.Controller">
    <children>
       <VBox alignment="TOP_CENTER" layoutX="16.0" layoutY="10.0" prefHeight="554.0" prefWidth="240.0" style="-fx-background-color: #000000; -fx-background-radius: 1em; -fx-border-radius: 1em;" stylesheets="@style.css" AnchorPane.bottomAnchor="10.0" AnchorPane.topAnchor="10.0">
          <children>
@@ -27,13 +27,13 @@
                   <Insets top="10.0" />
                </VBox.margin>
                <image>
-                  <Image url="@images/covietnam.jpg" />
+                  <Image url="@../images/covietnam.jpg" />
                </image></ImageView>
             <Button fx:id="btnHomepage" alignment="BASELINE_LEFT" graphicTextGap="22.0" mnemonicParsing="false" onAction="#handleClicks" prefHeight="47.0" prefWidth="256.0" stylesheets="@style.css" text="Trang Chủ" textFill="#111111">
                <graphic>
                   <ImageView fitHeight="23.0" fitWidth="27.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@images/icons_Home.png" />
+                        <Image url="@../images/icons_Home.png" />
                      </image>
                   </ImageView>
                </graphic>
@@ -51,7 +51,7 @@
                <graphic>
                   <ImageView fitHeight="23.0" fitWidth="27.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@images/icons_Person.png" />
+                        <Image url="@../images/icons_Person.png" />
                      </image>
                   </ImageView>
                </graphic>
@@ -63,7 +63,7 @@
                <graphic>
                   <ImageView fitHeight="23.0" fitWidth="27.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@images/icons_Person.png" />
+                        <Image url="@../images/icons_Person.png" />
                      </image>
                   </ImageView>
                </graphic>
@@ -75,7 +75,7 @@
                <graphic>
                   <ImageView fitHeight="23.0" fitWidth="27.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@images/icons_Box.png" />
+                        <Image url="@../images/icons_Box.png" />
                      </image>
                   </ImageView>
                </graphic>
@@ -87,7 +87,7 @@
                <graphic>
                   <ImageView fitHeight="23.0" fitWidth="27.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@images/icons_Xbox.png" />
+                        <Image url="@../images/icons_Xbox.png" />
                      </image>
                   </ImageView>
                </graphic>
@@ -99,7 +99,7 @@
                <graphic>
                   <ImageView fitHeight="23.0" fitWidth="27.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@images/icons_Slider.png" />
+                        <Image url="@../images/icons_Slider.png" />
                      </image>
                   </ImageView>
                </graphic>
@@ -111,7 +111,7 @@
                <graphic>
                   <ImageView fitHeight="23.0" fitWidth="27.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@images/icons_Sign_Out.png" />
+                        <Image url="@../images/icons_Sign_Out.png" />
                      </image>
                   </ImageView>
                </graphic>
@@ -123,7 +123,7 @@
                <graphic>
                   <ImageView fitHeight="23.0" fitWidth="27.0" pickOnBounds="true" preserveRatio="true">
                      <image>
-                        <Image url="@images/icons_Xbox.png" />
+                        <Image url="@../images/icons_Xbox.png" />
                      </image>
                   </ImageView>
                </graphic>
@@ -165,7 +165,7 @@
                                  <graphic>
                                     <ImageView fitHeight="21.0" fitWidth="20.0" pickOnBounds="true" preserveRatio="true">
                                        <image>
-                                          <Image url="@images/search_icon.jpg" />
+                                          <Image url="@../images/search_icon.jpg" />
                                        </image>
                                     </ImageView>
                                  </graphic>
