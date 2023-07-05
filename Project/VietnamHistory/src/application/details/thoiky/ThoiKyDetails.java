@@ -103,7 +103,13 @@ public class ThoiKyDetails {
         Label thoiGianTonTai = new Label("- Thời Gian Tồn Tại: " + curSelect.getThoiGianTonTai());
         Label kinhDo = new Label("- Kinh Đô: " + curSelect.getKinhDo());
         Label quocHieu = new Label("- Quốc Hiệu: " + curSelect.getQuocHieu());
-        Label nguoiSangLap = new Label("- Người Sáng Lập: " + curSelect.getNguoiSangLap().getTen());
+        Label nguoiSangLap = new Label();
+        if (curSelect.getNguoiSangLap() != null) {
+        	nguoiSangLap = new Label("- Người Sáng Lập: " + curSelect.getNguoiSangLap().getTen());
+        }
+        else {
+        	nguoiSangLap = new Label("- Người Sáng Lâp: Không có");
+        }
         String strVua = "";
         ArrayList<Vua> newVua = new ArrayList<Vua>();
         for (int i = 0; i < curSelect.getCacDoiVua().size(); i++) {

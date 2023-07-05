@@ -85,7 +85,13 @@ public class SuKienDetails {
         Label ten = new Label("- Tên Sự Kiện: " + curSelect.getTen());
         Label thoiGian = new Label("- Thời Gian Diễn Ra: " + curSelect.getThoiGian());
         Label diaDiem = new Label("- Địa Điểm Xảy Ra: " + curSelect.getDiaDiem());
-        Label thoiKy = new Label("- Thời Kỳ: " + curSelect.getThoiKy().getTen());
+        Label thoiKy = new Label();
+        if(curSelect.getThoiKy() != null) {
+        	thoiKy = new Label("- Thời Kỳ: " + curSelect.getThoiKy().getTen());
+        }
+        else {
+        	thoiKy = new Label("- Thời Kỳ:  Không rõ");
+        }
         
         ten.getStyleClass().add("text-color");
         thoiGian.getStyleClass().add("text-color");

@@ -117,7 +117,7 @@ public class NhanVatDetails {
                 if (curSelect.getThoiKy().get(i).getTen().toLowerCase()
                         .indexOf(listThoiKy.get(j).getTen().toLowerCase()) != -1) {
                     newThoiKy.add(listThoiKy.get(j));
-                    System.out.println(listThoiKy.get(j).getNguoiSangLap().getTen());
+//                    System.out.println(listThoiKy.get(j).getNguoiSangLap().getTen());
                 }
             }
         }

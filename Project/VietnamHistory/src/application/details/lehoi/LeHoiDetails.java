@@ -97,16 +97,22 @@ public class LeHoiDetails {
         Label noiDung = new Label("- Nội Dung: " + curSelect.getNoiDung());
         String strNhanVatLienQuan = "";
         ArrayList<NhanVatLichSu> newNhanVat = new ArrayList<NhanVatLichSu>();
-        for (int i = 0; i < curSelect.getNhanVatLienQuan().size(); i++) {
-            strNhanVatLienQuan += curSelect.getNhanVatLienQuan().get(i).getTen() + ",";
-            for (int j = 0; j < listNhanVat.size(); j++) {
-                if (curSelect.getNhanVatLienQuan().get(i).getTen().toLowerCase().indexOf(listNhanVat.get(j).getTen().toLowerCase()) != -1) {
-                    newNhanVat.add(listNhanVat.get(j));
-                }
-            }
+        Label nhanVatLienQuan = new Label();
+        if (curSelect.getNhanVatLienQuan() != null) {
+	        for (int i = 0; i < curSelect.getNhanVatLienQuan().size(); i++) {
+	            strNhanVatLienQuan += curSelect.getNhanVatLienQuan().get(i).getTen() + ",";
+	            for (int j = 0; j < listNhanVat.size(); j++) {
+	                if (curSelect.getNhanVatLienQuan().get(i).getTen().toLowerCase().indexOf(listNhanVat.get(j).getTen().toLowerCase()) != -1) {
+	                    newNhanVat.add(listNhanVat.get(j));
+	                }
+	            }
+	        }
+	        curSelect.setNhanVatLienQuan(newNhanVat);
+	        nhanVatLienQuan = new Label("- Nhân Vật Liên Quan: " + (strNhanVatLienQuan == "" ? "Không có" : strNhanVatLienQuan));
         }
-        curSelect.setNhanVatLienQuan(newNhanVat);
-        Label nhanVatLienQuan = new Label("- Nhân Vật Liên Quan: " + (strNhanVatLienQuan == "" ? "Không có" : strNhanVatLienQuan));
+        else {
+        	nhanVatLienQuan = new Label("- Nhân Vật Liên Quan: Không có");
+        }
 
         ten.getStyleClass().add("text-color");
         thoiGian.getStyleClass().add("text-color");
