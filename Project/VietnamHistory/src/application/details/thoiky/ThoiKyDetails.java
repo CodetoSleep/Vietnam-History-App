@@ -42,7 +42,7 @@ public class ThoiKyDetails {
         
         URL imageURL = null;
 		try {
-			imageURL = new File("src/application/images/bandovietnam.jpg").toURI().toURL();
+			imageURL = new File("Project/VietnamHistory/src/application/images/bandovietnam.jpg").toURI().toURL();
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
 		}
@@ -145,7 +145,7 @@ public class ThoiKyDetails {
         
         URL cssURL = null;
 		try {
-			cssURL = new File("src/application/details/thoiky/style.css").toURI().toURL();
+			cssURL = new File("Project/VietnamHistory/src/application/details/thoiky/style.css").toURI().toURL();
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
 		}

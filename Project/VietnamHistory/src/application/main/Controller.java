@@ -69,19 +69,19 @@ public class Controller {
     // Swap between pages 
     public void handleClicks(ActionEvent actionEvent) throws IOException {
     	ObservableList<NhanVatLichSu> listObservablesNhanVatLichSu = new ReadData<NhanVatLichSu>()
-                .FromJsonToArray("src/data/nhanvatlichsu/nhanVatLichSu.json", NhanVatLichSu.class);
+                .FromJsonToArray("Project/VietnamHistory/src/data/nhanvatlichsu/nhanVatLichSu.json", NhanVatLichSu.class);
     	ObservableList<Vua> listObservablesVua = new ReadData<Vua>()
-                .FromJsonToArray("src/data/nhanvatlichsu/vua.json", Vua.class);
+                .FromJsonToArray("Project/VietnamHistory/src/data/nhanvatlichsu/vua.json", Vua.class);
     	ObservableList<ThoiKy> listObservablesThoiKy = new ReadData<ThoiKy>()
-                .FromJsonToArray("src/data/thoiky/thoiKy.json", ThoiKy.class);
+                .FromJsonToArray("Project/VietnamHistory/src/data/thoiky/thoiKy.json", ThoiKy.class);
     	ObservableList<SuKienLichSu> listObservablesSuKienLichSu = new ReadData<SuKienLichSu>()
-                .FromJsonToArray("src/data/sukienlichsu/SuKien.json", SuKienLichSu.class);
+                .FromJsonToArray("Project/VietnamHistory/src/data/sukienlichsu/SuKien.json", SuKienLichSu.class);
     	ObservableList<ChienTranh> listObservablesChienTranh = new ReadData<ChienTranh>()
-                .FromJsonToArray("src/data/sukienlichsu/ChienTranh.json", ChienTranh.class);
+                .FromJsonToArray("Project/VietnamHistory/src/data/sukienlichsu/ChienTranh.json", ChienTranh.class);
     	ObservableList<LeHoi> listObservablesLeHoi = new ReadData<LeHoi>()
-                .FromJsonToArray("src/data/lehoi/leHoi.json", LeHoi.class);
+                .FromJsonToArray("Project/VietnamHistory/src/data/lehoi/leHoi.json", LeHoi.class);
     	ObservableList<DiTichLichSu> listObservablesDiTichLichSu = new ReadData<DiTichLichSu>()
-                .FromJsonToArray("src/data/ditichlichsu/DiTich.json", DiTichLichSu.class);
+                .FromJsonToArray("Project/VietnamHistory/src/data/ditichlichsu/DiTich.json", DiTichLichSu.class);
     	
         if (actionEvent.getSource() == btnHomepage) {
             pnlHomepage.toFront();

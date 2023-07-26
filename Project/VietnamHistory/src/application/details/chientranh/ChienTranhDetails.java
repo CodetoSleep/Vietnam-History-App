@@ -37,7 +37,7 @@ public class ChienTranhDetails {
 	    
 	    URL imageURL = null;
 		try {
-			imageURL = new File("src/application/images/dienbienphu.jpg").toURI().toURL();
+			imageURL = new File("Project/VietnamHistory/src/application/images/dienbienphu.jpg").toURI().toURL();
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
 		}
@@ -115,7 +115,7 @@ public class ChienTranhDetails {
 	    
 	    URL cssURL = null;
 		try {
-			cssURL = new File("src/application/details/chientranh/style.css").toURI().toURL();
+			cssURL = new File("Project/VietnamHistory/src/application/details/chientranh/style.css").toURI().toURL();
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
 		}

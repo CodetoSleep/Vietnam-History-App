@@ -34,7 +34,7 @@ public class VuaDetails {
         
         URL imageURL = null;
 		try {
-			imageURL = new File("src/application/images/vuabaodai.jpg").toURI().toURL();
+			imageURL = new File("Project/VietnamHistory/src/application/images/vuabaodai.jpg").toURI().toURL();
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
 		}
@@ -130,7 +130,7 @@ public class VuaDetails {
         
         URL cssURL = null;
 		try {
-			cssURL = new File("src/application/details/vua/style.css").toURI().toURL();
+			cssURL = new File("Project/VietnamHistory/src/application/details/vua/style.css").toURI().toURL();
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
 		}

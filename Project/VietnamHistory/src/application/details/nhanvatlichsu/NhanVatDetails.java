@@ -39,7 +39,7 @@ public class NhanVatDetails {
         
         URL imageURL = null;
 		try {
-			imageURL = new File("src/application/images/nhanvatLS.jpg").toURI().toURL();
+			imageURL = new File("Project/VietnamHistory/src/application/images/nhanvatLS.jpg").toURI().toURL();
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
 		}
@@ -148,7 +148,7 @@ public class NhanVatDetails {
         
         URL cssURL = null;
 		try {
-			cssURL = new File("src/application/details/nhanvatlichsu/style.css").toURI().toURL();
+			cssURL = new File("Project/VietnamHistory/src/application/details/nhanvatlichsu/style.css").toURI().toURL();
 		} catch (MalformedURLException e) {
 			e.printStackTrace();
 		}
