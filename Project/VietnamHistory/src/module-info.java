@@ -6,7 +6,7 @@ module VietnamHistory {
     requires javafx.graphics;
 	requires org.json;
 	requires org.jsoup;
-	
+
     exports application.main;
     exports model.ditichlichsu;
     exports model.lehoi;
