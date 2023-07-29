@@ -13,7 +13,7 @@ In this project, we build an app to consult for history figures, traditional fes
     <li>After choosing an option, the users can see the list of this information and also a search bar so that users can easily find out what they want</li>
 </ul>
 
-![Alt text](Materials/Vua page.png?raw=true "Title")
+![Alt text](Materials/Vua_page.png?raw=true "Title")
 
 <ul>
     <li>When choosing an object in the list, all the information about this object will appear</li>
